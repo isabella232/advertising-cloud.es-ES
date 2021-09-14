@@ -3,9 +3,9 @@ title: Macros de Advertising Cloud DSP
 description: Haga referencia a las macros disponibles para el seguimiento general y para rastrear los clics en anuncios en pantalla de terceros.
 feature: Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: e0166dbad4fec41fdc64a65cb3a8ac97496c681f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,9 @@ Si falta una macro de clic al crear un anuncio en pantalla, DSP muestra un mensa
 >[!MORELIKETHIS]
 >
 >* [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Configuración de anuncios de TV conectados](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Mostrar configuración de publicidad](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Configuración de publicidad móvil](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Configuración de anuncios nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Configuración de anuncio previo a la emisión](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
 
