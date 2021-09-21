@@ -2,8 +2,8 @@
 title: Segmentos de estado aceptables para Adobe Advertising Cloud
 description: Consulte las directrices para segmentos de audiencia relacionados con el estado aceptables y las tácticas para utilizarlos como alternativas para segmentar segmentos de audiencia relacionados con el estado.
 feature: Policies
-exl-id: c3f68457-92c6-472a-93f4-cce9aeaecc53
-source-git-commit: f4e87cc6ad39338f5df0b14d2aa9e43e6016cf8e
+exl-id: null
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%

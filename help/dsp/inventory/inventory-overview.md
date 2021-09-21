@@ -1,9 +1,9 @@
 ---
 title: Descripción general de las funciones de inventario en Advertising Cloud DSP
 description: Obtenga más información sobre las funciones de inventario disponibles.
-feature: On Demand Inventory, Private Inventory, Deal IDs
+feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%

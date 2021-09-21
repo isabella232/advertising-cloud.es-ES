@@ -1,9 +1,9 @@
 ---
 title: Suscribirse y solicitar acceso a  [!DNL On Demand] Ofertas de inventario Premium
 description: Obtenga información sobre cómo suscribirse a ofertas[!DNL On Demand] y solicitar acceso a ellas.
-feature: On Demand Inventory
+feature: DSP On Demand Inventory
 exl-id: e66e5bad-526e-4b71-8072-332dd173f105
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%

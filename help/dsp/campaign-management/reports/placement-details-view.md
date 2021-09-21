@@ -1,9 +1,9 @@
 ---
 title: Ver los detalles de sitios, anuncios y frecuencia de una colocación
 description: Obtenga información sobre cómo ver los sitios, las publicidades y los datos de frecuencia de destino de una ubicación.
-feature: Placements
+feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%

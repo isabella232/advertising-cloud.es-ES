@@ -1,9 +1,9 @@
 ---
 title: Enumerar las ubicaciones asociadas a una publicidad
 description: Obtenga información sobre cómo ver las ubicaciones asociadas a una publicidad.
-feature: Ads
+feature: DSP Ads
 exl-id: 82c4f1b4-56fd-411f-a027-3f93ffb3867b
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

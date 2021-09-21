@@ -1,9 +1,9 @@
 ---
 title: Administrar visualizaciones de datos
 description: Obtenga información sobre cómo cambiar las métricas y el modo de visualización para las visualizaciones de datos.
-feature: Campaign Management
+feature: DSP Campaign Data Views
 exl-id: f557ddfc-9a20-4cbc-8ad3-230ba5df32e3
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

@@ -1,9 +1,9 @@
 ---
 title: Prácticas recomendadas para el diseño de superposiciones
 description: Conozca las prácticas recomendadas para diseñar superposiciones en sus publicidades.
-feature: Ads, Best Practices
+feature: DSP Ads, DSP Best Practices
 exl-id: e0511391-bbfd-42de-be65-9bfd4f8702eb
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

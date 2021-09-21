@@ -1,9 +1,9 @@
 ---
 title: Descargar la configuración de colocación de una campaña
 description: Obtenga información sobre cómo descargar la configuración de colocación de una campaña mediante hojas de cálculo de control de calidad de Excel.
-feature: Placements
+feature: DSP Placements
 exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
-source-git-commit: fcd55f882f56c9eacd82d554d30364400b99555c
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%

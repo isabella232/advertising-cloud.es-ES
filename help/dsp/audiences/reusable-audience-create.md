@@ -1,9 +1,9 @@
 ---
 title: Crear una audiencia reutilizable
 description: Aprenda a crear audiencias reutilizables compuestas por segmentos de audiencia y otras audiencias guardadas.
-feature: Audiences
+feature: DSP Audiences
 exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%

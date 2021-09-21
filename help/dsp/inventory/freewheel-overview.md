@@ -1,9 +1,9 @@
 ---
 title: Descripción general de la configuración de ofertas PG en FreeWheel
 description: 'Obtenga información sobre los requisitos previos y los pasos adicionales necesarios para ejecutar anuncios para ofertas garantizadas mediante programación con editores en FreeWheel. '
-feature: Private Inventory, Deal IDs
+feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%

@@ -1,9 +1,9 @@
 ---
 title: Política de requisitos de publicidad de Adobe Advertising Cloud
 description: Consulte la directiva para conocer los requisitos de la publicidad.
-feature: Policies, Ads
+feature: Policies, DSP Ads
 exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
-source-git-commit: 7b630c46465d149ade6b51ca5797cee745572f4b
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '2063'
 ht-degree: 0%

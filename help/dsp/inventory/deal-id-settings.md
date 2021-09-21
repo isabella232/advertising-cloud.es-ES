@@ -1,9 +1,9 @@
 ---
 title: Configuración manual del ID de trato
 description: Consulte las descripciones de la configuración para los ID de acuerdos introducidos manualmente.
-feature: Private Inventory, Deal IDs
+feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
-source-git-commit: 3dbba61766411eadbad9a8257e2930b683d0d55b
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 0%
