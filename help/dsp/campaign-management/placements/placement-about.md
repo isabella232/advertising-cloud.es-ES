@@ -3,9 +3,9 @@ title: Acerca de la administración de ubicaciones en Advertising Cloud DSP
 description: Obtenga información sobre la administración de ubicaciones.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 9d35b366122cab460e8d563b36597926ed71b6b0
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ El tablero incluye un gráfico de tendencias personalizable de alto nivel con tr
 
 El tablero también muestra de forma predeterminada las métricas de ritmo y envío por ubicación. Si lo desea, puede ver las métricas de rendimiento de las ubicaciones y crear conjuntos de columnas personalizados. Puede descargar toda la tabla de datos en la carpeta de descarga predeterminada del explorador como un informe en formato XLSM (hoja de cálculo de Excel habilitada para macros).
 
-Para cada ubicación, puede abrir una vista de detalles ([el [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)) que incluye métricas de rendimiento, métricas de ritmo y envío, y conjuntos de columnas personalizados por sitio y por anuncio; y métricas de frecuencia. También puede realizar acciones rápidas en los sitios y publicidades incluidos, como excluir un sitio o pausar una publicidad. Para abrir el Inspector, mantenga el cursor sobre la fila de colocación, haga clic en **[!UICONTROL More]** y, a continuación, haga clic en **[!UICONTROL Sites]**, **[!UICONTROL Ads]** o **[!UICONTROL Frequency]**. Puede exportar los datos de las pestañas [!UICONTROL Sites], [!UICONTROL Ads] o [!UICONTROL Frequency] a la carpeta de descarga predeterminada del explorador como un informe en formato XLSM.
+Para cada ubicación, puede abrir una vista detallada ([la [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), que incluye métricas de rendimiento, métricas de ritmo y envío, y conjuntos de columnas personalizados por sitio, anuncio e inventario; y métricas de frecuencia. También puede realizar acciones rápidas en los sitios, publicidades e inventario incluidos, como excluir un sitio, pausar una publicidad o editar una oferta. Para abrir el Inspector, mantenga el cursor sobre la fila de colocación, haga clic en **[!UICONTROL More]** y, a continuación, haga clic en **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** o **[!UICONTROL Inventory]**. Puede exportar los datos de las pestañas [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency] o [!UICONTROL Inventory] a la carpeta de descarga predeterminada del explorador como un informe en formato XLSM.
 
 >[!NOTE]
 >
