@@ -3,16 +3,16 @@ title: Ver los detalles de sitios, anuncios y frecuencia de una colocación
 description: Obtenga información sobre cómo ver los sitios, las publicidades y los datos de frecuencia de destino de una ubicación.
 feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b91255255d2718b56f41aabd8c1babe52aa32abc
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# Ver los detalles de sitios, anuncios y frecuencia de una colocación
+# Ver los detalles de sitios, anuncios, frecuencia e inventario de una colocación
 
-La [!UICONTROL Inspector] ubicación enumera todos los sitios objetivo y todos los anuncios de una ubicación. También incluye datos de frecuencia para la colocación.
+La [!UICONTROL Inspector] ubicación enumera todos los sitios, anuncios y ofertas de destino en una ubicación. También incluye datos de frecuencia para la colocación.
 
 1. Abra la vista de ubicaciones para la campaña o el paquete principal:
 
@@ -31,6 +31,7 @@ La [!UICONTROL Inspector] ubicación enumera todos los sitios objetivo y todos l
    * Para ver todos los sitios a los que está dirigida la ubicación, haga clic en **[!UICONTROL Sites]**.
    * Para ver todas las publicidades de la ubicación, haga clic en **[!UICONTROL Ads]**.
    * Para ver los datos de frecuencia de la colocación, haga clic en **[!UICONTROL Frequency]**.
+   * Para ver todas las ofertas a las que se dirige la colocación, haga clic en **[!UICONTROL Inventory]**.
 
 1. (Opcional) [Cambie la vista de columna](column-view-change.md) según sea necesario para ver las métricas requeridas.
 
