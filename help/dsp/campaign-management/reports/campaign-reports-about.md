@@ -3,9 +3,9 @@ title: Acerca de los informes en la plataforma
 description: Obtenga información sobre los datos de informes incluidos en las vistas de administración de campañas.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: c1441fb6fddf56a0f0346a967da49efa0fb602ff
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,24 @@ Para cada ubicación, puede [abrir una (vista de detalles [!UICONTROL Inspector]
    * el número único estimado de dispositivos, navegadores o personas (según el [!UICONTROL Cross Device Level] especificado para la ubicación) que recibieron impresiones en el nivel de frecuencia especificado
    * el número estimado de impresiones al nivel de frecuencia especificado
    * la frecuencia media estimada para el nivel de frecuencia especificado. Este valor es igual a (Impresiones estimadas)/(Únicas estimadas).
+
+* **[!UICONTROL Inventory]:** Información para todas las ofertas segmentadas por la colocación en una sola vista.
+
+La ficha Inventario incluye funciones de búsqueda y filtro, las mismas opciones estándar y personalizadas de vista de columna que están disponibles en la página principal y los botones de acción rápida en cada fila, como Editar y Ver informe. La pestaña Inventory ayuda a solucionar problemas rápidamente al mostrar las estadísticas de rendimiento como Subastas, Ofertas, Tasa de ganancias, etc.
+
+# Solución de problemas del inventario
+
+| Problema | Posible causa | Acciones que hay que emprender |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | El editor no ha empezado a enviar solicitudes de oferta | Póngase en contacto con el editor para activar la oferta |
+|  | Configuración de ofertas Problemas como introducir un ID de oferta externa incorrecto, etc. | Confirme los detalles de la oferta y edite la oferta |
+| [!UICONTROL Non-zero Auctions but no Bids] | El objetivo de ubicación no coincide con las solicitudes de oferta entrantes de la oferta. <br><br> Por ejemplo, la colocación puede estar dirigiéndose a una geografía diferente a la requerida según la oferta | Editar la configuración de ubicación adecuada para evitar discrepancias de objetivos con la oferta |
+|  | La colocación no tiene un anuncio activo o un tipo de medio correcto, como exige la operación | Crear/adjuntar publicidad con el tipo de medio correcto a la ubicación |
+|  | La colocación no tiene un presupuesto adecuado | Editar el presupuesto de colocación de forma adecuada para permitir la oferta en solicitudes entrantes |
+|  | Las fechas de vuelo de colocación no se superponen con las fechas de entrega de impresiones según la oferta | Editar las fechas de vuelo para la ubicación |
+| [!UICONTROL Low Win Rate] | La oferta máxima en la ubicación se establece por debajo del mínimo requerido por la oferta (mínimo o fijo) | Editar oferta máxima en una ubicación adecuada |
+|  | La ubicación utiliza filtros de oferta previa que limitan | Reduzca los umbrales de los filtros de oferta previa para permitir más ofertas |
+|  | La segmentación de audiencia en la ubicación es demasiado restrictiva | Compruebe que los objetivos de audiencia especificados tengan suficientes usuarios activos y amplíe la audiencia si es posible |
 
 ![inspector de ubicación](/help/dsp/assets/placement-inspector-sites.png)
 
