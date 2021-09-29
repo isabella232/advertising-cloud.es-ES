@@ -3,9 +3,9 @@ title: Seguridad de la marca y calidad de los medios
 description: Obtenga más información sobre la seguridad de la marca y las funciones de calidad de los medios.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 3cc617092f38d20bd01e487c985bb1d05c167506
+source-git-commit: cebe80fa8ed4f6410a7ea3ee7be6e0bf03631a49
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1266'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Además de proporcionar una gestión de calidad central, creemos en que los anun
 
 ### Verificación de inventario con compatibilidad con [!DNL Ads.txt]
 
-[[!DNL Ads.txt]], que significa [!DNL Authorized Digital Sellers](https://iabtechlab.com/ads-txt), es una iniciativa lanzada por [!DNL Interactive Advertising Bureau] ([!DNL IAB]) en junio de 2017 para facilitar la representación adecuada del inventario en el mercado abierto, combatiendo así las fuentes ilegítimas de tráfico y falsificación de dominios. Los editores y distribuidores participantes declaran públicamente las empresas autorizadas para vender su inventario digital y la naturaleza de esas relaciones, manteniendo una `ads.txt` página en el nivel superior del dominio (como `example.com/ads.txt`).
+[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) es una iniciativa lanzada por el  [!DNL Interactive Advertising Bureau] ([!DNL IAB]) en junio de 2017 para facilitar la representación adecuada del inventario en el mercado abierto, combatiendo así fuentes ilegítimas de tráfico y falsificación de dominios. Los editores y distribuidores participantes declaran públicamente las empresas autorizadas para vender su inventario digital y la naturaleza de esas relaciones, manteniendo una `ads.txt` página en el nivel superior del dominio (como `example.com/ads.txt`).
 
 DSP admite [!DNL ads.txt] leyendo el archivo `ads.txt` de cada publicador y dándole la opción de comprar solo de [!DNL ads.txt] vendedores verificados. Por ejemplo, al hacer coincidir los vendedores que vemos en el acceso `nytimes.com` al archivo `ads.txt` del New York Times, podemos identificar cuáles son legítimos y cuáles no, y bloquearemos los infractores si la ubicación está configurada para comprar solamente a vendedores verificados. <!-- can we actually mention NY Times? -->
 
