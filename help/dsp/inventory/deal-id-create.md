@@ -3,9 +3,9 @@ title: Crear manualmente detalles de ID de acuerdo
 description: Obtenga información sobre cómo introducir manualmente los detalles de un ID de acuerdo.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 7e2a52e7b0d91f9206cd6e9a6ffb41a8399abf00
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    1. En la configuración de [!UICONTROL Ad & Campaign Selection], seleccione las publicidades que se utilizarán para la oferta:
 
-      1. Seleccione el anunciante, la campaña y el tipo de publicidad.
+      1. Seleccione el anunciante, la campaña y el tipo de publicidad. De forma opcional, seleccione un estado de publicidad mediante el cual filtrar las publicidades.
 
       1. En la lista de publicidades disponibles, active la casilla de verificación situada junto a cada publicidad que se utilizará para la oferta.
 
@@ -69,3 +69,4 @@ Después de crear la oferta, puede usar la oferta como destino de inventario par
 >* [Enviar una publicidad para un acuerdo garantizado programático con [!DNL FreeWheel]](freewheel-submit.md)
 >* [Acerca de los Ofertas Garantizadas mediante Programación](programmatic-guaranteed-about.md)
 
+<!-- >* [Specify Placements and Ads for a Private Deal](private-deal-attach-placements.md)-->
