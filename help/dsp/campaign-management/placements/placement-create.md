@@ -3,7 +3,7 @@ title: Crear una colocación
 description: Aprenda a crear una colocación.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 608774723f865c22bfdd5c911ac818600a495114
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -29,7 +29,8 @@ ht-degree: 1%
    1. Especifique la configuración [!UICONTROL Basics].
 
    1. En la sección [!UICONTROL Goals], especifique [!UICONTROL Gross Budget] y, opcionalmente, especifique objetivos de ubicación adicionales.
-Algunos campos tienen valores predeterminados que se pueden anular.
+
+      Algunos campos tienen valores predeterminados que se pueden anular.
 
       Si el paquete al que se asigna la ubicación tiene un ritmo de nivel de paquete, los objetivos y la configuración de ritmo reflejarán la configuración del paquete.
 

@@ -1,34 +1,78 @@
 ---
-title: Disponible [!DNL Advanced Measurement Services]
-description: Consulte una lista de los servicios disponibles para la medición avanzada.
+title: Disponible [!DNL Advanced Measurement Solutions]
+description: Consulte una lista de las soluciones disponibles para obtener mediciones avanzadas.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: acc5b7bb719b655d8b019eee3b5783fec49af0b9
+source-git-commit: 216d316abe7fcc5bc04ae7cca211e2f11cc1e589
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
 
-# Disponible [!DNL Advanced Measurement Services]
+# Disponible [!DNL Advanced Measurement Solutions]
 
-<!-- Probably need to rename this. -->
+Los anunciantes a menudo tienen dificultades para comprender dónde se debe gastar su mejor próximo dólar de medios, o para cuantificar el impacto de sus anuncios en línea. En un entorno multimedia basado en datos, la medición de atribución proporciona una solución a este desafío. El equipo [!DNL Strategic Advertising Consulting] ayuda a los socios de marca y agencia a medir cómo los elementos de sus conexiones [!DNL Adobe] cobran vida a través de la publicidad. Con una sólida oferta de medición de atribuciones, el equipo ayuda a implementar estrategias de objetivo depuradas mediante un sofisticado marco de medición, lo que facilita a las marcas la conexión de sus decisiones de medios con resultados reales que impulsan sus negocios. El equipo puede ayudarle a:
 
-El equipo avanzado de medición y estrategia ayuda a los clientes a implementar estrategias de segmentación depuradas mediante un sofisticado marco de medición, lo que facilita a las marcas la conexión de sus decisiones de medios con métricas clave que impulsan su negocio. El equipo puede ayudarle a:
-
-* Acceder a estrategias de campaña sofisticadas depuradas por un equipo de expertos
+* Activar estudios de medición en campañas de medios digitales de canal completo
 * Implemente la narración de historias de su campaña con soluciones de informes empaquetadas
-* Evolucione su práctica publicitaria aprendiendo y mejorando a lo largo del tiempo
+* Evolucione su práctica publicitaria aprendiendo y mejorando la eficacia de las campañas a lo largo del tiempo
+
+## Paquetes de soluciones
 
 Los siguientes paquetes de soluciones de medición están disponibles para validar el éxito de sus campañas de publicidad:
 
-* Alcance y frecuencia basados en el hogar y en las personas
-* Conversiones web
-* Experimentos
-* Optimización de ventas sin conexión
-* Medición del tráfico de pies de página
-* Medición de transacciones y perspectivas
-* Alcance en el segmento
-* Encuestas basadas en paneles
-* Paso del archivo de exposición
+* Alcance, frecuencia y conversiones basados en el hogar
 
-Para obtener más información sobre cómo aprovechar los servicios de medición avanzados para crear un programa de aprendizaje personalizado para su campaña, póngase en contacto con el equipo de Adobe [!DNL Client Services].
+   Comprender el alcance total de la campaña a nivel del hogar, así como la contribución de las pantallas individuales.
+
+   Opciones de informes:
+   * Informes de TV conectada (CTV)
+   * Incrementalidad de la aplicación CTV
+   * Informes en pantalla cruzada (digital y CTV)
+   * Informes Plus en pantalla cruzada (digital, CTV y TV)
+   * Alcance y frecuencia del segmento digital
+
+* Alcance basado en personas
+Comprenda cómo las audiencias y las tácticas se superponen en el nivel de la persona, incluida la exposición en varios entornos digitales, como escritorio, móvil, nativo y audio.
+
+* ・	[!DNL Dynata] Encuestas basadas en paneles
+Realice estudios de control/exposición para determinar el efecto de la exposición de la publicidad en métricas como la conciencia, la familiaridad y la intención.
+
+* Tráfico de pies
+
+   Comprenda la incrementalidad impulsada por la exposición a los anuncios y cómo la inversión en medios está causando cambios en el comportamiento de compra y en las visitas incrementales con métricas como el efecto de aumento, el coste por visita incremental y la perspectiva de visitas.
+
+* Perspectivas de transacciones
+
+   Enriquezca su estrategia de campaña con datos determinísticos sobre las ventas de crédito y débito a través de análisis de segmentos, mercados competitivos y compradores.
+
+* Medición de transacciones
+Determinar la influencia de la exposición publicitaria en las ventas utilizando datos sólidos y determinísticos sobre las ventas de crédito y débito.
+
+* Diseñador de experimentos (prueba A/B)
+Compare el comportamiento y la opinión de los grupos de muestra aleatorios y mutuamente excluyentes con pruebas A/B simples y limpias.
+
+## Búsqueda del ajuste de medición perfecto: Soluciones por vertical
+
+### Cualquier vertical
+* Diseñador de experimentos (prueba A/B y placebo)
+* Alcance basado en personas
+Cualquier organización que busque medir en varias tácticas digitales; organizaciones que buscan mostrar el valor del audio
+* Medición de alcance, frecuencia y conversión basada en el hogar
+Cualquier cliente que busque comprender el alcance/alcance incremental y las eficiencias y/o métricas de conversión basadas en costos en varias tácticas digitales
+* Medición de alcance, frecuencia y conversión entre pantallas
+Cualquier cliente que busque comprender el alcance/alcance incremental y las eficiencias y/o métricas de conversión basadas en costos en múltiples tácticas digitales en relación a la inversión en televisión lineal
+* Encuestas basadas en paneles de Dynata
+Cualquier cliente que busque medir la percepción y la percepción de la marca en varias pantallas; más adecuado para audiencias de nicho
+
+### QSR, minorista (ladrillo y mortero)
+* Medición de transacciones
+* Medición del tráfico de pies de página
+
+### QSR, minorista, viajes
+* Perspectivas de transacciones
+Cualquier cliente que busque llegar a un tipo particular de comprador para dirigir las ventas en tienda y en línea
+
+## Más información
+
+Para obtener más información sobre cómo aprovechar los servicios avanzados de medición para crear un programa de aprendizaje personalizado para su campaña, incluidas las restricciones regionales y los precios, póngase en contacto con el equipo de [!DNL Adobe Strategic Advertising Consultants] en [!DNL asg@adobe.com].

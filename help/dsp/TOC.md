@@ -6,9 +6,9 @@ solution: Advertising Cloud
 product: advertising cloud
 user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información sobre las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar sobre las estrategias de anuncios en pantalla mediante Advertising Cloud DSP.
-breadcrumb-title: Guía DSP
+breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: acc5b7bb719b655d8b019eee3b5783fec49af0b9
+source-git-commit: e41938befafe54da1466e8faab08f1d7a263f4e0
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 3%
@@ -35,7 +35,7 @@ ht-degree: 3%
       + [Política de requisitos de anuncios](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Directrices de segmentos de mantenimiento aceptables](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Directrices de uso de datos](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-   + [Disponible [!DNL Advanced Measurement Services]](/help/dsp/introduction/advanced-measurement-services.md)
+   + [Disponible [!DNL Advanced Measurement Solutions]](/help/dsp/introduction/advanced-measurement-services.md)
 + Administración de campañas {#campaign-management}
    + [Descripción general de la estructura de administración de campañas](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campañas {#campaigns}
