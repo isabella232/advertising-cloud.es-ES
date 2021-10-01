@@ -2,7 +2,7 @@
 title: Disponible [!DNL Advanced Measurement Solutions]
 description: Consulte una lista de las soluciones disponibles para obtener mediciones avanzadas.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 216d316abe7fcc5bc04ae7cca211e2f11cc1e589
+source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -35,8 +35,7 @@ Los siguientes paquetes de soluciones de medición están disponibles para valid
 * Alcance basado en personas
 Comprenda cómo las audiencias y las tácticas se superponen en el nivel de la persona, incluida la exposición en varios entornos digitales, como escritorio, móvil, nativo y audio.
 
-* ・	[!DNL Dynata] Encuestas basadas en paneles
-Realice estudios de control/exposición para determinar el efecto de la exposición de la publicidad en métricas como la conciencia, la familiaridad y la intención.
+* [!DNL Dynata] Encuestas basadas en paneles Realizan estudios de control/exposición para determinar el efecto de la exposición a la publicidad en métricas como la conciencia, la familiaridad y la intención.
 
 * Tráfico de pies
 
@@ -55,6 +54,7 @@ Compare el comportamiento y la opinión de los grupos de muestra aleatorios y mu
 ## Búsqueda del ajuste de medición perfecto: Soluciones por vertical
 
 ### Cualquier vertical
+
 * Diseñador de experimentos (prueba A/B y placebo)
 * Alcance basado en personas
 Cualquier organización que busque medir en varias tácticas digitales; organizaciones que buscan mostrar el valor del audio
@@ -66,10 +66,12 @@ Cualquier cliente que busque comprender el alcance/alcance incremental y las efi
 Cualquier cliente que busque medir la percepción y la percepción de la marca en varias pantallas; más adecuado para audiencias de nicho
 
 ### QSR, minorista (ladrillo y mortero)
+
 * Medición de transacciones
 * Medición del tráfico de pies de página
 
 ### QSR, minorista, viajes
+
 * Perspectivas de transacciones
 Cualquier cliente que busque llegar a un tipo particular de comprador para dirigir las ventas en tienda y en línea
 
