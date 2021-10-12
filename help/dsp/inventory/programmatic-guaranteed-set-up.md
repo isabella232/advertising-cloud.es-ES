@@ -3,7 +3,7 @@ title: Configuración de un acuerdo garantizado programático
 description: Aprenda a configurar un acuerdo garantizado mediante programación (PG) que haya negociado con un editor.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Después de negociar una operación con garantías programáticas (PG) con un pu
 
 ## Configurar un contrato garantizado mediante programación utilizando el [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-Este es el método preferido para [!DNL FreeWheel], [!DNL Google Authorized Buyers] y [!DNL Rubicon].
+Este es el método preferido para [!DNL FreeWheel], [!DNL Google Authorized Buyers] y [!DNL Magnite DV+].
 
 1. [Acepte el trato](deal-id-inbox-accept.md).
 

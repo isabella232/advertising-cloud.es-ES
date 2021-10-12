@@ -1,11 +1,11 @@
 ---
 title: Aceptar un acuerdo en el [!UICONTROL Deal ID Inbox]
-description: Aprenda a aceptar un acuerdo privado que ya ha negociado con un editor en [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon] con la bandeja de entrada de Deal ID.
+description: Aprenda a aceptar un acuerdo privado que ya ha negociado con un editor en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+]  (anteriormente [!DNL Rubicon]) mediante la bandeja de entrada de Deal ID.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Usuarios en cuentas de DSP asignadas solo a cuentas de SSP*
 
-Utilice [!UICONTROL Deal ID inbox] para aceptar rápidamente un acuerdo privado que ya haya negociado con un editor en [!DNL Google Authorized Buyers], [!DNL FreeWheel] o [!DNL Rubicon].
+Utilice [!UICONTROL Deal ID inbox] para aceptar rápidamente un acuerdo privado que ya haya negociado con un editor en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocido como [!DNL AdX]) y [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Utilice [!UICONTROL Deal ID inbox] para aceptar rápidamente un acuerdo privado 
 
 1. (Opcional) Para actualizar los detalles de la operación, haga clic en **[!UICONTROL Refresh]**.
 
-   DSP actualiza automáticamente todos los detalles de la oferta diariamente a las 4:30 EST. También actualiza todas las ofertas [!DNL FreeWheel] y actualiza las ofertas existentes de [!DNL Google] y [!DNL Rubicon] por hora.
+   DSP actualiza automáticamente todos los detalles de la oferta diariamente a las 4:30 EST. También actualiza todas las ofertas [!DNL FreeWheel] y actualiza las ofertas existentes de [!DNL Google] y [!DNL Magnite DV+] por hora.
 
 1. (Si ha omitido anteriormente la operación) Haga clic en la pestaña **[!UICONTROL Ignored Deals]** .
 

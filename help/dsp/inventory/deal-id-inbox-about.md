@@ -1,18 +1,18 @@
 ---
 title: Acerca de [!UICONTROL Deal ID Inbox]
-description: Obtenga información sobre la función [!UICONTROL Deal ID inbox], que le permite aceptar ofertas privadas que ya ha negociado con editores en [!DNL Google Authorized Buyers], [!DNL FreeWheel], and [!DNL Rubicon].
+description: Obtenga información sobre la función [!UICONTROL Deal ID inbox], que le permite aceptar ofertas privadas que ya ha negociado con editores en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+]  (anteriormente [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
 
 # Acerca de [!UICONTROL Deal ID Inbox]
 
-DSP [!UICONTROL Deal ID inbox] le permite configurar rápidamente ofertas que Advertising Cloud DSP ha importado de editores a través de plataformas de suministro (SSP) para que no tenga que configurar cada oferta manualmente. Puede aceptar los acuerdos de inventario privado garantizados y no garantizados que ya ha negociado con los editores en [!DNL Google Authorized Buyers] (anteriormente conocidos como [!DNL AdX]), [!DNL FreeWheel] y [!DNL Rubicon], desde [!UICONTROL Deal ID inbox].
+DSP [!UICONTROL Deal ID inbox] le permite configurar rápidamente ofertas que Advertising Cloud DSP ha importado de editores a través de plataformas de suministro (SSP) para que no tenga que configurar cada oferta manualmente. Puede aceptar los acuerdos de inventario privado garantizados y no garantizados que ya ha negociado con los editores en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocidos como [!DNL AdX]) y [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) desde [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ DSP [!UICONTROL Deal ID inbox] le permite configurar rápidamente ofertas que Ad
 
 En [!UICONTROL Deal ID inbox], puede ver los detalles de la oferta a medida que los ve el editor, acelerar la configuración de la oferta y evitar errores de entrada manuales.
 
-DSP actualiza automáticamente todos los detalles de la oferta diariamente a las 4:30 EST. También actualiza todas las ofertas [!DNL FreeWheel] y actualiza las ofertas existentes de [!DNL Google] y [!DNL Rubicon] por hora. También puede actualizar manualmente los detalles de la oferta para rellenar nuevas ofertas en cualquier momento.
+DSP actualiza automáticamente todos los detalles de la oferta diariamente a las 4:30 EST. También actualiza todas las ofertas [!DNL FreeWheel] y actualiza las ofertas existentes de [!DNL Google] y [!DNL Magnite DV+] por hora. También puede actualizar manualmente los detalles de la oferta para rellenar nuevas ofertas en cualquier momento.
 
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
 >[!NOTE]
@@ -51,13 +51,13 @@ No puede aceptar los siguientes tipos de ofertas:
 
 * [!DNL Google] ofertas que no están en USD.
 
-* [!DNL Rubicon] ofertas que no están en USD
+* [!DNL Magnite DV+] ofertas que no están en USD
 
 * [!DNL FreeWheel] ofertas que no están en la moneda de su cuenta.
 
 * Ofertas que tienen una fecha de finalización anterior a hoy.
 
-* Las antiguas [!DNL Rubicon] ofertas etiquetadas como &quot;varios tipos de medios&quot;.
+* Las antiguas [!DNL Magnite DV+] ofertas etiquetadas como &quot;varios tipos de medios&quot;.
 
 Los detalles del acuerdo incluyen la razón por la que el acuerdo no está disponible para aceptar.
 
