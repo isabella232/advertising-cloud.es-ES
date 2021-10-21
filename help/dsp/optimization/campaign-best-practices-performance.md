@@ -3,9 +3,9 @@ title: Prácticas recomendadas para configurar campañas de rendimiento
 description: Conozca las prácticas recomendadas para configurar sus campañas centradas en el rendimiento, que incluyen ubicaciones optimizadas para la CPA más baja o el ROAS más alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
 workflow-type: tm+mt
-source-wordcount: '1233'
+source-wordcount: '1232'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Los paquetes de canal superior incluyen ubicaciones con objetivos muy amplios pa
    * Segmentación contextual.
    * Segmentación por sitio/categoría.
 
-* Usar la segmentación de ejecución de red (RON): Es importante incluir una ejecución de la ubicación de red sin segmentación de audiencia y con una segmentación de inventario amplia. Esto permite que el algoritmo [!DNL Adobe Sensei] encuentre usuarios valiosos que puedan tener cookies más recientes que aún no se hayan clasificado en una audiencia.
+* Usar la segmentación de ejecución de red (RON): Es importante incluir una ejecución de la ubicación de red sin segmentación de audiencia y con una segmentación de inventario amplia. Esto permite que la variable [!DNL Adobe Sensei] para encontrar usuarios valiosos que puedan tener cookies más recientes que aún no se hayan clasificado en una audiencia.
 
 ### Estrategias de redireccionamiento
 
@@ -69,29 +69,29 @@ Además, utilice la siguiente configuración.
 
 ### Objetivos y presupuesto
 
-* **Rastreo y restricción:** para seleccionar un objetivo de optimización de CPA o ROAS, el paquete debe utilizar el ritmo a nivel de paquete. Esto garantiza que todas las ubicaciones dentro del paquete estén optimizadas para distribuir el gasto en función del rendimiento y la escala a los objetivos seleccionados.
+* **Rastreo y restricción:** Para seleccionar un objetivo de optimización de CPA o ROAS, el paquete debe utilizar el ritmo a nivel de paquete. Esto garantiza que todas las ubicaciones dentro del paquete estén optimizadas para distribuir el gasto en función del rendimiento y la escala a los objetivos seleccionados.
 
-* **Fechas de vuelo:**  (Paquetes de prospección) Si la campaña se ejecuta durante más de 25 días, utilice la  [!UICONTROL Activate Custom Flighting] función . En primer lugar, establezca un vuelo personalizado durante los primeros 10 días en aproximadamente el 75% del presupuesto diario necesario para reducir el gasto durante la *fase de aprendizaje*. Luego establezca un segundo vuelo personalizado para el resto del presupuesto.
+* **Fechas de vuelo:** (Paquetes de prospección) Cuando la campaña se ejecute durante más de 25 días, use la variable [!UICONTROL Activate Custom Flighting] función. En primer lugar, establezca un vuelo personalizado durante los primeros 10 días en aproximadamente el 75% del presupuesto diario necesario para reducir el gasto durante el *fase de aprendizaje*. Luego establezca un segundo vuelo personalizado para el resto del presupuesto.
 
    Por ejemplo, si tiene 100 000 $ que gastar en 30 días, establezca el presupuesto para el Vuelo 1 (Días 1-10) en 25 000 $ (75% x 100 000 $/30 días = 2 500 $ por día). Utilice el presupuesto restante de 75.000 dólares para el vuelo 2 (días 11 a 30).
 
-* **Presupuesto:** DSP siempre intentará asignar el 100% del presupuesto del paquete de forma uniforme entre todas las ubicaciones de un paquete. Si una colocación tiene un gasto bajo o ningún gasto, recomendamos limitar el presupuesto para permitir que una mayor parte del presupuesto se asigne a ubicaciones con escala. Espere entre 24 y 48 horas para que los cambios en el presupuesto se calibren.
+* **Presupuesto:** DSP siempre intentará asignar el 100% del presupuesto del paquete uniformemente entre todas las ubicaciones de un paquete. Si una colocación tiene un gasto bajo o ningún gasto, recomendamos limitar el presupuesto para permitir que una mayor parte del presupuesto se asigne a ubicaciones con escala. Espere entre 24 y 48 horas para que los cambios en el presupuesto se calibren.
 
-* **Objetivos de optimización:** utilice uno de los dos objetivos de optimización del rendimiento  *[!UICONTROL Highest ROAS]* o  *[!UICONTROL Lowest CPA]*, según el objetivo del paquete. Estos objetivos optimizan automáticamente el paquete hacia las ubicaciones de ROAS más altas o CPA más bajas, respectivamente.
+* **Objetivos de optimización:** Utilice uno de los dos objetivos de optimización del rendimiento, *[!UICONTROL Highest ROAS]* o *[!UICONTROL Lowest CPA]*, según el objetivo del paquete. Estos objetivos optimizan automáticamente el paquete hacia las ubicaciones de ROAS más altas o CPA más bajas, respectivamente.
 
 * **Objetivos personalizados:**
    * Si un nuevo paquete tiene el mismo objetivo que un paquete existente, puede opcionalmente vincular el paquete existente para que el algoritmo pueda utilizar los datos de aprendizaje automático existentes.
-   * Introduzca el [!UICONTROL Target CPA] o [!UICONTROL Target ROAS] apropiado.
+   * Introduzca el correspondiente [!UICONTROL Target CPA] o [!UICONTROL Target ROAS].
 
-* **Estrategia de relleno de ritmo:** seleccione esta opción  *[!UICONTROL Even]* para maximizar sus objetivos de rendimiento con un ritmo uniforme a lo largo de toda la fecha de vuelo.
+* **Estrategia de relleno de ritmo:** Select *[!UICONTROL Even]* para maximizar sus objetivos de rendimiento con un ritmo uniforme a lo largo de toda la fecha de vuelo.
 
-   Utilice el ritmo *[!UICONTROL FrontLoad]* y *[!UICONTROL Aggressive Front Load]* solo cuando priorice completamente el envío y la optimización del rendimiento, ya que estas estrategias pueden afectar negativamente a los KPI de rendimiento deseados.
+   Uso *[!UICONTROL FrontLoad]* y *[!UICONTROL Aggressive Front Load]* ritmo solo cuando está dando prioridad completa a la entrega y los gastos en lugar de a la optimización del rendimiento, ya que estas estrategias pueden afectar negativamente a los KPI de rendimiento deseados.
 
 ## Paso 4: Creación de una estructura de colocación
 
 Menos es más. Si puede configurar menos de seis ubicaciones por paquete, el presupuesto disponible puede cambiar de forma dinámica a las ubicaciones de mejor rendimiento con mayor facilidad.
 
-Además, asegúrese de añadir cada ubicación a un paquete con un tipo de objetivo de paquete *[!UICONTROL Prospecting]* o *[!UICONTROL Retargeting]*, según corresponda.
+Además, asegúrese de añadir cada ubicación a un paquete con un tipo de objetivo de paquete *[!UICONTROL Prospecting]* o *[!UICONTROL Retargeting]*, según proceda.
 
 A continuación se indican los ajustes de ubicación recomendados para las campañas de rendimiento.
 
@@ -103,7 +103,7 @@ Configurará la optimización de CPA o ROAS en el nivel de paquete (consulte Pas
    * Para la prospección de ubicaciones, utilice una oferta máxima baja (5 dólares).
    * Para volver a destinar las ubicaciones, utilice una oferta máxima alta (12 dólares).
 
-* **Filtros de oferta previa:** minimice o, idealmente, evite establecer filtros de oferta previa agresivos, que impiden que la colocación alcance una escala. Entre las prácticas recomendadas se incluyen las siguientes:
+* **Filtros de oferta previa:** Minimizar o, idealmente, evitar la configuración de filtros de oferta previos agresivos, que impiden que la colocación alcance una escala. Entre las prácticas recomendadas se incluyen las siguientes:
 
    * Utilice un (1) filtro de oferta previa por ubicación. Varios filtros previos a la oferta requerirán que se cumplan ambos, lo que reduce la escala.
 
@@ -113,12 +113,12 @@ Consulte las descripciones de cuándo utilizar cada filtro de oferta previa en [
 
 ### Inventario
 
-Para maximizar la escala, utilice el inventario [!UICONTROL Public] (Open Exchange) y [!UICONTROL On Demand].
+Para maximizar la escala, utilice [!UICONTROL Public] (Abrir Exchange) y [!UICONTROL On Demand] inventario.
 
 ### Segmentación de sitios
 
-* **[!UICONTROL Traffic Type]**:  [!UICONTROL Websites] only
-* **[!UICONTROL Site Tier]**:  [!UICONTROL All sites]
+* **[!UICONTROL Traffic Type]**: [!UICONTROL Websites] only
+* **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
 ### Segmentación de audiencia
 
@@ -139,18 +139,18 @@ Para maximizar la escala, utilice el inventario [!UICONTROL Public] (Open Exchan
    * Para volver a destinar las ubicaciones, establezca el límite de ubicación principal en 6-10 impresiones por día y el límite secundario en una impresión por hora.
 
 * **[!UICONTROL Device Targeting]**:
-   * Incluir [!UICONTROL Computer], [!UICONTROL Mobile] y [!UICONTROL Tablet].
-   * No establezca objetivos [!UICONTROL Firefox] y [!UICONTROL Safari] debido a las limitaciones de segmentación y medición. Póngase en contacto con el administrador de cuentas de Adobe para obtener más información sobre la compatibilidad con [!DNL Adobe] para [!DNL Safari ITP].
+   * Incluir [!UICONTROL Computer], [!UICONTROL Mobile]y [!UICONTROL Tablet].
+   * No segmentar [!UICONTROL Firefox] y [!UICONTROL Safari] debido a las limitaciones de segmentación y medición. Póngase en contacto con su [!DNL Adobe] administrador de cuentas para obtener más información [!DNL Adobe] compatibilidad con [!DNL Safari ITP].
    * Si segmenta el tráfico web móvil, deshabilite todos los exploradores móviles excepto [!UICONTROL Chrome] y [!UICONTROL Edge].
 
 ### Seguridad de la marca y calidad de los medios
 
-El uso de filtros contextuales, bloqueos de fraude antes de la oferta y/o filtros [!UICONTROL Ads.txt] limitarán la escala de las ubicaciones, pero utilícelos si es necesario.
+Uso del filtrado contextual, el bloqueo de fraude previo a la oferta y/o [!UICONTROL Ads.txt] los filtros limitarán la escala de las colocaciones, pero utilícelos si es necesario.
 
 ## Paso 5: Uso de los recursos creativos adecuados
 
 * La práctica recomendada es incluir tantos tamaños de publicidad únicos como sea posible para maximizar el alcance. La plantilla de visualización universal permite cargar cualquier tamaño de anuncio de visualización estándar.
-* Asegúrese de que todas las ubicaciones contengan *al menos* todos los tamaños de anuncios de visualización principales (300x250, 728x90, 160x600, 300x600, 320x50 y 300x50).
+* Asegúrese de que todas las ubicaciones contengan *al menos* todos los tamaños de anuncios de pantalla principal (300x250, 728x90, 160x600, 300x600, 320x50 y 300x50).
 * Actualice los elementos creativos con frecuencia para evitar la fatiga creativa.
 
 >[!MORELIKETHIS]

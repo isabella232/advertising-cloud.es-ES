@@ -3,16 +3,16 @@ title: Cómo DSP las campañas
 description: Descubra cómo DSP optimiza los paquetes en sus campañas.
 feature: DSP Optimization
 exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
 
 # Cómo DSP las campañas
 
-Esta página describe cómo el motor de optimización de Advertising Cloud DSP, que utiliza [!DNL Adobe Sensei], optimiza los paquetes de sus campañas. Para obtener sugerencias y trucos sobre cómo optimizar manualmente sus campañas, póngase en contacto con el administrador de cuentas de Adobe. <!-- add link to trading playbook if we add it to help -->
+Esta página describe cómo funciona el motor de optimización de Advertising Cloud DSP, que funciona con [!DNL Adobe Sensei], optimiza los paquetes de las campañas. Para obtener sugerencias y trucos sobre cómo optimizar manualmente sus campañas, póngase en contacto con su [!DNL Adobe] administrador de cuentas. <!-- add link to trading playbook if we add it to help -->
 
 Los objetivos de optimización de paquetes funcionan en dos niveles:
 
@@ -42,7 +42,7 @@ Este modo de optimización funciona bien si:
 
 * Ya conoce el nivel de CPM efectivo/aceptable (por ejemplo, un punto de referencia histórico).
 
-* Si tiene problemas con la escala, está dispuesto a ajustar manualmente [!UICONTROL Max Bid] para cada ubicación.
+* Está dispuesto a ajustar manualmente la variable [!UICONTROL Max Bid] para cada ubicación si experimenta problemas con la escala.
 
 * Estás priorizando la escala sobre la eficiencia.
 
@@ -58,15 +58,15 @@ Después de ejecutar la lógica de ritmo, DSP ejecuta la oferta propuesta a trav
 
 ### Paquetes que dan prioridad al equilibrio entre la eficiencia de los costos y la tasa de rendimiento
 
-Para algunos objetivos de optimización, DSP predice el rendimiento de cada subasta y ajusta los precios de oferta automáticamente, sin exceder nunca el [!UICONTROL Max Bid] de una ubicación. Algunos ejemplos de objetivos de optimización aplicables son [!UICONTROL Lowest CPM], [!UICONTROL Lowest CPA], [!UICONTROL Lowest Cost per View], [!UICONTROL Lowest Cost per Click], etc.
+Para algunos objetivos de optimización, DSP predice el rendimiento de cada subasta y ajusta los precios de la oferta automáticamente, sin superar nunca el de una ubicación [!UICONTROL Max Bid]. Algunos ejemplos de objetivos de optimización aplicables son [!UICONTROL Lowest CPM], [!UICONTROL Lowest CPA], [!UICONTROL Lowest Cost per View], [!UICONTROL Lowest Cost per Click], etc.
 
 #### Lógica de ritmo {#pacing-logic-balanced}
 
 * Si el gasto va a buen ritmo, entonces DSP se vuelve más sensible a los precios, postulando cantidades más bajas para compensar la tasa de ganancia con el plan de ritmo.
 
-* Si una métrica de rendimiento también se está equilibrando (todos los objetivos excepto [!UICONTROL Lowest CPM]), el KPI predicho se mezcla en la cantidad ofrecida. Por lo tanto, puja más por subastas que se predice que tendrán un mayor rendimiento sobre la base del &quot;coste por&quot;.
+* Si una métrica de rendimiento también se está equilibrando (todos los objetivos excepto [!UICONTROL Lowest CPM]), luego el KPI predicho se fusiona con la cantidad que se ofrece. Por lo tanto, puja más por subastas que se predice que tendrán un mayor rendimiento sobre la base del &quot;coste por&quot;.
 
-* Si el gasto está atrasado, entonces DSP se vuelve menos sensible a los precios y ofrece mayores cantidades, hasta [!UICONTROL Max Bid], para compensar la tasa de ganancias con el plan de ritmo.
+* Si el gasto está atrasado, entonces DSP se vuelve menos sensible a los precios y ofrece mayores cantidades, hasta el [!UICONTROL Max Bid], para compensar la tasa de ganancia con el plan de ritmo.
 
 #### Borrado de precio/sombreado de oferta {#clearing-price-balanced}
 
