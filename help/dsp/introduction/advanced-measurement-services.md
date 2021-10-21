@@ -2,7 +2,7 @@
 title: Soluciones de medición avanzadas
 description: Consulte una lista de las soluciones disponibles para obtener mediciones avanzadas.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 851b3e5ebb6f6e8dcd6ea672c7220ed28f52dba4
+source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -59,37 +59,37 @@ Los siguientes paquetes de soluciones de medición están disponibles para valid
 
 ## Búsqueda del ajuste de medición perfecto: Soluciones por vertical
 
-### Cualquier vertical
+* **Cualquier vertical:**
 
-* Diseñador de experimentos (prueba A/B y placebo)
+   * Diseñador de experimentos (prueba A/B y placebo)
 
-* Alcance basado en personas
+   * Alcance basado en personas
 
-   Cualquier organización que busque medir en varias tácticas digitales; organizaciones que buscan mostrar el valor del audio
+      Cualquier organización que busque medir en varias tácticas digitales; organizaciones que buscan mostrar el valor del audio
 
-* Medición de alcance, frecuencia y conversión basada en el hogar
+   * Medición de alcance, frecuencia y conversión basada en el hogar
 
-   Cualquier cliente que busque comprender el alcance/alcance incremental y las eficiencias y/o métricas de conversión basadas en costos en varias tácticas digitales
+      Cualquier cliente que busque comprender el alcance/alcance incremental y las eficiencias y/o métricas de conversión basadas en costos en varias tácticas digitales
 
-* Medición de alcance, frecuencia y conversión entre pantallas
+   * Medición de alcance, frecuencia y conversión entre pantallas
 
-   Cualquier cliente que busque comprender el alcance/alcance incremental y las eficiencias y/o métricas de conversión basadas en costos en múltiples tácticas digitales en relación a la inversión en televisión lineal
+      Cualquier cliente que busque comprender el alcance/alcance incremental y las eficiencias y/o métricas de conversión basadas en costos en múltiples tácticas digitales en relación a la inversión en televisión lineal
 
-* Encuestas basadas en paneles de Dynata
+   * Encuestas basadas en paneles de Dynata
 
-   Cualquier cliente que busque medir la percepción y la percepción de la marca en varias pantallas; más adecuado para audiencias de nicho
+      Cualquier cliente que busque medir la percepción y la percepción de la marca en varias pantallas; más adecuado para audiencias de nicho
 
-### QSR, minorista (ladrillo y mortero)
+* **QSR, minorista (ladrillo y mortero):**
 
-* Medición de transacciones
+   * Medición de transacciones
 
-* Medición del tráfico de pies de página
+   * Medición del tráfico de pies de página
 
-### QSR, minorista, viajes
+* **QSR, Venta minorista, Viajes:**
 
-* Perspectivas de transacciones
+   * Perspectivas de transacciones
 
-   Cualquier cliente que busque llegar a un tipo particular de comprador para dirigir las ventas en tienda y en línea
+      Cualquier cliente que busque llegar a un tipo particular de comprador para dirigir las ventas en tienda y en línea
 
 ## Más información
 
