@@ -1,24 +1,24 @@
 ---
-title: Enviar una publicidad para un acuerdo PG a [!DNL FreeWheel]
+title: Enviar una publicidad para un acuerdo de PG a [!DNL FreeWheel]
 description: Aprenda a solicitar la aprobación de un anuncio para un contrato garantizado mediante programación con un editor en FreeWheel.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b149804bc3e9de5cd48a00f0611c09d1f2e7c7ca
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Enviar una publicidad para un acuerdo garantizado programático a FreeWheel
 
-*Cuentas con el permiso  [!DNL FreeWheel] garantizado programático solamente*
+*Cuentas con la variable [!DNL FreeWheel] Permiso garantizado mediante programación únicamente*
 
-Una vez que [acepte un acuerdo garantizado programático con un editor de FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), que incluya la selección de un anuncio y la creación de la colocación predeterminada garantizada programática que se utilizará para el acuerdo, debe enviar el anuncio a FreeWheel para su aprobación.
+Una vez que [aceptar un acuerdo garantizado programático con un editor en FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), incluida la selección de una publicidad y la creación de la colocación predeterminada garantizada mediante programación que se utilizará para la oferta, debe enviar la publicidad a FreeWheel para su aprobación.
 
 >[!PREREQUISITES]
 >
->Póngase en contacto con el equipo de su cuenta de Adobe para asegurarse de que su cuenta [!DNL DSP] tiene permiso para utilizar el flujo de trabajo [!DNL FreeWheel] garantizado mediante programación.
+>Trabaje con su [!DNL Adobe] el equipo de la cuenta para garantizar que su [!DNL DSP] La cuenta tiene permiso para usar la variable [!DNL FreeWheel] flujo de trabajo garantizado mediante programación.
 
 1. Copie la clave del anuncio para el anuncio utilizado con la oferta de FreeWheel:
 
@@ -26,7 +26,7 @@ Una vez que [acepte un acuerdo garantizado programático con un editor de FreeWh
 
    1. En el submenú, haga clic en **[!UICONTROL Ads]**.
 
-   1. Haga clic en **[!UICONTROL ...]>[!UICONTROL Edit]** junto al nombre del anuncio.
+   1. Haga clic en  **[!UICONTROL ...]>[!UICONTROL Edit]** junto al nombre del anuncio.
 
    1. Una vez que se abra la configuración de la publicidad, copie la clave de publicidad alfanumérica en la dirección URL que se muestra en la barra de direcciones del explorador.
 
@@ -36,20 +36,20 @@ Una vez que [acepte un acuerdo garantizado programático con un editor de FreeWh
 
 1. Envíe la publicidad a FreeWheel:
 
-   1. En la vista [!UICONTROL Deals], busque la oferta.
+   1. En el [!UICONTROL Deals] vea, busque la oferta.
 
-   1. En la fila de trabajo, haga clic en ![Opciones menú](/help/dsp/assets/options-menu.png) **[!UICONTROL submit to [!DNL FreeWheel]]**.
+   1. En la fila de acuerdo, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to [!DNL FreeWheel]]**.
 
-   1. Compruebe el ID de la oferta, introduzca el **[!UICONTROL Ad Key]** que ha copiado en el paso 1 y, a continuación, haga clic en **[!UICONTROL Submit]**.
+   1. Compruebe el ID de la oferta, introduzca la variable **[!UICONTROL Ad Key]** ha copiado en el paso 1 y, a continuación, haga clic en **[!UICONTROL Submit]**.
 
    El anuncio debe enviarse y aprobarse antes de ejecutarse.
 
-1. [Compruebe el estado](freewheel-check-status.md) de envío de la publicidad.
+1. [Comprobar el estado de envío de la publicidad](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
 >* [Visión General de la Configuración de Ofertas Programáticas Garantizadas en FreeWheel](freewheel-overview.md)
 >* [Aceptar un acuerdo en la bandeja de entrada del Deal ID](deal-id-inbox-accept.md)
->* [Comprobar el estado de las publicidades  [!DNL FreeWheel] para los acuerdos garantizados programáticos](freewheel-check-status.md)
+>* [Compruebe el estado de las publicidades para [!DNL FreeWheel] Ofertas garantizadas mediante programación](freewheel-check-status.md)
 >* [Códigos de error para envíos de anuncios de FreeWheel](freewheel-error-codes.md)
 
