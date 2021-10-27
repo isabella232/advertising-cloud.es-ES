@@ -3,9 +3,9 @@ title: Acerca de la administración de ubicaciones en Advertising Cloud DSP
 description: Obtenga información sobre la administración de ubicaciones.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 4a30463e9cb5783beab0ea3fa6989089e7f90457
+source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Puede crear una colocación manualmente o duplicando una existente. También pue
 * Audio
 * Televisión conectada
 
-## El panel [!UICONTROL Placements]
+## La variable [!UICONTROL Placements] Panel
 
-El tablero [!UICONTROL Placements] unifica el rendimiento y los informes económicos en todas las ubicaciones, lo que proporciona instantáneas rápidas de cómo se han realizado las colocaciones durante un intervalo de fechas especificado.
+La variable [!UICONTROL Placements] tablero unifica el rendimiento y los informes económicos en todas las ubicaciones, lo que proporciona instantáneas rápidas del rendimiento de las ubicaciones durante un intervalo de fechas especificado.
 
 ![Panel de ubicaciones](/help/dsp/assets/placement-dashboard.png)
 
@@ -37,16 +37,16 @@ El tablero incluye un gráfico de tendencias personalizable de alto nivel con tr
 
 El tablero también muestra de forma predeterminada las métricas de ritmo y envío por ubicación. Si lo desea, puede ver las métricas de rendimiento de las ubicaciones y crear conjuntos de columnas personalizados. Puede descargar toda la tabla de datos en la carpeta de descarga predeterminada del explorador como un informe en formato XLSM (hoja de cálculo de Excel habilitada para macros).
 
-Para cada ubicación, puede abrir una vista de detalles ([el [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)) que incluye métricas de rendimiento, métricas de ritmo y envío, y conjuntos de columnas personalizados por sitio y por anuncio; y métricas de frecuencia. También puede realizar acciones rápidas en los sitios y publicidades incluidos, como excluir un sitio o pausar una publicidad. Para abrir el Inspector, mantenga el cursor sobre la fila de colocación, haga clic en **[!UICONTROL More]** y, a continuación, haga clic en **[!UICONTROL Sites]**, **[!UICONTROL Ads]** o **[!UICONTROL Frequency]**. Puede exportar los datos de las pestañas [!UICONTROL Sites], [!UICONTROL Ads] o [!UICONTROL Frequency] a la carpeta de descarga predeterminada del explorador como un informe en formato XLSM.
+Para cada ubicación, puede abrir una vista detallada ([el [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), que incluye métricas de rendimiento, métricas de ritmo y envío, y conjuntos de columnas personalizados por sitio, publicidad e inventario; y también métricas de frecuencia. También puede realizar acciones rápidas en los sitios, publicidades e inventarios incluidos, como excluir un sitio, pausar una publicidad o editar una oferta. Para abrir el Inspector, mantenga el cursor sobre la fila de colocación, haga clic en **[!UICONTROL More]** y, a continuación, haga clic en **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** o **[!UICONTROL Inventory]**. Puede exportar los datos en la variable [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency]o [!UICONTROL Inventory]  a la carpeta de descarga predeterminada del explorador como un informe en formato XLSM.
 
 >[!NOTE]
 >
->Se puede personalizar aún más el contenido y el envío de los informes de ubicación a través de [informes personalizados](/help/dsp/reports/report-about.md).
+>Se puede personalizar aún más el contenido y la entrega de los informes de ubicación mediante [informes personalizados](/help/dsp/reports/report-about.md).
 
 >[!MORELIKETHIS]
 >
 >* [Crear una colocación](/help/dsp/campaign-management/placements/placement-create.md)
 >* [Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md)
 
-   >*[Resolución de problemas de rendimiento](/help/dsp/optimization/troubleshooting-performance.md)
+   >*[Resolución de problemas del rendimiento](/help/dsp/optimization/troubleshooting-performance.md)
 

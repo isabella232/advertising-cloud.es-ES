@@ -3,9 +3,9 @@ title: Acerca de los informes en la plataforma
 description: Obtenga información sobre los datos de informes incluidos en las vistas de administración de campañas.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: b2393d5e66ba5d3d2dc9816825c05eda076eaad1
+source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Opcionalmente, también puede superponer las tres métricas para facilitar la de
 
 Puede [personalizar los gráficos de tendencias](campaign-data-visualization-manage.md) por campaña y las mismas métricas se mantienen en todos los gráficos de tendencias de la campaña.
 
-### Inspector de ubicación
+### Colocación [!UICONTROL Inspector] {#placement-inspector}
 
 Para cada ubicación, puede [abrir una (vista de detalles) [!UICONTROL Inspector])](placement-details-view.md), que incluye los siguientes datos detallados:
 
@@ -63,7 +63,25 @@ Para cada ubicación, puede [abrir una (vista de detalles) [!UICONTROL Inspector
    * el número estimado de impresiones al nivel de frecuencia especificado
    * la frecuencia media estimada para el nivel de frecuencia especificado. Este valor es igual a (Impresiones estimadas)/(Únicas estimadas).
 
-![inspector de ubicación](/help/dsp/assets/placement-inspector-sites.png)
+* **[!UICONTROL Inventory]:** Información sobre todas las ofertas segmentadas por la ubicación.
+
+   La variable [!UICONTROL Inventory] La pestaña incluye funciones de búsqueda y filtro, las mismas opciones estándar y personalizadas de vista de columna que están disponibles en la página principal y los botones de acción rápida en cada fila, como [!UICONTROL Edit] y [!UICONTROL View Report]. La variable [!UICONTROL Inventory] permite una solución rápida de problemas al mostrar estadísticas de rendimiento, como [!UICONTROL Auctions], [!UICONTROL Bids]y [!UICONTROL Win Rate].
+
+#### Solución de problemas del inventario
+
+| Problema | Posible causa | Acciones que hay que emprender |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | El editor no ha empezado a enviar solicitudes de oferta. | Póngase en contacto con el editor para activar la oferta. |
+|  | La operación se configuró incorrectamente, por ejemplo, introduciendo un ID de oferta externa incorrecto. | Confirme los detalles del acuerdo y edite el acuerdo. |
+| [!UICONTROL Auctions but no Bids] | El objetivo de ubicación no coincide con las solicitudes de oferta entrantes para la oferta. <br><br> Por ejemplo, una ubicación podría estar dirigiéndose a una ubicación geográfica que no sea elegible para la oferta. | Edite los objetivos de ubicación según sea necesario para evitar discrepancias de objetivos. |
+|  | La ubicación no tiene un anuncio activo con el tipo de medio requerido para la oferta. | Cree y adjunte una publicidad con el tipo de medio correcto a la ubicación. |
+|  | La colocación no tiene presupuesto adecuado. | Aumente el presupuesto de colocación para permitir pujas en solicitudes entrantes. |
+|  | Las fechas de vuelo de colocación no se superponen con las fechas de entrega de impresiones para el acuerdo. | Edite las fechas de vuelo de la ubicación según sea necesario. |
+| [!UICONTROL Low Win Rate] | La oferta máxima de la ubicación (mínimo o fijo) es inferior al mínimo requerido por la oferta. | Aumente el [!UICONTROL Max Bid] según sea necesario. |
+|  | La colocación utiliza filtros de oferta previos a la oferta que limitan la oferta. | Reduzca los umbrales de los filtros de oferta previa para permitir más ofertas. |
+|  | La segmentación de audiencia para la colocación es demasiado restrictiva. | Compruebe si los destinatarios de audiencia especificados tienen suficientes usuarios activos y expanda la audiencia si es posible. |
+
+![inspector de ubicación](/help/dsp/assets/placement-inspector.png)
 
 Puede exportar los datos en la variable [!UICONTROL Sites], [!UICONTROL Ads]o [!UICONTROL Frequency] a la carpeta de descarga predeterminada del explorador como un informe en formato XLSM.
 

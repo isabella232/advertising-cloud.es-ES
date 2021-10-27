@@ -1,38 +1,39 @@
 ---
-title: Ver los detalles de sitios, anuncios y frecuencia de una colocación
-description: Obtenga información sobre cómo ver los sitios, las publicidades y los datos de frecuencia de destino de una ubicación.
+title: Ver los detalles de sitios, anuncios, frecuencia e inventario de una colocación
+description: Obtenga información sobre cómo ver los datos de inventario, la frecuencia y los sitios de destino de una ubicación.
 feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: 14c484de177a6c5e3d4976076ecdbc4fa9086606
+source-git-commit: 45ffb02fd0c35f7c65d1ceba03019cb0b49a9e25
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-# Ver los detalles de sitios, anuncios y frecuencia de una colocación
+# Ver los detalles de sitios, anuncios, frecuencia e inventario de una colocación
 
-La [!UICONTROL Inspector] ubicación enumera todos los sitios objetivo y todos los anuncios de una ubicación. También incluye datos de frecuencia para la colocación.
+La colocación [!UICONTROL Inspector] enumera todos los sitios, anuncios y ofertas de destino de una ubicación. También incluye datos de frecuencia para la colocación.
 
 1. Abra la vista de ubicaciones para la campaña o el paquete principal:
 
    * Ver todas las ubicaciones dentro de la campaña principal:
       1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
       1. Haga clic en el nombre de la campaña.
-      1. Haga clic en la pestaña **[!UICONTROL Placements]**.
+      1. Haga clic en el **[!UICONTROL Placements]** pestaña .
    * Ver todas las ubicaciones dentro del paquete principal:
       1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
       1. Haga clic en el nombre de la campaña.
-      1. Haga clic en la pestaña **[!UICONTROL Packages]**.
+      1. Haga clic en el **[!UICONTROL Packages]** pestaña .
       1. Haga clic en el nombre del paquete principal.
 
 
-1. Mantenga el cursor sobre la fila de colocación, haga clic en **[!UICONTROL More]** y, a continuación, haga clic en una opción:
+1. Mantenga el cursor sobre la fila de colocación y haga clic en **[!UICONTROL More]** y, a continuación, haga clic en una opción:
    * Para ver todos los sitios a los que está dirigida la ubicación, haga clic en **[!UICONTROL Sites]**.
    * Para ver todas las publicidades de la ubicación, haga clic en **[!UICONTROL Ads]**.
    * Para ver los datos de frecuencia de la colocación, haga clic en **[!UICONTROL Frequency]**.
+   * Para ver todas las ofertas a las que se dirige la colocación, haga clic en **[!UICONTROL Inventory]**.
 
-1. (Opcional) [Cambie la vista de columna](column-view-change.md) según sea necesario para ver las métricas requeridas.
+1. (Opcional) [Cambiar la vista de columna](column-view-change.md) según sea necesario para ver las métricas requeridas.
 
 >[!MORELIKETHIS]
 >
