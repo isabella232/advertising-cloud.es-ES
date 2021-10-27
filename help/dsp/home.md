@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 202b537dba5af3e8926584ae2d5df04df0763a70
+source-git-commit: 4e09e4afe0befb40518c847b99d35689ed2f87a8
 workflow-type: tm+mt
-source-wordcount: '1362'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -50,3 +50,5 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 | 15 de octubre de 2020 | Inventario privado | Ahora todos los usuarios pueden configurar y editar los detalles del ID de la oferta mediante un nuevo formulario de ID de oferta, que es una versión simplificada del heredado [!UICONTROL Smart Ad Serving] formulario. Para configurar los detalles del nuevo ID de acuerdo, vaya a [!UICONTROL Inventory] > [!UICONTROL Deals], haga clic en [!UICONTROL Create]y, a continuación, haga clic en [!UICONTROL Deal ID Beta]. | Consulte &quot;[Crear manualmente detalles de ID de acuerdo](/help/dsp/inventory/deal-id-create.md)&quot; y &quot;[Configuración manual del ID de trato](/help/dsp/inventory/deal-id-settings.md).&quot; |
 |  | Previsión de ubicación | Para las ubicaciones con un ritmo de nivel de ubicación, la variable [!UICONTROL Forecast] de la configuración de ubicación incluye una [!UICONTROL Estimated Maximums] , que indica cuánta mayor capacidad está disponible con la configuración de segmentación actual. | — |
 | 2 de septiembre de 2020 | Informes | Cualquier organización con varias cuentas de DSP puede, opcionalmente, habilitar los datos entre cuentas en los informes personalizados según las necesidades de la organización. | Consulte la sección &quot;Informes entre cuentas&quot; en &quot;[Acerca de los informes personalizados](/help/dsp/reports/report-about.md#cross-account-reporting).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
