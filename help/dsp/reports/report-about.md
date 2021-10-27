@@ -3,9 +3,9 @@ title: Acerca de los informes personalizados
 description: Obtenga información sobre las opciones para crear informes personalizados manualmente o mediante plantillas de informe preconfiguradas.
 feature: DSP Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,12 @@ Los informes personalizados permiten personalizar el contenido y el envío de lo
 * Configure completamente los informes de rendimiento de las campañas a nivel granular.
 * Elija entre plantillas de informe preconfiguradas y, opcionalmente, personalícelas más adelante.
 
-Puede generar informes una vez o programarlos para que se generen diariamente, semanalmente o mensualmente a las 3:00 en el huso horario especificado. Una vez generado el informe, se envía una notificación a cada destinatario de correo electrónico especificado, con un vínculo desde el cual descargar el archivo.
+Puede generar informes una vez o programarlos para que se generen diariamente, semanalmente o mensualmente a las 3:00 en el huso horario especificado. Una vez generado el informe, se envía a cada destinatario de correo electrónico especificado o a los vínculos [destinos de informe](/help/dsp/reports/report-destinations/report-destination-about.md) de los siguientes tipos:
+
+* [!DNL Amazon Simple Storage Service] ([!DNL S3])
+* FTP
+* SFTP
+* FTP SSL (en versión beta)
 
 >[!NOTE]
 >
@@ -25,11 +30,11 @@ Puede generar informes una vez o programarlos para que se generen diariamente, s
 
 ## Tipos de informes disponibles
 
-* **[!UICONTROL Custom]:** Este informe es una plantilla en blanco que puede usar para crear su propio informe personalizado utilizando la mayoría de las dimensiones y métricas. [!UICONTROL Conversion],  [!UICONTROL Device],  [!UICONTROL Geo] y los  [!UICONTROL Site] informes son variaciones de esta plantilla con columnas y dimensiones preseleccionadas para sus respectivos casos de uso.
+* **[!UICONTROL Custom]:** Este informe es una plantilla en blanco que puede usar para crear su propio informe personalizado utilizando la mayoría de las dimensiones y métricas. [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo]y [!UICONTROL Site] los informes son variaciones de esta plantilla con columnas preseleccionadas y dimensiones para sus respectivos casos de uso.
 
 * Plantillas de informe preconfiguradas
 
-   * **[!UICONTROL Billing]:** Utilice este informe para comprender métricas de facturación clave como las métricas de gasto para la facturación de medios por campaña.
+   * **[!UICONTROL Billing]:** Utilice este informe para comprender las métricas de facturación clave, como las métricas de gasto para la facturación de medios por campaña.
 
       >[!NOTE]
       >
@@ -68,15 +73,15 @@ Puede generar informes una vez o programarlos para que se generen diariamente, s
       >* Las métricas de conversión y los datos de objetivo personalizados para segmentos están disponibles a partir del 2 de agosto de 2019. El resto de los datos de los segmentos estará disponible a partir del 1 de junio de 2018.
 
 
-   * **[!UICONTROL Site]:** De forma predeterminada, incluye métricas estándar, gasto neto total en medios y gasto neto total facturable por sitio.
+   * **[!UICONTROL Site]:** De forma predeterminada, incluye métricas estándar, gasto neto total de medios y gasto neto total facturable por sitio.
 
 ## Informes entre cuentas {#cross-account-reporting}
 
 Cualquier organización con varias cuentas de DSP puede, opcionalmente, habilitar los datos entre cuentas en los informes personalizados según las necesidades de la organización. Por ejemplo, puede dar a la Cuenta A acceso a los datos de la Cuenta B y darle acceso a los datos de la Cuenta C (pero no a los de la Cuenta A). Para habilitar y configurar esta función, póngase en contacto con su administrador de cuentas de.
 
-Una vez habilitada la función para su organización, puede [filtrar](report-settings.md) cualquiera de los siguientes tipos de informes por cuenta:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)] y [!UICONTROL Conversion].
+Una vez que la función esté habilitada para su organización, puede [filter](report-settings.md) cualquiera de los siguientes tipos de informes por cuenta:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)]y [!UICONTROL Conversion].
 
-La configuración de su cuenta en [!UICONTROL Settings] > [!UICONTROL Account] indica a) las otras cuentas cuyos datos están disponibles para su cuenta y b) las otras cuentas que pueden acceder a los datos de su cuenta.
+La configuración de su cuenta en [!UICONTROL Settings] > [!UICONTROL Account] indican a) las otras cuentas cuyos datos están disponibles en su cuenta y b) las otras cuentas que pueden acceder a los datos de su cuenta.
 
 >[!MORELIKETHIS]
 >
@@ -84,4 +89,5 @@ La configuración de su cuenta en [!UICONTROL Settings] > [!UICONTROL Account] i
 >* [Configuración de informes personalizados](/help/dsp/reports/report-settings.md)
 >* [Acerca de los informes en la plataforma](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Columnas de informe disponibles](/help/dsp/reports/report-columns.md)
+>* [Acerca de [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
 

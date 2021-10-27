@@ -2,9 +2,9 @@
 title: Configuración de informes personalizados
 description: Consulte las descripciones de la configuración de informes personalizada.
 feature: DSP Custom Reports
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -107,11 +107,35 @@ Más información sobre [soluciones entre dispositivos](/help/dsp/introduction/f
 
 * *[!UICONTROL Event Timestamp]:* Las conversiones se informarán en función de la fecha de la impresión o del clic que hayan causado la conversión, según lo determinado por el [!UICONTROL Attribution Rule Settings].
 
-## [!UICONTROL Add Email Recipients] Sección
+## [!UICONTROL Add Report Destinations] Sección
 
-**[!UICONTROL Email]:** Direcciones de correo electrónico a las que enviar informes completados o notificaciones si el informe se cancela debido a errores. Para especificar varias direcciones, sepárelas con comas o espacios.
+**[!UICONTROL Destination Type]:** Elija uno de los siguientes tipos de destino:
 
-**[!UICONTROL Frequency]:** La frecuencia con la que se envía el informe: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]* o *[!UICONTROL Monthly]*.
+* *[!UICONTROL S3]:* Para enviar el informe completado a uno o más [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]), que se especificarán en la variable **[!UICONTROL Destination Name]** campo .
+* *[!UICONTROL sFTP]:* Para enviar el informe completado a una o varias ubicaciones SFTP, según lo especificado en la sección **[!UICONTROL Destination Name]** campo .
+* *[!UICONTROL FTP]:* Para enviar el informe completado a una o varias ubicaciones de FTP, que se especificarán en la variable **[!UICONTROL Destination Name]** campo .
+* *[!UICONTROL FTP SSL](Actualmente en versión beta):* Para enviar el informe completado a una o varias ubicaciones SSL de FTP, que se especificarán en la variable **[!UICONTROL Destination Name]** campo .
+* *[!UICONTROL Email]:* Para especificar las direcciones de correo electrónico a las que enviar los informes completados o las notificaciones si el informe se cancela debido a errores. Para especificar varias direcciones, sepárelas con comas o espacios.
+
+>[!NOTE]
+>
+> No se puede cambiar el tipo de destino una vez guardado el informe.
+
+**[!UICONTROL Destination Name]:** (Solo tipos de destino S3, FTP, sFTP y FTP SSL) Los nombres de los destinos de informe a los que se enviará el informe personalizado.
+
+* Para especificar un destino existente, seleccione un nombre de destino en la lista. Puede seleccionar varios nombres de destino por separado.
+
+* Para crear un nuevo destino:
+
+   1. Haga clic en **Añadir nuevo destino**.
+
+   1. Introduzca la variable [configuración de destino del informe](/help/dsp/reports/report-destinations/report-destination-settings.md)y haga clic en **Guardar**.
+
+   1. De nuevo en la configuración del informe, haga clic en **Actualice Los Nombres De Destino.**
+
+      El nuevo destino ya está disponible en la lista de destinos existentes y, si lo desea, puede agregarlo al informe.
+
+**[!UICONTROL Frequency]:** (Para cada [!UICONTROL Destination Name] La frecuencia con la que se envía el informe al destino: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]* o *[!UICONTROL Monthly]*.
 
 ## [!UICONTROL Save Report] Sección
 
@@ -129,5 +153,6 @@ Más información sobre [soluciones entre dispositivos](/help/dsp/introduction/f
 >* [Editar un informe personalizado](/help/dsp/reports/report-edit.md)
 >* [Ejecutar un informe personalizado](/help/dsp/reports/report-run-now.md)
 >* [Configuración de informes personalizados](/help/dsp/reports/report-settings.md)
+>* [Acerca de los destinos de informe](/help/dsp/reports/report-destinations/report-destination-about.md)
 
 * [Columnas de informe disponibles](/help/dsp/reports/report-columns.md)
