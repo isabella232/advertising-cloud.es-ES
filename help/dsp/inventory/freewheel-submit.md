@@ -3,9 +3,9 @@ title: Enviar una publicidad para un acuerdo de PG a [!DNL FreeWheel]
 description: Aprenda a solicitar la aprobación de un anuncio para un contrato garantizado mediante programación con un editor en FreeWheel.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: b149804bc3e9de5cd48a00f0611c09d1f2e7c7ca
+source-git-commit: c2caed80f0afc0cbe3572d01dc2c89f13ed13712
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -20,27 +20,41 @@ Una vez que [aceptar un acuerdo garantizado programático con un editor en FreeW
 >
 >Trabaje con su [!DNL Adobe] el equipo de la cuenta para garantizar que su [!DNL DSP] La cuenta tiene permiso para usar la variable [!DNL FreeWheel] flujo de trabajo garantizado mediante programación.
 
-1. Copie la clave del anuncio para el anuncio utilizado con la oferta de FreeWheel:
+## Copiar una clave de publicidad para usarla con la variable [!DNL FreeWheel] Acuerdo {#copy-ad-key}
 
-   1. Haga clic en el nombre de la campaña.
+1. Haga clic en el nombre de la campaña.
 
-   1. En el submenú, haga clic en **[!UICONTROL Ads]**.
+1. En el submenú, haga clic en **[!UICONTROL Ads]**.
 
-   1. Haga clic en  **[!UICONTROL ...]>[!UICONTROL Edit]** junto al nombre del anuncio.
+1. Haga clic en  **[!UICONTROL ...]>[!UICONTROL Edit]** junto al nombre del anuncio.
 
-   1. Una vez que se abra la configuración de la publicidad, copie la clave de publicidad alfanumérica en la dirección URL que se muestra en la barra de direcciones del explorador.
+1. Una vez que se abra la configuración de la publicidad, copie la clave de publicidad alfanumérica en la dirección URL que se muestra en la barra de direcciones del explorador.
 
-      Por ejemplo, en la siguiente dirección URL, la clave de publicidad es `3NtNC5ZbaGZtqbei8jD3`
+Por ejemplo, en la siguiente dirección URL, la clave de publicidad es `3NtNC5ZbaGZtqbei8jD3`
 
-      `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
+`https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-1. Envíe la publicidad a FreeWheel:
+## Enviar una publicidad desde el [!UICONTROL Ads] Ver
 
-   1. En el [!UICONTROL Deals] vea, busque la oferta.
+1. [Copiar la clave de publicidad para la publicidad](#copy-ad-key).
 
-   1. En la fila de acuerdo, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to [!DNL FreeWheel]]**.
+1. Junto al nombre del anuncio, haga clic en  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-   1. Compruebe el ID de la oferta, introduzca la variable **[!UICONTROL Ad Key]** ha copiado en el paso 1 y, a continuación, haga clic en **[!UICONTROL Submit]**.
+1. Compruebe el ID de la oferta, introduzca [el **[!UICONTROL Ad Key]**](#copy-ad-key)y, a continuación, haga clic en **[!UICONTROL Submit]**.
+
+   El anuncio debe enviarse y aprobarse antes de ejecutarse.
+
+1. [Comprobar el estado de envío de la publicidad](freewheel-check-status.md).
+
+## Enviar una publicidad desde el [!UICONTROL Deals] Ver
+
+1. [Copiar la clave de publicidad para la publicidad](#copy-ad-key).
+
+1. En el menú principal, haga clic en **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+
+1. En la fila de acuerdo, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+
+1. Compruebe el ID de la oferta, introduzca [el **[!UICONTROL Ad Key]**](#copy-ad-key)y, a continuación, haga clic en **[!UICONTROL Submit]**.
 
    El anuncio debe enviarse y aprobarse antes de ejecutarse.
 
