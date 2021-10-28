@@ -3,9 +3,9 @@ title: Compruebe el estado de las publicidades para [!DNL [!DNL FreeWheel]] Ofer
 description: Obtenga información sobre cómo encontrar el estado de las publicidades para [!DNL Freewheel] ofertas garantizadas mediante programación.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 55854d9ab1a535767315941fe4ca5777a8069b5e
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Compruebe el estado de las publicidades para [!DNL Freewheel] Ofertas garantizadas mediante programación
 
 Ver si los envíos de anuncios a [!DNL Freewheel] tuvieron éxito. Puede volver a enviar cualquier publicidad según sea necesario.
+
+Para cualquier pregunta o problema adicional con el reenvío, póngase en contacto con su [!DNL Adobe] administrador de cuentas.
+
+## Compruebe el estado en la sección [!UICONTROL Deals] Ver
 
 1. En el menú principal, haga clic en **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
@@ -30,7 +34,17 @@ Ver si los envíos de anuncios a [!DNL Freewheel] tuvieron éxito. Puede volver 
 
 1. (Opcional) Para volver a enviar una publicidad para su aprobación, mantenga el cursor sobre la fila del anuncio y haga clic en **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
-Para cualquier pregunta o problema adicional con el reenvío, póngase en contacto con su [!DNL Adobe] administrador de cuentas.
+## Compruebe el estado en la sección [!UICONTROL Ads] Ver
+
+1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
+
+1. Haga clic en el nombre de la campaña.
+
+1. En el submenú, haga clic en **[!UICONTROL Ads]**.
+
+1. Junto al nombre del anuncio, haga clic en  **... >[!UICONTROL see Freewheel status]**.
+
+1. (Opcional) Para volver a enviar una publicidad para su aprobación, mantenga el cursor sobre la fila del anuncio y haga clic en **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
 >[!MORELIKETHIS]
 >
