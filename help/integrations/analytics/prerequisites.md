@@ -3,9 +3,9 @@ title: Requisitos previos e información clave para la implementación [!DNL Ana
 description: Requisitos previos e información clave para la implementación [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: 688aece01640647a61df730cbe464597b476b033
+source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '845'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,8 @@ La variable [!DNL Analytics for Advertising Cloud] JavaScript utiliza esta confi
 Póngase en contacto con su [!DNL Adobe] administrador de cuentas para conocer los últimos entornos de publicidad admitidos en cada canal.
 
 ## Aspectos importantes antes de una implementación
+
+* El equipo de implementación de Advertising Cloud configurará la integración.
 
 * No se cobran costes adicionales por esta integración ni las llamadas al servidor resultan en [!DNL Analytics] o tarifas de Advertising Cloud.
 
