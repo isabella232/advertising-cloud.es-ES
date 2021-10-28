@@ -3,9 +3,9 @@ title: Enviar una publicidad para un acuerdo de PG a [!DNL FreeWheel]
 description: Obtenga información sobre cómo solicitar la aprobación de una publicidad para una oferta garantizada mediante programación con un editor en [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
+source-git-commit: 02dc96c5aeceb61762cf52c684ec8a607d6afb2a
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,8 @@ Una vez que [aceptar un acuerdo garantizado programático con un editor en FreeW
 1. Copie la clave de publicidad de la publicidad utilizada con la [!DNL Freewheel] oferta:
 
    1. Haga clic en el nombre de la campaña.
-
    1. En el submenú, haga clic en **[!UICONTROL Ads]**.
-
    1. Haga clic en  **[!UICONTROL ...]>[!UICONTROL Edit]** junto al nombre del anuncio.
-
    1. Una vez que se abra la configuración de la publicidad, copie la clave de publicidad alfanumérica en la dirección URL que se muestra en la barra de direcciones del explorador.
 
       Por ejemplo, en la siguiente dirección URL, la clave de publicidad es `3NtNC5ZbaGZtqbei8jD3`
@@ -38,9 +35,8 @@ Una vez que [aceptar un acuerdo garantizado programático con un editor en FreeW
 
    1. Realice una de las siguientes acciones:
 
-      * Junto al nombre del anuncio, haga clic en  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
-
-      * En el menú principal, haga clic en **[!UICONTROL Inventory]> [!UICONTROL Deals].** En la fila de acuerdo, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+      * Junto al nombre del anuncio, haga clic en  **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]**.
+      * En el menú principal, haga clic en **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**. En la fila de acuerdo, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
    1. Compruebe el ID de la oferta, introduzca la variable **[!UICONTROL Ad Key]** ha copiado en el paso 1 y, a continuación, haga clic en **[!UICONTROL Submit]**.
 
    El anuncio debe enviarse y aprobarse antes de ejecutarse.
