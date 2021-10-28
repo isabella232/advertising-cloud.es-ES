@@ -3,9 +3,9 @@ title: Códigos de error para [!DNL FreeWheel] Envíos de publicidad
 description: Haga referencia a los códigos de error devueltos para los envíos de anuncios a [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ Los mensajes de error para los envíos de anuncios fallidos pueden provenir de A
 
 {style=&quot;table-layout:auto&quot;}
 
-## Errores de API de FreeWheel
+## [!DNL Freewheel] Errores de API
 
 | Código | Significado | Descripción | Pasos siguientes |
 |--- |--- |--- |--- |
@@ -43,7 +43,7 @@ Los mensajes de error para los envíos de anuncios fallidos pueden provenir de A
 
 {style=&quot;table-layout:auto&quot;}
 
-## Errores de la API 422 de FreeWheel {#freewheel-422-errors}
+## [!DNL Freewheel] Errores de API 422 {#freewheel-422-errors}
 
 | Código | Código HTTP | Descripción |
 |--- |--- |--- |
@@ -64,8 +64,8 @@ Los mensajes de error para los envíos de anuncios fallidos pueden provenir de A
 
 >[!MORELIKETHIS]
 >
->* [Visión General de la Configuración de Ofertas Programáticas Garantizadas en FreeWheel](/help/dsp/inventory/freewheel-overview.md)
+>* [Información general sobre la configuración de ofertas garantizadas mediante programación en [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
 >* [Aceptar un acuerdo en la bandeja de entrada del Deal ID](deal-id-inbox-accept.md)
->* [Enviar una publicidad para un acuerdo garantizado programático a FreeWheel](/help/dsp/inventory/freewheel-submit.md)
+>* [Enviar una publicidad para un acuerdo garantizado programático a [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
 >* [Compruebe el estado de las publicidades para [!DNL FreeWheel] Ofertas garantizadas mediante programación](/help/dsp/inventory/freewheel-check-status.md)
 
