@@ -3,9 +3,9 @@ title: Acerca de los informes en la plataforma
 description: Obtenga información sobre los datos de informes incluidos en las vistas de administración de campañas.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
+source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Dentro de una campaña, puede filtrar los datos en función de la entidad de la 
 
 En cada pestaña de entidad, cada fila incluye métricas de ritmo y envío de forma predeterminada, pero puede [cambiar la vista de columna](column-view-change.md) o [crear una vista de columna personalizada](column-view-create.md) para aplicar en todas las subpestañas de la campaña. Puede [personalizar las tablas de datos](campaign-data-views-about.md) de formas adicionales. Cada tabla de datos incluye un [!UICONTROL Subtotals] , que muestra la suma o el valor promedio de cada métrica en todas las filas visibles.
 
-Para cada campaña, también puede personalizar gráficos de tendencias de series temporales con tres métricas, que están disponibles en cada vista de entidad. De forma predeterminada, los datos de [!UICONTROL Net Spend], [!UICONTROL Impressions]y [!UICONTROL Net CPM] se incluyen en gráficos separados (gráficos de mosaico). Opcionalmente, puede cambiar las métricas.
+Para cada campaña, también puede personalizar gráficos de tendencias de series temporales con tres métricas, que están disponibles en cada vista de entidad. De forma predeterminada, los datos de [!UICONTROL Net Spend], [!UICONTROL Impressions]y [!UICONTROL Net CPM] se incluyen en gráficos separados (gráficos de mosaico). Opcionalmente, puede cambiar las métricas. Para habilitar los datos por hora en los gráficos de tendencias de series temporales, cambie la selección de fechas a un solo día ([!UICONTROL Today], [!UICONTROL Yesterday]o un día específico).
 
 ![gráficos de tendencias independientes para tres métricas](/help/dsp/assets/trend-chart-separate.png)
 
