@@ -3,9 +3,9 @@ title: Acerca de los Ofertas Garantizadas mediante Programación
 description: Obtenga información sobre las ofertas garantizadas mediante programación (PG) y qué SP están certificadas para proporcionarlas.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: 2ebcaa488499485b1da549e0324d15ca8160512a
+source-git-commit: 96f756b0f5239e2378d0a4da18335d909f96ab94
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Una operación garantizada mediante programación (PG) es una compra garantizada
 * El acuerdo siempre se factura a través de DSP.
 * El acuerdo tiene un precio y una cantidad fijos.
 * El editor o la plataforma de suministro (SSP) se encarga de todo el ritmo del presupuesto, el límite del presupuesto y cualquier objetivo.
-* Normalmente, el acuerdo tiene una prioridad mayor en el servidor de publicidad del editor
+* Normalmente, la oferta tiene una prioridad mayor en el servidor de publicidad del editor.
 * Las solicitudes de oferta no son exclusivas de una única oferta o comprador.
 * Se admiten varios tipos de vídeo en un ID de oferta única.
 * Los SSP y los editores tienen SLA de envío.
@@ -31,8 +31,8 @@ Las ofertas PG requieren una ubicación y anuncios predeterminados de PG para qu
 * [!DNL Ambient Digital]
 * [!DNL FreeWheel]
 * [!DNL Google Authorized Buyers]
-* [!DNL Magnite CTV] (anteriormente  [!DNL Telaria])
-* [!DNL Magnite DV+] (anteriormente  [!DNL Rubicon])
+* [!DNL Magnite CTV] (anteriormente [!DNL Telaria])
+* [!DNL Magnite DV+] (anteriormente [!DNL Rubicon])
 * [!DNL OpenX]
 * [!DNL SpotX]
 
