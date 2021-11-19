@@ -3,7 +3,7 @@ title: Advertising Cloud ID que utiliza [!DNL Analytics]
 description: Advertising Cloud ID que utiliza [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
 workflow-type: tm+mt
 source-wordcount: '1156'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Aplicable a Advertising Cloud DSP y Advertising Cloud Search*
 
-Advertising Cloud utiliza dos ID para el seguimiento del rendimiento en el sitio: el EF ID y el AMO ID.
+Advertising Cloud utiliza dos ID para el seguimiento del rendimiento en el sitio: el *EF ID* y *AMO ID*.
 
 Cuando se produce una impresión de publicidad, Advertising Cloud crea los valores de AMO ID y EF ID y los almacena. Cuando un visitante que ha visto una publicidad entra en el sitio sin hacer clic en una publicidad, [!DNL Analytics] llama a estos valores desde Advertising Cloud a través de la función [!DNL Analytics for Advertising Cloud] Código JavaScript. Para el tráfico de visualización, [!DNL Analytics] genera un ID suplementario (`SDID`), que se utiliza para unir el ID de EF y el ID de AMO a [!DNL Analytics]. Para el tráfico de pulsaciones, estos ID se incluyen en la dirección URL de la página de aterrizaje mediante la variable `s_kwcid` y `ef_id` parámetros de cadena de consulta.
 
