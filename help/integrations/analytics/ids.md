@@ -3,9 +3,9 @@ title: Advertising Cloud ID que utiliza [!DNL Analytics]
 description: Advertising Cloud ID que utiliza [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
+source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
 workflow-type: tm+mt
-source-wordcount: '1156'
+source-wordcount: '1157'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,13 @@ Ejemplo `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
 
 En [!DNL Analytics] para encontrar los datos de ID de EF, busque la variable [!UICONTROL EF ID] dimensión y uso de [!UICONTROL EF ID Instance] métrica.
 
-`EF IDs` están sujetos al límite de 500.000 identificadores únicos en Analysis Workspace. Una vez que se alcanza el valor de 500.000, todos los nuevos códigos de seguimiento se incluyen en el título del elemento de una línea &quot;[!UICONTROL Low Traffic].&quot; Debido a la posibilidad de que falte fidelidad a los informes, la variable `EF IDs` no están clasificadas y no debe utilizarlas para segmentos ni para generar informes en [!DNL Analytics].
+Los ID de EF están sujetos al límite de 500 000 de identificadores únicos en Analysis Workspace. Una vez que se alcanza el valor de 500.000, todos los nuevos códigos de seguimiento se incluyen en el título del elemento de una línea &quot;[!UICONTROL Low Traffic].&quot; Debido a la posibilidad de que falte la fidelidad de los informes, los ID de EF no se clasifican y no se deben usar para segmentos ni para generar informes en [!DNL Analytics].
 
 ## Advertising Cloud AMO ID
 
 El ID de AMO rastrea cada combinación de anuncios única a un nivel menos granular y se utiliza para [!DNL Analytics] clasificación de datos e ingesta de métricas publicitarias (como impresiones, clics y costes) de Advertising Cloud. El ID de AMO se almacena en un [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) o dimensión rVar (AMO ID) y se utiliza exclusivamente para generar informes en [!DNL Analytics].
 
-El ID de AMO también se denomina `s_kwcid`, que a veces se denomina &quot;el calamar&quot;.
+El ID de AMO también se denomina `s_kwcid`, que a veces se pronuncia como &quot;[!DNL the squid].&quot;
 
 ### Formato de ID de AMO para [!DNL DSP]
 
