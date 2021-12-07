@@ -2,8 +2,7 @@
 title: Ejecutar un informe personalizado
 description: Obtenga información sobre cómo ejecutar un informe personalizado inmediatamente.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,10 +14,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->También puede ejecutar un informe personalizado cuando [cree](report-create.md) o [lo edite](report-edit.md).
+>También puede ejecutar un informe personalizado cuando [crear](report-create.md) o [editar](report-edit.md) es así.
 
 1. En el menú principal, haga clic en **[!UICONTROL Reports]**.
-1. En la columna [!UICONTROL Options] de la fila del informe, haga clic en **[!UICONTROL options]>[!UICONTROL Run Now]**.
+1. En el [!UICONTROL Options] para la fila del informe, haga clic en **[!UICONTROL options]>[!UICONTROL Run Now]**.
 1. En el mensaje de confirmación, haga clic en **[!UICONTROL OK]**.
 
    Cuando el informe se completa, se envía a todas las direcciones de correo electrónico especificadas en la configuración del informe.

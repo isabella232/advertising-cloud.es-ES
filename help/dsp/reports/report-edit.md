@@ -2,8 +2,7 @@
 title: Editar un informe personalizado
 description: Obtenga información sobre cómo editar la configuración de informes personalizada.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 1%
@@ -16,8 +15,8 @@ ht-degree: 1%
 1. En el menú principal, haga clic en **[!UICONTROL Reports]**.
 1. Realice una de las siguientes acciones:
    * Haga clic en el nombre del informe.
-   * En la columna [!UICONTROL Options] de la fila del informe, haga clic en **[!UICONTROL options]>[!UICONTROL Edit]**.
-1. Edite la [configuración del informe](/help/dsp/reports/report-settings.md).
+   * En el [!UICONTROL Options] para la fila del informe, haga clic en **[!UICONTROL options]>[!UICONTROL Edit]**.
+1. Edite el [configuración de informes](/help/dsp/reports/report-settings.md).
 1. Haga clic **[!UICONTROL Edit Custom Report]**.
 
 >[!MORELIKETHIS]

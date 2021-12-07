@@ -2,8 +2,7 @@
 title: Segmentos de estado aceptables para Adobe Advertising Cloud
 description: Consulte las directrices para segmentos de audiencia relacionados con el estado aceptables y las tácticas para utilizarlos como alternativas para segmentar segmentos de audiencia relacionados con el estado.
 feature: Policies
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,15 +15,15 @@ ht-degree: 0%
 
 Las siguientes directrices describen segmentos de audiencia inaceptables y aceptables relacionados con el estado de salud. También recomiendan tácticas para usar como alternativas a la segmentación de segmentos de audiencia relacionados con el estado.
 
-Estas directrices se resumen desde [!DNL Network Advertising Alliance (NAI)].
+Estas directrices se resumen a partir de la [!DNL Network Advertising Alliance (NAI)].
 
-Consulte también la [Política de requisitos de anuncios de Advertising Cloud](/help/policies/ad-requirements-policy.md) para determinar si un segmento de audiencia relacionado con el estado se puede utilizar según la política de segmentación de Adobe Advertising Cloud.
+Consulte también [Política de requisitos de Advertising Cloud Ads](/help/policies/ad-requirements-policy.md) para determinar si un segmento de audiencia relacionado con el estado se puede utilizar según la política de segmentación de Adobe Advertising Cloud.
 
 ## Segmentos de mantenimiento que no deben usarse
 
 * Segmentos que se basan en información de salud protegida (PHI)\*, registros médicos a nivel de usuario, recetas farmacéuticas o fuentes médicas o de salud similares que proporcionan conocimientos reales sobre el estado o tratamiento de ese usuario.
 
-   \* Adobe Advertising Cloud no es una solución lista para [!DNL HIPAA].
+   \* Adobe Advertising Cloud no es un [!DNL HIPAA]solución lista para usar.
 
 * Segmentos dirigidos a enfermedades (o tratamientos relacionados), como cualquier forma de cáncer, salud mental, adicción a las drogas, enfermedades de transmisión sexual, enfermedades que afectan predominantemente a los niños u otras enfermedades sensibles que no se pueden tratar con medicamentos de venta libre (por ejemplo, diabetes, psoriasis, artritis reumatoide o fibromialgia de enfermedades).
 

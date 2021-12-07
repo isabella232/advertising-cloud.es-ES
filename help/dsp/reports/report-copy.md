@@ -2,8 +2,7 @@
 title: Duplicar un informe personalizado
 description: Aprenda a crear un informe personalizado duplicando un informe existente.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 1%
@@ -17,9 +16,9 @@ Duplique un informe personalizado para crear un nuevo informe con una configurac
 
 1. En el menú principal, haga clic en **[!UICONTROL Reports]**.
 1. En la columna Opciones de la fila del informe, haga clic en **[!UICONTROL options]>[!UICONTROL Copy]**.
-1. (Opcional) Edite la [configuración del informe](/help/dsp/reports/report-settings.md) según sea necesario.
+1. (Opcional) Edite el [configuración de informes](/help/dsp/reports/report-settings.md) según sea necesario.
 
-   El nombre del informe, de forma predeterminada, es &quot;\&lt;*nombre del informe existente*\> \#2&quot; (o el siguiente número de la secuencia).
+   El nombre del informe, de forma predeterminada, es &quot;\&lt;*nombre de informe existente*\> \#2&quot; (o el siguiente número de la secuencia).
 
 1. Haga clic **[!UICONTROL Copy Custom Report]**
 
