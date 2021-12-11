@@ -3,9 +3,9 @@ title: Creación de un paquete
 description: Aprenda a crear un paquete.
 feature: DSP Packages
 exl-id: 009b65b4-0686-46ca-9f47-01ad4c6a4683
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 1. Haga clic en el nombre de la campaña en la que desea crear el paquete.
 1. En la ficha Paquetes, haga clic en **[!UICONTROL Create]>[!UICONTROL Package]**.
-1. Introduzca la [configuración del paquete](package-settings.md).
+1. Introduzca la variable [configuración de paquetes](package-settings.md).
 1. Haga clic **[!UICONTROL Save and Close]**.
 
 Una vez creado un paquete, puede asignarle ubicaciones.
@@ -30,4 +30,5 @@ Una vez creado un paquete, puede asignarle ubicaciones.
 >* [Editar un paquete](package-edit.md)
 >* [Adjuntar una colocación a un paquete](package-attach-placement.md)
 >* [Configuración de paquetes](package-settings.md)
+>* [Vídeo: Cómo crear un paquete](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/package-create.html)
 
