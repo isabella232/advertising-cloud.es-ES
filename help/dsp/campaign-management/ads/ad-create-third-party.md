@@ -3,9 +3,9 @@ title: Crear varias publicidades de terceros
 description: Aprenda a crear varias publicidades de terceros a la vez.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Puede crear hasta 500 publicidades de terceros a la vez cargando etiquetas que apunten a recursos creativos alojados en servidores de publicidad de terceros. Puede incluir el seguimiento de píxeles para los anuncios.<!-- The bulksheet template for other ad servers says you can include 200. Which is it: 200 or 500? -->
 
-Puede cargar hojas de etiquetas [!DNL DoubleClick] y [!DNL Flashtalking] o un archivo rellenado manualmente mediante la plantilla proporcionada.
+Puede cargar: [!DNL DoubleClick] y [!DNL Flashtalking] etiquetas de o un archivo rellenado manualmente con la plantilla proporcionada.
 
 Para crear una sola publicidad de terceros, consulte [Crear una publicidad](ad-create.md).
 
@@ -32,11 +32,11 @@ Para crear una sola publicidad de terceros, consulte [Crear una publicidad](ad-c
 
 1. ([!DNL DoubleClick] y [!DNL Flashtalking] anuncios) Seleccione el tipo de etiqueta que se utilizará para cada recurso de vídeo y para cada recurso de visualización. Las opciones disponibles varían según el servidor de publicidad.
 
-1. (Anuncios en todos los servidores de publicidad excepto [!DNL DoubleClick] y [!DNL Flashtalking]) Haga clic en **[!UICONTROL Download this template]** para descargar una plantilla en formato [!DNL Microsoft Excel] hoja de cálculo (XLSX), que puede rellenar con datos de publicidad y guardar localmente. Las columnas requeridas incluyen [!UICONTROL Ad Name], [!UICONTROL VAST/VPAID URL or Ad Tag] y [!UICONTROL Ad Types].
+1. (Anuncios en todos los servidores de publicidad excepto [!DNL DoubleClick] y [!DNL Flashtalking]) Haga clic en **[!UICONTROL Download this template]** para descargar una plantilla en [!DNL Microsoft Excel] formato de hoja de cálculo (XLSX), que se puede rellenar con datos de anuncio y guardar localmente. Las columnas requeridas incluyen [!UICONTROL Ad Name], [!UICONTROL VAST/VPAID URL or Ad Tag]y [!UICONTROL Ad Types].
 
 1. Haga clic en **[!UICONTROL Upload]** y seleccione un archivo en los formatos .xlsx o .xls desde su dispositivo o red.
 
-   Para las publicidades [!DNL DoubleClick] y [!DNL Flashtalking] , cargue las hojas de etiquetas sin editar desde el servidor de publicidad. Para otros servidores de publicidad, utilice la plantilla que descargó en el paso 3.
+   Para [!DNL DoubleClick] y [!DNL Flashtalking] anuncios, cargar hojas de etiquetas sin editar desde el servidor de publicidad. Para otros servidores de publicidad, utilice la plantilla que descargó en el paso 3.
 
 1. Una vez finalizada la carga, haga clic en **[!UICONTROL Start Building Ads]**.
 
@@ -44,7 +44,7 @@ Para crear una sola publicidad de terceros, consulte [Crear una publicidad](ad-c
 
    1. Revise el estado de cada publicidad, que se basa en comprobaciones de validación de la etiqueta cargada.
    1. (Opcional) Realice una de las siguientes acciones para cada anuncio:
-      * Para obtener una vista previa de un anuncio, haga clic en ![play](/help/dsp/assets/play.png) en la fila del anuncio.
+      * Para obtener una vista previa de una publicidad, haga clic en ![play](/help/dsp/assets/play.png) en la fila de publicidad.
       * Para editar los detalles de la publicidad, haga clic en ![editar](/help/dsp/assets/edit.png), edite los detalles y, a continuación, haga clic en **Guardar**.
       * Para eliminar una publicidad, haga clic en **[!UICONTROL X]** en la fila de publicidad.
 
@@ -65,4 +65,5 @@ Para crear una sola publicidad de terceros, consulte [Crear una publicidad](ad-c
 >* [Crear una publicidad](ad-create.md)
 >* [Tipos de anuncios disponibles](ad-types.md)
 >* [Especificaciones de la publicidad](/help/dsp/assets/ad-specs.pdf)
+>* [Vídeo: Cómo cargar de forma masiva etiquetas de publicidad de terceros](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
 
