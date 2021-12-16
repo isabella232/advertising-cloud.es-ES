@@ -3,9 +3,9 @@ title: Seguridad de la marca y calidad de los medios
 description: Obtenga más información sobre la seguridad de la marca y las funciones de calidad de los medios.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 75227ae12d1095c8a537444b1924023bc2b54be3
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1310'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Además de proporcionar una gestión de calidad central, creemos en que los anun
 
 ### Verificación de inventario con [!DNL Ads.txt] Asistencia
 
-[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) es una iniciativa lanzada por [!DNL Interactive Advertising Bureau] ([!DNL IAB]) en junio de 2017 para facilitar la representación adecuada del inventario en el mercado abierto, combatiendo así las fuentes ilegítimas de tráfico y falsificación de dominios. Los editores y distribuidores participantes declaran públicamente las empresas autorizadas a vender su inventario digital y la naturaleza de esas relaciones, manteniendo un `ads.txt` en el nivel superior del dominio (por ejemplo, `example.com/ads.txt`).
+[[!DNL Ads.txt], que significa [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) es una iniciativa lanzada por [!DNL Interactive Advertising Bureau] ([!DNL IAB]) en junio de 2017 para facilitar la representación adecuada del inventario en el mercado abierto, combatiendo así las fuentes ilegítimas de tráfico y falsificación de dominios. Los editores y distribuidores participantes declaran públicamente las empresas autorizadas a vender su inventario digital y la naturaleza de esas relaciones, manteniendo un `ads.txt` en el nivel superior del dominio (por ejemplo, `example.com/ads.txt`).
 
 DSP admite [!DNL ads.txt] leyendo el `ads.txt` y le da la opción de comprar solo de verificado [!DNL ads.txt] vendedores. Por ejemplo, al hacer coincidir los vendedores, vemos acceso `nytimes.com` al New York Times&#39; `ads.txt` , podemos identificar cuáles son legítimas y cuáles no, y bloquearemos los infractores si la ubicación está configurada para comprar solamente a vendedores verificados. <!-- can we actually mention NY Times? -->
 
@@ -70,11 +70,11 @@ La asignación de inventario es el proceso detallado de revisión e incorporaci�
 
 ### Compatibilidad completa con el bloqueo de sitios
 
-Advertising Cloud DSP proporciona una lista de sitios bloqueados globalmente y la opción de crear listas de sitios bloqueados personalizadas para anunciantes y cuentas.
+Advertising Cloud DSP provides both a globally blocked sites list and the option to create custom blocked sites lists for advertisers and accounts.
 
 #### Lista de sitios bloqueados globalmente de Advertising Cloud DSP
 
-Advertising Cloud DSP mantiene una lista de sitios bloqueados globalmente de los sitios considerados inseguros para ejecutar anuncios. Esta lista contiene sitios con contenido objetable (como odio o terror) y sitios infectados por bots, pre-roll falso, dominios sin coincidencia y otra actividad fraudulenta.
+Advertising Cloud DSP mantiene una lista de sitios bloqueados globalmente de los sitios considerados inseguros para ejecutar anuncios. Esta lista contiene sitios con contenido objetable (como odio o terror) y sitios infectados por bots, falsos dominios pre-roll, dominios no coincidentes y otra actividad fraudulenta.
 
 Como parte de nuestra iniciativa de seguridad de marca para erradicar las actividades que defraudan a los anunciantes, todos los sitios se analizan usando las medidas de la lista de sitios bloqueados del gráfico. Todos los sitios que no pasan las comprobaciones de seguridad de marca se agregan a la lista de sitios bloqueados globalmente. Dado que Advertising Cloud DSP administra esta lista de forma dinámica, los sitios pueden entrar o salir de la lista en cualquier momento, según el último análisis de seguridad de marca.
 
@@ -118,9 +118,11 @@ DSP objetivo de temas le permite dirigirse o bloquear listas de palabras clave a
 
 La segmentación por temas le ayuda a garantizar que los anuncios se proporcionen siempre en un entorno que se ajuste a su marca, ya sea bloqueando contenido dañino o asegurando que se gaste en un contexto que garantice un bueno resultado.
 
-La segmentación por temas requiere que cree segmentos de temas directamente con [!DNL Comscore] o [!DNL Grapeshot] (mediante [!DNL Oracle Data Cloud]). Una vez creados en la plataforma de socios, puede [segmente o excluya un ID de segmento en la variable[!UICONTROL  Audience Targeting] sección para cada ubicación](/help/dsp/campaign-management/placements/placement-settings.md). Se pueden aplicar tarifas adicionales para esta función.
+La segmentación por temas requiere que cree segmentos de tema personalizados directamente con [!DNL Comscore] o [!DNL Grapeshot] (mediante [!DNL Oracle Data Cloud]). Una vez creados en la plataforma de socios, puede [segmente o excluya un ID de segmento en la variable [!UICONTROL Audience Targeting] sección para cada ubicación](/help/dsp/campaign-management/placements/placement-settings.md). Se pueden aplicar tarifas adicionales para esta función.
 
-Para empezar, póngase en contacto con su proveedor preferido o con su [!DNL Adobe] administrador de cuentas.
+* Para crear un [!DNL Comscore] cuenta y crear segmentos personalizados, puede solicitar un inicio de sesión para [!DNL Activation Segment Manager] en ]http://agents.comscore.com](http://agents.comscore.com). Consulte la [[!DNL Comscore] centro de ayuda](https://comscoreactivation.zendesk.com/hc/) para obtener instrucciones completas sobre la configuración de segmentos personalizados. Las tarifas para los segmentos personalizados se pueden ver en [!DNL Segment Manager] a medida que los crea.
+
+* Para empezar, [!DNL Oracle Data Cloud], póngase en contacto con [!DNL Oracle Data Cloud] o [!DNL Adobe] administrador de cuentas.
 
 ![Logotipo de Comscore](/help/dsp/assets/comscore-logo.png) ![Logotipo de Grapeshot](/help/dsp/assets/oracle-grapeshot-logo.png)
 
