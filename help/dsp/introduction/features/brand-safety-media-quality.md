@@ -3,9 +3,9 @@ title: Seguridad de la marca y calidad de los medios
 description: Obtenga más información sobre la seguridad de la marca y las funciones de calidad de los medios.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 75227ae12d1095c8a537444b1924023bc2b54be3
+source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
 workflow-type: tm+mt
-source-wordcount: '1310'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ La asignación de inventario es el proceso detallado de revisión e incorporaci�
 
 ### Compatibilidad completa con el bloqueo de sitios
 
-Advertising Cloud DSP provides both a globally blocked sites list and the option to create custom blocked sites lists for advertisers and accounts.
+Advertising Cloud DSP proporciona una lista de sitios bloqueados globalmente y la opción de crear listas de sitios bloqueados personalizadas para anunciantes y cuentas.
 
 #### Lista de sitios bloqueados globalmente de Advertising Cloud DSP
 
@@ -114,13 +114,13 @@ Puede establecer filtros de visualización predeterminados para cada anunciante<
 
 ### Segmentación de temas
 
-DSP objetivo de temas le permite dirigirse o bloquear listas de palabras clave aprovechando nuestros socios contextuales líderes en la industria [!DNL Comscore] y [!DNL Oracle Data Cloud] ([!DNL Grapeshot]).
-
-La segmentación por temas le ayuda a garantizar que los anuncios se proporcionen siempre en un entorno que se ajuste a su marca, ya sea bloqueando contenido dañino o asegurando que se gaste en un contexto que garantice un bueno resultado.
+DSP objetivo de temas le permite dirigirse o bloquear listas de palabras clave aprovechando nuestros socios contextuales líderes en la industria [!DNL Comscore] y [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). La segmentación por temas le ayuda a garantizar que los anuncios se proporcionen siempre en un entorno que se ajuste a su marca, ya sea bloqueando contenido dañino o asegurando que se gaste en un contexto que garantice un bueno resultado.
 
 La segmentación por temas requiere que cree segmentos de tema personalizados directamente con [!DNL Comscore] o [!DNL Grapeshot] (mediante [!DNL Oracle Data Cloud]). Una vez creados en la plataforma de socios, puede [segmente o excluya un ID de segmento en la variable [!UICONTROL Audience Targeting] sección para cada ubicación](/help/dsp/campaign-management/placements/placement-settings.md). Se pueden aplicar tarifas adicionales para esta función.
 
-* Para crear un [!DNL Comscore] cuenta y crear segmentos personalizados, puede solicitar un inicio de sesión para [!DNL Activation Segment Manager] en ]http://agents.comscore.com](http://agents.comscore.com). Consulte la [[!DNL Comscore] centro de ayuda](https://comscoreactivation.zendesk.com/hc/) para obtener instrucciones completas sobre la configuración de segmentos personalizados. Las tarifas para los segmentos personalizados se pueden ver en [!DNL Segment Manager] a medida que los crea.
+Para crear segmentos de tema personalizados:
+
+* Para crear un [!DNL Comscore] cuenta y crear segmentos personalizados, puede solicitar un inicio de sesión para [!DNL Activation Segment Manager] at [http://agents.comscore.com](http://agents.comscore.com). Consulte la [[!DNL Comscore] centro de ayuda](https://comscoreactivation.zendesk.com/hc/) para obtener instrucciones completas sobre la configuración de segmentos personalizados. Las tarifas para los segmentos personalizados se pueden ver en [!DNL Segment Manager] a medida que los crea.
 
 * Para empezar, [!DNL Oracle Data Cloud], póngase en contacto con [!DNL Oracle Data Cloud] o [!DNL Adobe] administrador de cuentas.
 
