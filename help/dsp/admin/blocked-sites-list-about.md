@@ -1,7 +1,7 @@
 ---
 title: Acerca de las listas de sitios bloqueados a nivel de cuenta y de anunciante
 description: Obtenga más información sobre la lista de sitios bloqueados para una cuenta o un anunciante.
-source-git-commit: fd111b2d11b409b40aacde3cfd94a8865b7bc289
+source-git-commit: 32988f3bd4e4b63304f6b2a53949eda7842a60f0
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
