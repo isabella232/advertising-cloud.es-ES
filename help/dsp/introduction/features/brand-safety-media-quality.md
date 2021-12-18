@@ -3,9 +3,9 @@ title: Seguridad de la marca y calidad de los medios
 description: Obtenga más información sobre la seguridad de la marca y las funciones de calidad de los medios.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
+source-git-commit: fac152a5e3d040bcfacda97f05f3990fd17f677d
 workflow-type: tm+mt
-source-wordcount: '1315'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ La asignación de inventario es el proceso detallado de revisión e incorporaci�
 
 Advertising Cloud DSP proporciona una lista de sitios bloqueados globalmente y la opción de crear listas de sitios bloqueados personalizadas para anunciantes y cuentas.
 
-#### Lista de sitios bloqueados globalmente de Advertising Cloud DSP
+#### Lista de sitios bloqueados globalmente de Advertising Cloud DSP {#global-blocked-sites}
 
 Advertising Cloud DSP mantiene una lista de sitios bloqueados globalmente de los sitios considerados inseguros para ejecutar anuncios. Esta lista contiene sitios con contenido objetable (como odio o terror) y sitios infectados por bots, falsos dominios pre-roll, dominios no coincidentes y otra actividad fraudulenta.
 

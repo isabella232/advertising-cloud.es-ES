@@ -1,9 +1,9 @@
 ---
 title: Acerca de las listas de sitios bloqueados a nivel de cuenta y de anunciante
 description: Obtenga más información sobre la lista de sitios bloqueados para una cuenta o un anunciante.
-source-git-commit: 32988f3bd4e4b63304f6b2a53949eda7842a60f0
+source-git-commit: 490147fb8479474ce95c17d59b512254596746c2
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Las listas de nivel del anunciante anulan las listas de nivel de cuenta.
 
 >[!NOTE]
 >
->* Las listas de sitios bloqueados a nivel de cuenta y de anunciante se aplican además de Advertising Cloud DSP [lista de sitios bloqueados globalmente](/help/dsp/introduction/features/brand-safety-media-quality.md), que incluyen sitios considerados inseguros para los anuncios.
+>* Las listas de sitios bloqueados a nivel de cuenta y de anunciante se aplican además de Advertising Cloud DSP [lista de sitios bloqueados globalmente](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites), que incluyen sitios considerados inseguros para los anuncios.
 >* Los usuarios también pueden agregar sitios de destino a cualquier ubicación.
 >* Las listas de sitios bloqueados siempre anulan las listas de sitios segmentados. Si una colocación excluye e incluye el mismo objetivo para una publicidad, se excluye el objetivo.
 
