@@ -3,9 +3,9 @@ title: Seguridad de la marca y calidad de los medios
 description: Obtenga más información sobre la seguridad de la marca y las funciones de calidad de los medios.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: fac152a5e3d040bcfacda97f05f3990fd17f677d
+source-git-commit: 3bca3d5b4a1ec0bf9bb23946248de350b8bbf2a6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -120,7 +120,7 @@ La segmentación por temas requiere que cree segmentos de tema personalizados di
 
 Para crear segmentos de tema personalizados:
 
-* Para crear un [!DNL Comscore] cuenta y crear segmentos personalizados, puede solicitar un inicio de sesión para [!DNL Activation Segment Manager] at [http://agents.comscore.com](http://agents.comscore.com). Consulte la [[!DNL Comscore] centro de ayuda](https://comscoreactivation.zendesk.com/hc/) para obtener instrucciones completas sobre la configuración de segmentos personalizados. Las tarifas para los segmentos personalizados se pueden ver en [!DNL Segment Manager] a medida que los crea.
+* Para crear un [!DNL Comscore] cuenta y crear segmentos personalizados, puede solicitar un inicio de sesión para [!DNL Activation Segment Manager] at [https://agents.comscore.com](https://agents.comscore.com). Consulte la [[!DNL Comscore] centro de ayuda](https://comscoreactivation.zendesk.com/hc/) para obtener instrucciones completas sobre la configuración de segmentos personalizados. Las tarifas para los segmentos personalizados se pueden ver en [!DNL Segment Manager] a medida que los crea.
 
 * Para empezar, [!DNL Oracle Data Cloud], póngase en contacto con [!DNL Oracle Data Cloud] o [!DNL Adobe] administrador de cuentas.
 
