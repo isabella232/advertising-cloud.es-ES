@@ -3,9 +3,9 @@ title: 'Compatibilidad de Adobe Advertising Cloud con la Ley de Privacidad del C
 description: Obtenga información sobre la compatibilidad para capturar solicitudes de exclusión de venta de clientes.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: e00f87009fb36a057069caa53f30c7414a2ee444
+source-git-commit: adb3118d291d110e653a62cc1a323410b1a596b2
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Puede comunicar las solicitudes de exclusión de la venta de los consumidores me
 
 ### Método 2: Comunicar las solicitudes de exclusión de CCPA mediante la API de Adobe Experience Platform Privacy Service
 
-*A los anunciantes se les asignó únicamente un ID de organización de Experience Cloud (ID de organización de IMS)*
+*Anunciantes asignados a Adobe Experience Cloud [!DNL Organization ID] ([!DNL IMS Org ID]solo )*
 
 1. Implemente una biblioteca JavaScript para recuperar las cookies del cliente. La misma biblioteca, `AdobePrivacy.js`, se utiliza para todas las soluciones de Adobe Experience Cloud.
 
