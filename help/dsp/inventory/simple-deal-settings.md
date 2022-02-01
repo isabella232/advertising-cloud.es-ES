@@ -2,9 +2,9 @@
 title: '[!UICONTROL Simple Ad Serving] Configuración de ofertas'
 description: Obtenga información sobre la configuración disponible para [!UICONTROL Simple Ad Serving] ofertas.
 feature: DSP Simple Ad Serving
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 | Parámetro | Descripción |
 |-----------|-------------|
 | **[!UICONTROL Serving Type]** | Tipo de medio para esta operación: *[!UICONTROL Video],* *[!UICONTROL Display],* o *[!UICONTROL Audio].* |
-| **[!UICONTROL Publisher Site Served On]** | Nombre del publicador que vende este inventario. Busque un publicador introduciendo al menos los dos primeros caracteres en el nombre. Para agregar un publicador que no aparece en la lista, póngase en contacto con su [!DNL Adobe] administrador de cuentas. |
+| **[!UICONTROL Publisher Site Served On]** | Nombre del publicador que vende este inventario. Busque un publicador introduciendo al menos los dos primeros caracteres en el nombre. Para agregar un publicador que no aparece en la lista, póngase en contacto con su [!DNL Adobe] equipo de la cuenta. |
 | **[!UICONTROL Advertiser]** | Un solo anunciante de la cuenta que puede acceder a esta oferta. Seleccione también la campaña y (opcionalmente) el paquete en el que está disponible la oferta. |
 | **[!UICONTROL Media Quality Assessment?]** | (Algunos usuarios) Habilita la publicidad para que se ejecute en otra DSP para verificación de terceros. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | La única opción es *[!UICONTROL Site Serve (Event Pixels)]*. |
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 | Parámetro | Descripción |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | El coste por mil impresiones (CPM), tal como se refleja en la tarjeta de tarifa de su contrato. Póngase en contacto con su [!DNL Adobe] administrador de cuentas para este valor. <br><br>Especifique también la moneda para la oferta. Todos los usuarios pueden seleccionar USD o, si el SSP admite monedas adicionales, la moneda de la cuenta de DSP. |
+| **[!UICONTROL Media CPM]** | El coste por mil impresiones (CPM), tal como se refleja en la tarjeta de tarifa de su contrato. Póngase en contacto con su [!DNL Adobe] equipo de cuenta para este valor. <br><br>Especifique también la moneda para la oferta. Todos los usuarios pueden seleccionar USD o, si el SSP admite monedas adicionales, la moneda de la cuenta de DSP. |
 | **[!UICONTROL Third Party Billed Fees]** | (Opcional) Una tasa estática de terceros que se rastreará como un costo no facturable, y la moneda para el acuerdo.<br><br>Todos los usuarios pueden seleccionar USD o, si el SSP admite monedas adicionales, la moneda de la cuenta de DSP. **NOTA:** Las tasas facturables se reflejan en la [!UICONTROL Net CPM] métrica. |
 | **[!UICONTROL Third Party Fee Description]** | (Opcional) Descripción de las tarifas de terceros. |
 | **[!UICONTROL Flight Dates]** | Las fechas de inicio y finalización del tráfico que utiliza esta oferta. Las fechas de vuelo deben incluirse en las fechas de vuelo de la campaña. Las etiquetas publicitarias solo devolverán una respuesta durante el vuelo especificado.<br><br> Se recomienda crear una campaña de servicio de publicidad sencilla independiente de un año de duración y crear píxeles de seguimiento dentro de ella. |

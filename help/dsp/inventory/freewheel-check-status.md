@@ -1,10 +1,11 @@
 ---
-title: Compruebe el estado de las publicidades para [!DNL [!DNL FreeWheel]] Oferta PG
+title: Comprobar el estado de las publicidades para un [!DNL [!DNL FreeWheel]] Oferta PG
 description: Obtenga información sobre cómo encontrar el estado de las publicidades para [!DNL Freewheel] ofertas garantizadas mediante programación.
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 57c365f6-41cf-4ab6-b71d-fe9984eaf115
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 Ver si los envíos de anuncios a [!DNL Freewheel] tuvieron éxito. Puede volver a enviar cualquier publicidad según sea necesario.
 
-Para cualquier pregunta o problema adicional con el reenvío, póngase en contacto con su [!DNL Adobe] administrador de cuentas.
+Para cualquier pregunta o problema adicional con el reenvío, póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 ## Compruebe el estado en la sección [!UICONTROL Ads] Ver
 

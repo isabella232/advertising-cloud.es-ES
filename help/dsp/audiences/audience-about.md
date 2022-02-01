@@ -3,7 +3,7 @@ title: Acerca de la gestión de público en Advertising Cloud DSP
 description: Obtenga información sobre las funciones de gestión de público.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Advertising Cloud DSP puede importar sus propios segmentos de datos de origen de
 
 Advertising Cloud DSP también puede importar segmentos de terceros personalizados, incluidas combinaciones complejas de segmentos de terceros. Puede proporcionar los segmentos a cualquier conjunto de anunciantes, según sea necesario.
 
-Póngase en contacto con su [!DNL Adobe] administrador de cuentas para obtener más información.
+Póngase en contacto con su [!DNL Adobe] equipo de cuenta para obtener más información.
 
 ## Audiencias disponibles como destinos de colocación
 
@@ -102,11 +102,11 @@ La variable [!UICONTROL Segments] la vista también enumera los siguientes tipos
 
 * Todos los segmentos de origen importados disponibles para el usuario.
 
-   No puede editar ni compartir segmentos de origen que se hayan compartido con usted. Póngase en contacto con su [!DNL Adobe] administrador de cuentas si necesita compartir segmentos de origen con usuarios adicionales.
+   No puede editar ni compartir segmentos de origen que se hayan compartido con usted. Póngase en contacto con su [!DNL Adobe] equipo de cuenta si necesita compartir segmentos de origen con usuarios adicionales.
 
 * Todos los segmentos de terceros personalizados disponibles para el usuario.
 
-   No puede editar ni compartir segmentos de terceros que se compartieron con usted. Póngase en contacto con su [!DNL Adobe] administrador de cuentas si necesita compartir segmentos de terceros con usuarios adicionales.
+   No puede editar ni compartir segmentos de terceros que se compartieron con usted. Póngase en contacto con su [!DNL Adobe] equipo de cuenta si necesita compartir segmentos de terceros con usuarios adicionales.
 
 >[!MORELIKETHIS]
 >

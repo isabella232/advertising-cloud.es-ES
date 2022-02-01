@@ -3,7 +3,7 @@ title: Prácticas recomendadas para configurar campañas de rendimiento
 description: Conozca las prácticas recomendadas para configurar sus campañas centradas en el rendimiento, que incluyen ubicaciones optimizadas para la CPA más baja o el ROAS más alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 0%
@@ -140,7 +140,7 @@ Para maximizar la escala, utilice [!UICONTROL Public] (Abrir Exchange) y [!UICON
 
 * **[!UICONTROL Device Targeting]**:
    * Incluir [!UICONTROL Computer], [!UICONTROL Mobile]y [!UICONTROL Tablet].
-   * No segmentar [!UICONTROL Firefox] y [!UICONTROL Safari] debido a las limitaciones de segmentación y medición. Póngase en contacto con su [!DNL Adobe] administrador de cuentas para obtener más información [!DNL Adobe] compatibilidad con [!DNL Safari ITP].
+   * No segmentar [!UICONTROL Firefox] y [!UICONTROL Safari] debido a las limitaciones de segmentación y medición. Póngase en contacto con su [!DNL Adobe] equipo de la cuenta para obtener más información [!DNL Adobe] compatibilidad con [!DNL Safari ITP].
    * Si segmenta el tráfico web móvil, deshabilite todos los exploradores móviles excepto [!UICONTROL Chrome] y [!UICONTROL Edge].
 
 ### Seguridad de la marca y calidad de los medios

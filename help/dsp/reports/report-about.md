@@ -3,9 +3,9 @@ title: Acerca de los informes personalizados
 description: Obtenga información sobre las opciones para crear informes personalizados manualmente o mediante plantillas de informe preconfiguradas.
 feature: DSP Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Puede generar informes una vez o programarlos para que se generen diariamente, s
 
 ## Informes entre cuentas {#cross-account-reporting}
 
-Cualquier organización con varias cuentas de DSP puede, opcionalmente, habilitar los datos entre cuentas en los informes personalizados según las necesidades de la organización. Por ejemplo, puede dar a la Cuenta A acceso a los datos de la Cuenta B y darle acceso a los datos de la Cuenta C (pero no a los de la Cuenta A). Para habilitar y configurar esta función, póngase en contacto con su administrador de cuentas de.
+Cualquier organización con varias cuentas de DSP puede, opcionalmente, habilitar los datos entre cuentas en los informes personalizados según las necesidades de la organización. Por ejemplo, puede dar a la Cuenta A acceso a los datos de la Cuenta B y darle acceso a los datos de la Cuenta C (pero no a los de la Cuenta A). Para habilitar y configurar esta función, póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 Una vez que la función esté habilitada para su organización, puede [filter](report-settings.md) cualquiera de los siguientes tipos de informes por cuenta:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)]y [!UICONTROL Conversion].
 

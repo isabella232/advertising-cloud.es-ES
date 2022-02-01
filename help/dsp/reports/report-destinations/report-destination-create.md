@@ -2,13 +2,13 @@
 title: Crear un destino de informe
 description: Obtenga información sobre cómo crear un destino para el envío de informes personalizados.
 feature: DSP Custom Reports
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 33c58a98-a7d3-4d05-99e7-5e55ba3e625a
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
 
 ---
-
 
 # Crear un destino de informe
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
-> Si el informe está configurado para su envío a cualquier tipo de FTP o [!DNL Amazon S3] ubicación, no recibirá notificaciones si el informe se cancela debido a errores. Si no recibe los informes que espera, póngase en contacto con su [!DNL Adobe] administrador de cuentas para saber por qué.
+> Si el informe está configurado para su envío a cualquier tipo de FTP o [!DNL Amazon S3] ubicación, no recibirá notificaciones si el informe se cancela debido a errores. Si no recibe los informes que espera, póngase en contacto con su [!DNL Adobe] equipo de la cuenta para averiguar por qué.
 
 >[!MORELIKETHIS]
 >

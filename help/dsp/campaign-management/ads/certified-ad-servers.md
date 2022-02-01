@@ -2,7 +2,8 @@
 title: Socios certificados de servicio de publicidad
 description: Ver todos los servidores de publicidad certificados y las unidades de publicidad.
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -40,7 +41,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | Las máscaras de alto impacto deben proporcionarse con un ID de oferta de visualización de 180 x 150 en toda la red de inventario de Inskin. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | Anclaje, BYOC, Pase, Desglose y Barra de tareas de 320 x 50; 300x250 Outstream </br></br>Póngase en contacto con su [!DNL Adobe] administrador de cuentas para obtener ayuda sobre la configuración de unidades de publicidad. |
+| [!DNL Kargo] |  | X |  |  | Anclaje, BYOC, Pase, Desglose y Barra de tareas de 320 x 50; 300x250 Outstream </br></br>Póngase en contacto con su [!DNL Adobe] equipo de la cuenta para obtener ayuda sobre la configuración de unidades de publicidad. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |

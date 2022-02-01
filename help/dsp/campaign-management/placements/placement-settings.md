@@ -3,7 +3,7 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '3280'
 ht-degree: 0%
@@ -304,7 +304,7 @@ Si lo desea, puede exportar la lista de sitios bloqueados y con objetivo como ar
    * Para seleccionar manualmente un intervalo, haga clic dentro de una celda y, opcionalmente, arrastre para seleccionarlo.
 1. Haga clic **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Opcional; disponible para anunciantes configurados con [!DNL Comscore] y [!DNL Grapeshot] segmentos) Nombres o ID de segmentos específicos de [!DNL Comscore] y [!DNL Grapeshot] para incluir como objetivos. Se pueden aplicar tarifas adicionales para esta función. Para activar esta función y configurar segmentos de tema, póngase en contacto con su [!DNL Adobe] administrador de cuentas.
+**[!UICONTROL Topic Targeting]:** (Opcional; disponible para anunciantes configurados con [!DNL Comscore] y [!DNL Grapeshot] segmentos) Nombres o ID de segmentos específicos de [!DNL Comscore] y [!DNL Grapeshot] para incluir como objetivos. Se pueden aplicar tarifas adicionales para esta función. Para activar esta función y configurar segmentos de tema, póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 Para especificar el objetivo de temas:
 

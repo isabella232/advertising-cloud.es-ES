@@ -3,7 +3,7 @@ title: Requisitos previos e información clave para la implementación [!DNL Ana
 description: Requisitos previos e información clave para la implementación [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '845'
 ht-degree: 0%
@@ -57,11 +57,11 @@ Porque [!DNL Analytics] Los datos se envían a Advertising Cloud para su creaci�
    >
    > La ventana de retrospectiva de impresión es específica de Advertising Cloud, no de [!DNL Analytics for Advertising Cloud], informes.
 
-La variable [!DNL Analytics for Advertising Cloud] JavaScript utiliza esta configuración para determinar hasta dónde se debe considerar válida una entrada de visualización o de pulsación en el sitio. Para obtener más información sobre cómo se determinan las visualizaciones y las pulsaciones, consulte[Advertising Cloud ID utilizados por Analytics](ids.md).&quot;
+La variable [!DNL Analytics for Advertising Cloud] JavaScript utiliza esta configuración para determinar hasta dónde se debe considerar válida una entrada de visualización o de pulsación en el sitio. Para obtener más información sobre cómo se determinan las visualizaciones y las pulsaciones, consulte &quot;[Advertising Cloud ID utilizados por Analytics](ids.md).&quot;
 
 ## Datos de Advertising Cloud en [!DNL Analytics]
 
-[!DNL Analytics] establece los Advertising Cloud ID (AMO ID) dentro de la visita de Analytics, sujetos a la configuración de persistencia del eVar del anunciante, que se aplica tanto a las pulsaciones como a las visualizaciones. La configuración de persistencia se configura en el back-end de Advertising Cloud y en su [!DNL Adobe] el administrador de cuentas puede cambiarlo.
+[!DNL Analytics] establece los Advertising Cloud ID (AMO ID) dentro de la visita de Analytics, sujetos a la configuración de persistencia del eVar del anunciante, que se aplica tanto a las pulsaciones como a las visualizaciones. La configuración de persistencia se configura en el back-end de Advertising Cloud y en su [!DNL Adobe] el equipo de la cuenta puede cambiarlo.
 
 * [!DNL Analytics for Advertising Cloud] Caducidad del eVar: 60 días de forma predeterminada para los AMO ID
 
@@ -77,7 +77,7 @@ La variable [!DNL Analytics for Advertising Cloud] JavaScript utiliza esta confi
 * Vídeo en línea
 * Nativo
 
-Póngase en contacto con su [!DNL Adobe] administrador de cuentas para conocer los últimos entornos de publicidad admitidos en cada canal.
+Póngase en contacto con su [!DNL Adobe] equipo de cuenta para conocer los últimos entornos de publicidad admitidos en cada canal.
 
 ## Aspectos importantes antes de una implementación
 

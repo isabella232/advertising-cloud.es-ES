@@ -3,7 +3,7 @@ title: Configuración de anuncios de audio
 description: Consulte las descripciones de la configuración de publicidad disponible para los anuncios de audio.
 feature: DSP Ads
 exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Este campo puede mostrarse o no, en función de los permisos de la cuenta.
 
 **[!UICONTROL Final VAST Tag]:** (Los anuncios que utilizan únicamente etiquetas VAST) La dirección URL del origen de los anuncios de terceros con los [Macros de seguimiento de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) insertado, si procede.
 
-**[!UICONTROL Select Rate]:** (Usuarios con permiso solamente) Una tasa previamente negociada facturada a través del Adobe, o una de las tarifas que ha negociado y se facturará a través del proveedor. Para agregar una tasa, póngase en contacto con su [!DNL Adobe] administrador de cuentas.
+**[!UICONTROL Select Rate]:** (Usuarios con permiso solamente) Una tasa previamente negociada facturada a través del Adobe, o una de las tarifas que ha negociado y se facturará a través del proveedor. Para agregar una tasa, póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 ### [!UICONTROL Companion]
 

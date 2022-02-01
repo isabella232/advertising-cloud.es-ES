@@ -3,7 +3,7 @@ title: Recuperar informes de exclusión de ventas de consumidores
 description: Obtenga información sobre cómo recuperar informes de ID enviados para solicitudes de exclusión de venta.
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Puede recuperar informes mensuales de los ID que los clientes han enviado para s
 
 >[!NOTE]
 >
->Opcionalmente, puede recuperar los informes de exclusión de clientes mediante Advertising Cloud [!DNL Trafficking API]. Para obtener instrucciones, consulte la documentación de [!DNL Trafficking API]. Si su organización no utiliza la variable [!DNL Trafficking API] pero está interesado en obtener más información, póngase en contacto con su [!DNL Adobe] administrador de cuentas.
+>Opcionalmente, puede recuperar los informes de exclusión de clientes mediante Advertising Cloud [!DNL Trafficking API]. Para obtener instrucciones, consulte la documentación de [!DNL Trafficking API]. Si su organización no utiliza la variable [!DNL Trafficking API] pero está interesado en obtener más información, póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 1. En el menú principal, haga clic en **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 1. Sobre la lista de segmentos, haga clic en **[!UICONTROL Access CCPA Reports]**.

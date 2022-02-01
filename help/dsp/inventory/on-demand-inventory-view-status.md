@@ -3,9 +3,9 @@ title: Ver el estado de su [!DNL On Demand] Solicitudes de ofertas y suscripcion
 description: Obtenga información sobre cómo ver el estado de su [!DNL On Demand] gestionar solicitudes y suscripciones.
 feature: DSP On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ La aprobación o denegación del editor se puede basar en el tipo de cuenta y la
 
    Para ver por qué se denegó una solicitud para cada anunciante, haga clic en ![denegado](/help/dsp/assets/denied.png). Si el motivo de la denegación es algo que se puede resolver, puede [volver a solicitar la operación](/help/dsp/inventory/on-demand-inventory-rerequest.md).
 
-Si tiene alguna pregunta sobre el proceso de aprobación, póngase en contacto con su [!DNL Adobe] administrador de cuentas.
+Si tiene alguna pregunta sobre el proceso de aprobación, póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 >[!MORELIKETHIS]
 >

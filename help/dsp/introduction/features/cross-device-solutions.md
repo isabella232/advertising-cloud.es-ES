@@ -3,7 +3,7 @@ title: Soluciones entre dispositivos
 description: Obtenga más información sobre las funciones entre dispositivos.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Con la atribución basada en personas, puede atribuir conversiones que se produj
 
 ### Habilitar la medición de atribución basada en personas
 
-Si desea activar la medición de atribución entre dispositivos, póngase en contacto con su [!DNL Adobe] administrador de cuentas. Para [!DNL Adobe Device Co-op] cuentas, deberá proporcionar el [!DNL Adobe Device Co-op] contrato y Experience Cloud [!DNL Organization ID] (antes denominado [!DNL IMS org ID]).
+Si desea activar la medición de atribución entre dispositivos, póngase en contacto con su [!DNL Adobe] equipo de la cuenta. Para [!DNL Adobe Device Co-op] cuentas, deberá proporcionar el [!DNL Adobe Device Co-op] contrato y Experience Cloud [!DNL Organization ID] (antes denominado [!DNL IMS org ID]).
 
 Para ver si una cuenta de anunciante está configurada para usar un gráfico de dispositivos para la medición de atribuciones:
 
@@ -113,7 +113,7 @@ Si ordena el porcentaje de conversiones totales entre dispositivos ([!UICONTROL 
 
 * Paquetes : ver qué paquetes generan la mayor cantidad de conversiones totales y cuáles tienen un alto porcentaje de conversiones entre dispositivos. Esto puede ayudarle a comprender dónde concentrar el gasto.
 
-* Ubicaciones : Compare el rendimiento de la ubicación y la atribución (por ejemplo, un anuncio web móvil puede generar conversiones en el escritorio). Sin un gráfico del dispositivo para la atribución, es posible que se pierda el impacto de la colocación de una web móvil en las conversiones del escritorio, o que se oculte si la mayoría de los usuarios convierte en escritorio y no en la web móvil.
+* Ubicaciones : Compare el rendimiento de la ubicación y la atribución (por ejemplo, un anuncio web móvil puede generar conversiones en el escritorio). Sin un gráfico del dispositivo para la atribución, puede perder el impacto de una ubicación web móvil en las conversiones del escritorio, o puede quedar enterrado si la mayoría de los usuarios convierte en escritorio y no en web móvil.
 
 * Anuncios : Descubra qué anuncios generan mayores conversiones y cuantifique su valor y su impacto tanto en los navegadores web como en los entornos de aplicaciones móviles.
 

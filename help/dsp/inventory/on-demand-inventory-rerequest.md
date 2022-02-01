@@ -3,7 +3,7 @@ title: Volver a solicitar [!DNL On Demand] Ofertas de inventario Premium
 description: Obtenga información sobre cómo volver a solicitar [!DNL On Demand] tratos que anteriormente se negaron.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Puede volver a solicitar [!DNL On Demand] ofertas de inventario para las que se le denegaron, incluidas las ofertas de un editor al que esté suscrito. Siga estos pasos para asegurarse de que todos los ajustes de cuenta aplicables son correctos antes de enviar una nueva solicitud.
 
-Si una oferta no se aprueba después de que la vuelva a solicitar, póngase en contacto con su [!DNL Adobe] administrador de cuentas para ver si el editor tiene restricciones adicionales que prohíben que su cuenta acceda al acuerdo.
+Si una oferta no se aprueba después de que la vuelva a solicitar, póngase en contacto con su [!DNL Adobe] equipo de la cuenta para ver si el publicador tiene restricciones adicionales que prohíben que su cuenta acceda al acuerdo.
 
 Una vez que el acuerdo es [aprobado](/help/dsp/inventory/on-demand-inventory-view-status.md), se incluye de forma predeterminada como objetivo para las nuevas ubicaciones que se dirigen a todos [!DNL On Demand] inventario. La nueva operación también está disponible como destino para ubicaciones existentes, pero debe editar manualmente la configuración de ubicación para agregar la operación como objetivo.
 
-1. Confirme con su [!DNL Adobe] el administrador de cuentas que [!UICONTROL Account Type] para la cuenta de DSP de su organización es correcta.
+1. Confirme con su [!DNL Adobe] equipo de la cuenta que [!UICONTROL Account Type] para la cuenta de DSP de su organización es correcta.
 
 1. Confirme que la categoría del anunciante para la cuenta del anunciante aplicable sea correcta:
 

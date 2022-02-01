@@ -3,7 +3,7 @@ title: Variaciones de datos previstas entre [!DNL Analytics] y Advertising Cloud
 description: Variaciones de datos previstas entre [!DNL Analytics] y Advertising Cloud
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '3282'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Si se modifica una ventana retrospectiva de informes o un modelo de atribución 
 
 >[!IMPORTANT]
 >
->La práctica recomendada es utilizar las mismas ventanas retroactivas y el mismo modelo de atribución tanto en Advertising Cloud como [!DNL Analytics]. Trabaje con su [!DNL Adobe] administrador de cuentas según sea necesario para identificar la configuración actual y mantener las configuraciones sincronizadas.
+>La práctica recomendada es utilizar las mismas ventanas retroactivas y el mismo modelo de atribución tanto en Advertising Cloud como [!DNL Analytics]. Trabaje con su [!DNL Adobe] equipo de la cuenta según sea necesario para identificar la configuración actual y mantener las configuraciones sincronizadas.
 
 Estos mismos conceptos se aplican a cualquier otro canal similar que utilice diferentes ventanas retroactivas o modelos de atribución.
 
@@ -161,7 +161,7 @@ En los informes de Advertising Cloud, puede comparar los clics con las instancia
 
 ```Clicks to [!UICONTROL EF ID Instances] = (ef_id_instances / Clicks)```
 
-Aunque se espera una tasa de coincidencia alta entre el ID de AMO y el ID de EF, no se espera una paridad del 100 % porque el ID de AMO y el ID de EF rastrean fundamentalmente datos diferentes, y esta diferencia puede provocar ligeras diferencias en el total [!UICONTROL AMO ID Instances] y [!UICONTROL EF ID Instances]. Si el total [!UICONTROL AMO ID Instances] en [!DNL Analytics] difieren de [!UICONTROL EF ID Instances] en Advertising Cloud en más del 1 %, sin embargo, póngase en contacto con su [!DNL Adobe] administrador de cuentas para obtener ayuda.
+Aunque se espera una tasa de coincidencia alta entre el ID de AMO y el ID de EF, no se espera una paridad del 100 % porque el ID de AMO y el ID de EF rastrean fundamentalmente datos diferentes, y esta diferencia puede provocar ligeras diferencias en el total [!UICONTROL AMO ID Instances] y [!UICONTROL EF ID Instances]. Si el total [!UICONTROL AMO ID Instances] en [!DNL Analytics] difieren de [!UICONTROL EF ID Instances] en Advertising Cloud en más del 1 %, sin embargo, póngase en contacto con su [!DNL Adobe] equipo de la cuenta para obtener ayuda.
 
 Para obtener más información sobre el ID de AMO y el ID de EF, consulte [Advertising Cloud ID utilizados por Analytics](ids.md).
 
@@ -187,7 +187,7 @@ donde el ID de EF es &quot;`test_ef_id`&quot; y el ID de AMO es &quot;`test_amo_
 
 En este ejemplo, la adición de la etiqueta delimitadora agrega caracteres inesperados al ID de AMO, lo que da como resultado un valor que Analytics no reconoce. Este ID de AMO no se clasificaría y las conversiones asociadas a él caerían en &quot;[!UICONTROL unspecified]&quot; o &quot;[!UICONTROL none]&quot; [!DNL Analytics] informes.
 
-Afortunadamente, mientras que problemas como este son comunes, normalmente no resultan en un alto porcentaje de discrepancia. Sin embargo, si observa una gran discrepancia entre los ID de AMO en [!DNL Analytics] y EF ID en Advertising Cloud, póngase en contacto con su [!DNL Adobe] administrador de cuentas para obtener ayuda.
+Afortunadamente, mientras que problemas como este son comunes, normalmente no resultan en un alto porcentaje de discrepancia. Sin embargo, si observa una gran discrepancia entre los ID de AMO en [!DNL Analytics] y EF ID en Advertising Cloud, póngase en contacto con su [!DNL Adobe] equipo de la cuenta para obtener ayuda.
 
 ## Otras consideraciones de métricas
 

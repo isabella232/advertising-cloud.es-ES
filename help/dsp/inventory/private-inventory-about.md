@@ -2,9 +2,9 @@
 title: Acerca del inventario privado
 description: Acerca del inventario privado
 feature: DSP Private Inventory
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Los anunciantes que buscan más allá de RTB pueden utilizar el inventario priva
 
 ### ID de acuerdos
 
-Si tiene relaciones directas con editores, puede optimizar el proceso de compra de medios y el flujo de trabajo mediante el uso de sus propias ofertas privadas, con su inventario negociado y sus precios, en las ubicaciones de Advertising Cloud DSP. DSP integrará con todos los editores cuando configure una cuenta. Si desea acceder a editores adicionales más adelante, póngase en contacto con su [!DNL Adobe] administrador de cuentas para configurar el acceso. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+Si tiene relaciones directas con editores, puede optimizar el proceso de compra de medios y el flujo de trabajo mediante el uso de sus propias ofertas privadas, con su inventario negociado y sus precios, en las ubicaciones de Advertising Cloud DSP. DSP integrará con todos los editores cuando configure una cuenta. Si desea acceder a editores adicionales más adelante, póngase en contacto con su [!DNL Adobe] equipo de la cuenta para configurar el acceso. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 Todas las transacciones privadas con un ID de acuerdo se financian y facturan mediante [!DNL Adobe].
 

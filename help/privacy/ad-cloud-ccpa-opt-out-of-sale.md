@@ -3,7 +3,7 @@ title: 'Compatibilidad de Adobe Advertising Cloud con la Ley de Privacidad del C
 description: Obtenga información sobre la compatibilidad para capturar solicitudes de exclusión de venta de clientes.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: adb3118d291d110e653a62cc1a323410b1a596b2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Puede recuperar vínculos a los informes mensuales creados en los tres meses ant
 
 Esta función está disponible para las organizaciones que usan la variable [!DNL Trafficking API]. Consulte la documentación de [!DNL Trafficking API] para obtener más información.
 
-Si su organización no utiliza la variable [!DNL Trafficking API] pero está interesado en obtener más información, póngase en contacto con su [!DNL Adobe] administrador de cuentas.
+Si su organización no utiliza la variable [!DNL Trafficking API] pero está interesado en obtener más información, póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 ## Apéndice: Ejemplo [!UICONTROL CCPA Opt-Out-of-Sale] Solicitud de usuarios de API de Privacy Service
 

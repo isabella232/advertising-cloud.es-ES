@@ -3,7 +3,7 @@ title: Información general sobre [!DNL Analytics for Advertising Cloud]
 description: Información general sobre [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1086'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Beneficios principales:
 
 Para usar [!DNL Analytics] como herramienta de informes multimedia de pago, su organización necesita un inicio de sesión de Experience Cloud con acceso a Analysis Workspace. Su equipo de Advertising Cloud le ayudará a asignar los datos de Advertising Cloud a grupos de informes individuales en Analysis Workspace. Puede enviar datos de Advertising Cloud a cualquier grupo de informes, pero debe tener en cuenta los grupos de informes que se han asignado a Advertising Cloud y los que no lo han hecho. En función del grupo de informes, esto puede cambiar los datos notificados.
 
-[Advertising Cloud ID dentro de [!DNL Analytics]](ids.md) funciona como otras eVars, con una caducidad personalizada y persistente. De forma predeterminada, la ventana de retrospectiva de atribución se establece en 60 días durante la implementación de Advertising Cloud. Para cambiar esta configuración, trabaje con su [!DNL Adobe] administrador de cuentas.
+[Advertising Cloud ID dentro de [!DNL Analytics]](ids.md) funciona como otras eVars, con una caducidad personalizada y persistente. De forma predeterminada, la ventana de retrospectiva de atribución se establece en 60 días durante la implementación de Advertising Cloud. Para cambiar esta configuración, trabaje con su [!DNL Adobe] equipo de la cuenta.
 
 Las dimensiones de Advertising Cloud se agregan con el sufijo &quot;(AMO ID)&quot; (como &quot;Tipo de anuncio (AMO ID)&quot;). Consulte &quot;[Métricas de Advertising Cloud en Analysis Workspace](advertising-cloud-metrics-in-analytics.md)&quot; para obtener una lista de las dimensiones disponibles.
 
@@ -82,7 +82,7 @@ Consulte &quot;[Métricas de Analytics en Advertising Cloud](analytics-data-in-a
 
 ### Segmentos de Analytics para redireccionamiento de sitios
 
-Advertising Cloud puede realizar la ingesta [!DNL Analytics] segmentos para fines de remarketing en Advertising Cloud DSP y [!DNL Search] anuncios que utilizan la integración nativa de Audiencias de Experience Cloud entre [!DNL Analytics] y Experience Cloud.
+Advertising Cloud puede realizar la ingesta [!DNL Analytics] segmentos para fines de remarketing en Advertising Cloud DSP y [!DNL Search] anuncios que utilizan la integración de audiencias de Experience Cloud nativa entre [!DNL Analytics] y Experience Cloud.
 
 Para acceder a la [!DNL Analytics] segmentos, una cuenta de anunciante debe tener la variable [Servicio de ID de Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/home.html) activada. Cuando el servicio de ID está habilitado, todos los segmentos del Experience Cloud (incluidos los segmentos creados en [!DNL Analytics] y publicados para el Experience Cloud, segmentos creados en Adobe Audience Manager, segmentos creados en Experience Cloud usando la variable [!DNL People core service], y los segmentos creados en Adobe Experience Platform y enviados a Advertising Cloud mediante Audience Manager) estarán disponibles en Advertising Cloud en cuanto se procesen.
 
