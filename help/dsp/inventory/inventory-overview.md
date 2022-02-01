@@ -3,9 +3,9 @@ title: Descripción general de las funciones de inventario en Advertising Cloud 
 description: Obtenga más información sobre las funciones de inventario disponibles.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 877771cbd3a8e0668add8da15bc2abe02ab4380b
+source-git-commit: 3039557f4929b716d86840cd3cb4a5aa54125145
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Los tipos de inventario disponibles incluyen:
 
 * **[!DNL On Demand]Inventario:** Explore ofertas previamente negociadas y no garantizadas que el Adobe haya seleccionado con nuestros socios editores premium.
 
-* **Inventario privado:** Configure y administre ofertas de mercado privadas (PMP) que haya negociado directamente 1:1 con el editor.
+* **Inventario privado [!DNL Deal IDs]:** Configure y administre ofertas de mercado privadas (PMP) que haya negociado directamente 1:1 con el editor.
 
 * **[!DNL Simple Ad Serving]:** Utilice la tecnología optimizada para la entrega de anuncios y la creación de informes garantizados y no decididos cuando el editor no pueda ejecutar la oferta mediante los ID de la oferta.
 

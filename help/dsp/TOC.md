@@ -8,10 +8,10 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información sobre las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar sobre las estrategias de anuncios en pantalla mediante Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: cf08c97a6a9fecd637f1776b186a18a5c5cc6435
+source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '845'
+ht-degree: 2%
 
 ---
 
@@ -168,19 +168,19 @@ ht-degree: 0%
             + [Enviar una publicidad para un acuerdo garantizado programático a [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
             + [Compruebe el estado de las publicidades para [!DNL FreeWheel] Ofertas garantizadas mediante programación](/help/dsp/inventory/freewheel-check-status.md)
             + [Códigos de error para envíos de anuncios de FreeWheel](/help/dsp/inventory/freewheel-error-codes.md)
-      + [Editar configuración de ID de acuerdo](/help/dsp/inventory/deal-id-edit.md)
-      + [Especificar colocaciones y publicidades para un ID de acuerdo](/help/dsp/inventory/deal-id-attach-placements.md)
-      + [Editar las cuentas con acceso a un ID de acuerdo](/help/dsp/inventory/deal-id-share.md)
-      + [Edición de los anunciantes con acceso a un ID de acuerdo](/help/dsp/inventory/deal-id-edit-advertisers.md)
-      + [Edición de las etiquetas de atributo de un ID de oferta](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
-      + [Lista de colocaciones y publicidades de un acuerdo privado](/help/dsp/inventory/private-deal-view-placements.md)
-      + [Ver un informe detallado de un acuerdo privado](/help/dsp/inventory/private-deal-view-report.md)
-      + [Archivar o desarchivar un acuerdo privado](/help/dsp/inventory/private-deal-archive-unarchive.md)
+         + [Editar configuración de ID de acuerdo](/help/dsp/inventory/deal-id-edit.md)
+         + [Especificar colocaciones y publicidades para un ID de acuerdo](/help/dsp/inventory/deal-id-attach-placements.md)
+         + [Editar las cuentas con acceso a un ID de acuerdo](/help/dsp/inventory/deal-id-share.md)
+         + [Edición de los anunciantes con acceso a un ID de acuerdo](/help/dsp/inventory/deal-id-edit-advertisers.md)
+         + [Edición de las etiquetas de atributo de un ID de oferta](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
       + [!UICONTROL Simple Ad Serving] Ofertas {#sas}
          + [Acerca de [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
          + [Cree un [!UICONTROL Simple Ad Serving] Acuerdo](/help/dsp/inventory/simple-deal-create.md)
          + [[!UICONTROL Simple Ad Serving] Configuración de ofertas](/help/dsp/inventory/simple-deal-settings.md)
          + [Ver píxeles de seguimiento de eventos para un [!UICONTROL Simple Ad Serving] Acuerdo](/help/dsp/inventory/simple-deal-show-pixels.md)
+      + [Lista de colocaciones y publicidades de un acuerdo privado](/help/dsp/inventory/private-deal-view-placements.md)
+      + [Ver un informe detallado de un acuerdo privado](/help/dsp/inventory/private-deal-view-report.md)
+      + [Archivar o desarchivar un acuerdo privado](/help/dsp/inventory/private-deal-archive-unarchive.md)
 + Informes personalizados {#custom-reports}
    + [Acerca de los informes personalizados](/help/dsp/reports/report-about.md)
    + [Crear un informe personalizado](/help/dsp/reports/report-create.md)
