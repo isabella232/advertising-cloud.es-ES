@@ -2,7 +2,8 @@
 title: Cree un [!UICONTROL Simple Ad Serving] Acuerdo
 description: Obtenga información sobre cómo crear un píxel de seguimiento para un [!UICONTROL Simple Ad Serving] trato.
 feature: DSP Simple Ad Serving
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
