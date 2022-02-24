@@ -1,9 +1,9 @@
 ---
-title: '[!DNL On Demand] Editores de inventario Premium en Australia y Nueva Zelanda'
-description: Consulte los editores de inventario  [!DNL On Demand] premium disponibles en Australia y Nueva Zelanda.
+title: '"[!DNL On Demand] Editores de inventario Premium en Australia y Nueva Zelanda"'
+description: Consulte los [!DNL On Demand] editores de inventario premium en Australia y Nueva Zelanda.
 feature: DSP On Demand Inventory
 exl-id: e46ec570-38a7-4ea6-8c4c-d173971c48b7
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -96,8 +96,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL On Demand] Acerca del inventario Premium](on-demand-inventory-about.md)
->* [Suscribirse y solicitar acceso  [!DNL On Demand] al inventario Premium](on-demand-inventory-subscribe.md)
+>* [Acerca de [!DNL On Demand] Inventario Premium](on-demand-inventory-about.md)
+>* [Suscribirse y solicitar acceso a [!DNL On Demand] Inventario Premium](on-demand-inventory-subscribe.md)
 >* [[!DNL On Demand] Editores de inventario Premium en Asia-Pacífico](on-demand-inventory-publishers-apac.md)
 >* [[!DNL On Demand Premium] Editores de inventario en Europa, Medio Oriente y África](on-demand-inventory-publishers-emea.md)
 >* [[!DNL On Demand] Editores de inventario Premium en Norteamérica](on-demand-inventory-publishers-na.md)

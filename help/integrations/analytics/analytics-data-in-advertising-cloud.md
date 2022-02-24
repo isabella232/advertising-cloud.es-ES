@@ -1,9 +1,9 @@
 ---
-title: '[!DNL Analytics] Datos en Advertising Cloud'
-description: '[!DNL Analytics] Datos en Advertising Cloud'
+title: '"[!DNL Analytics] Datos en Advertising Cloud"'
+description: '"[!DNL Analytics] Datos en Advertising Cloud"'
 feature: Integration with Adobe Analytics
 exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## Segmentos de Analytics
 
-Todos los segmentos creados en [!DNL Analytics] y publicados para el Experience Cloud.
+Todos los segmentos creados en [!DNL Analytics] y publicado para el Experience Cloud.
 
 Los nuevos segmentos tardan entre 24 y 48 horas en aparecer en Advertising Cloud. Las actualizaciones de los segmentos existentes se sincronizan en un plazo aproximado de ocho horas.
 
@@ -36,7 +36,7 @@ Los nuevos segmentos tardan entre 24 y 48 horas en aparecer en Advertising Cloud
 * [!UICONTROL Pageviews_total]: Número total de vistas de página del sitio en todas las visitas dentro de la ventana retrospectiva de clics.
 * [[!UICONTROL Bounces] métrica](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html)
 * [[!UICONTROL Visits] métrica](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
-* [!UICONTROL ef_id_instances]: El número de veces que se  [!DNL Analytics] recopiló un  [!UICONTROL EF ID].
+* [!UICONTROL ef_id_instances]: El número de veces que [!DNL Analytics] recopilan un [!UICONTROL EF ID].
 
 ## Métricas de conversión
 
