@@ -1,22 +1,23 @@
 ---
-title: Reenviar una invitación de usuario pendiente para su cuenta de organización
+title: Reenviar una invitación de usuario pendiente
 description: Obtenga información sobre cómo reenviar una invitación de usuario pendiente.
-source-git-commit: 24b14e53322ec2d750319b3929513dc82866a2f0
+source-git-commit: e3d4c2010255ccf821f3a1ae5278bb3414b8783e
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Reenviar una invitación de usuario pendiente para su cuenta de organización
+# Reenviar una invitación de usuario pendiente
 
 *Solo usuarios administradores*
 
-Puede volver a enviar una invitación al usuario a con una invitación pendiente para la cuenta de organización.
+Puede reenviar una invitación a un usuario con una invitación pendiente para la cuenta de organización.
 
 1. Realice una de las siguientes acciones:
 
    * En el menú principal, haga clic en **[!UICONTROL Settings]>[!UICONTROL Users]**.
+
    * En el menú principal, haga clic en **[!UICONTROL Settings]>[!UICONTROL Account]** y, a continuación, haga clic en **[!UICONTROL Edit users]**.
 
 1. En el **Invitaciones** , haga clic en ![Volver a enviar](/help/dsp/assets/resend.png).
