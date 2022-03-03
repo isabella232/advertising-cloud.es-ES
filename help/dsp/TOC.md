@@ -5,13 +5,13 @@ cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
 user-guide-title: Guía de Advertising Cloud DSP
-user-guide-description: Obtenga información sobre las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar sobre las estrategias de anuncios en pantalla mediante Advertising Cloud DSP.
+user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
+source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 2%
+source-wordcount: '864'
+ht-degree: 6%
 
 ---
 
@@ -197,8 +197,14 @@ ht-degree: 2%
       + [Eliminar un [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Configuración](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Administración {#admin}
-   + [Acerca de las listas de sitios bloqueados a nivel de cuenta y de anunciante](/help/dsp/admin/blocked-sites-list-about.md)
-   + [Editar una lista de sitios bloqueados a nivel de cuenta o de anunciante](/help/dsp/admin/blocked-sites-list-edit.md)
+   + [Editar el perfil](/help/dsp/admin/user-own-profile-edit.md)
+   + Usuarios {#users}
+      + [Invitar a un nuevo usuario](/help/dsp/admin/user-invite.md)
+      + [Reenviar una invitación de usuario pendiente](/help/dsp/admin/user-resend-invite.md)
+      + [Desinvitar a un usuario pendiente](/help/dsp/admin/user-uninvite.md)
+   + Sitios bloqueados {#sites}
+      + [Acerca de las listas de sitios bloqueados a nivel de cuenta y de anunciante](/help/dsp/admin/blocked-sites-list-about.md)
+      + [Editar una lista de sitios bloqueados a nivel de cuenta o de anunciante](/help/dsp/admin/blocked-sites-list-edit.md)
 + [Integraciones con Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Asistencia al cliente](https://helpx.adobe.com/es/contact/enterprise-support.ec.html)
 + [Notas de la versión de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
