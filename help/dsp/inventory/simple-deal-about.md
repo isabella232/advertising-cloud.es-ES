@@ -1,11 +1,11 @@
 ---
-title: Cree un [!UICONTROL Simple Ad Serving] Acuerdo
+title: Acerca de [!UICONTROL Simple Ad Serving]
 description: Obtenga información sobre [!UICONTROL Simple Ad Serving] trata el uso de píxeles de seguimiento de eventos.
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
