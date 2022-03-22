@@ -8,9 +8,9 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
+source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '871'
 ht-degree: 6%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 6%
 + Administración de campañas {#campaign-management}
    + [Descripción general de la estructura de administración de campañas](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campañas {#campaigns}
-      + [Acerca de la administración de campañas](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Acerca de Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Creación de una campaña](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [Editar una campaña](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [Duplicar una campaña](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -77,7 +77,7 @@ ht-degree: 6%
             + [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
             + [Configuración de TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
             + [Mostrar configuración de publicidad](/help/dsp/campaign-management/ads/ad-settings-display.md)
-            + [Configuración de publicidad móvil](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+            + [Configuración de anuncios de Mobile](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
             + [Configuración de anuncios nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)
             + [Configuración de anuncio previo a la emisión](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
          + [Prácticas recomendadas para el diseño de superposiciones](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
@@ -94,7 +94,7 @@ ht-degree: 6%
       + [Especificaciones para los tipos de publicidad admitidos](/help/dsp/assets/ad-specs.pdf)
    + Informes de campaña {#campaign-reports}
       + [Acerca de los informes en la plataforma](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [Exportación de datos desde una vista de administración de campañas](/help/dsp/campaign-management/reports/campaign-export-data.md)
+      + [Exportación de datos desde una vista de Campaign Management](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [Ver los detalles de sitios, anuncios y frecuencia de una colocación](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [Ver los informes de diagnóstico de colocación](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + Administrar vistas de datos {#data-views}
@@ -112,7 +112,7 @@ ht-degree: 6%
       + [Columnas de hojas de cálculo descargadas o cargadas](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
    + [Métodos abreviados del teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Preguntas frecuentes sobre la administración de campañas](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Preguntas frecuentes sobre Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimización {#optimization}
    + [Cómo [!DNL DSP] Optimiza las campañas](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Objetivos de optimización y cómo utilizarlos](/help/dsp/optimization/optimization-goals.md)
@@ -205,6 +205,9 @@ ht-degree: 6%
    + Sitios bloqueados {#sites}
       + [Acerca de las listas de sitios bloqueados a nivel de cuenta y de anunciante](/help/dsp/admin/blocked-sites-list-about.md)
       + [Editar una lista de sitios bloqueados a nivel de cuenta o de anunciante](/help/dsp/admin/blocked-sites-list-edit.md)
+   + Notificaciones {#notifications}
+      + [Acerca de las suscripciones de alertas](/help/dsp/admin/alerts-about.md)
+      + [Administrar suscripciones de alertas](/help/dsp/admin/alerts-manage.md)
 + [Integraciones con Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Asistencia al cliente](https://helpx.adobe.com/es/contact/enterprise-support.ec.html)
 + [Notas de la versión de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

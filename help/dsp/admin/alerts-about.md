@@ -1,7 +1,7 @@
 ---
 title: Acerca de las suscripciones de alertas
 description: Obtenga información sobre las alertas de correo electrónico automáticas.
-source-git-commit: 4bc23fb0028af4d0bfff0686ab97964873ce6a54
+source-git-commit: de1ad6e1cfeefc4ac1e8264c3063b550b6548446
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Puede crear grupos de alertas de correo electrónico automáticas, denominadas suscripciones, que envíen notificaciones por correo electrónico cuando se cumplan los parámetros especificados de cuenta, campaña, publicidad y acuerdo de inventario privado.
 
-Por ejemplo, puede recibir una alerta cuando una campaña haya gastado una cantidad específica de su presupuesto. También puede recibir una alerta cuando un acuerdo de inventario privado ha tenido una tasa de ganancia inferior a la especificada en los últimos N días.
+Por ejemplo, puede recibir una alerta cuando una campaña haya gastado una cantidad específica de su presupuesto. También puede recibir una alerta cuando un acuerdo de inventario privado haya recibido menos de una tasa de ganancias especificada en los últimos N días.
 
 Puede añadir o eliminar alertas de una suscripción, editar los usuarios que reciben notificaciones por correo electrónico para una suscripción, desactivar y volver a habilitar suscripciones de alerta y eliminar suscripciones de alerta.
 

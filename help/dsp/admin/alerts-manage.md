@@ -1,9 +1,9 @@
 ---
 title: Administrar suscripciones de alertas
 description: Obtenga información sobre cómo administrar alertas de correo electrónico automáticas.
-source-git-commit: 86987ec2c5d572b5328cb04fc7120609c6c79d26
+source-git-commit: 1cce72f4cd898034c7bf7bfeee8c5b37f43c0a59
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,9 @@ ht-degree: 0%
 
       La configuración varía según el tipo de alerta.
 
-   1. (Opcional) Para ejecutar la alerta inmediatamente, seleccione **[!UICONTROL Alert immediately]**. De forma predeterminada, se ejecuta la alerta <!-- at what time? -->.
+   1. (Opcional) Para ejecutar la alerta inmediatamente, seleccione **[!UICONTROL Alert immediately]**. De forma predeterminada, la alerta se ejecuta a las 08:00 en el huso horario de la cuenta.
 
    1. (Opcional) Para agregar una alerta adicional a la suscripción, haga clic en **[!UICONTROL Add Alert]** y cree la alerta.
-
-      <!-- You can add up to NN alerts per subscription. -->
-      <!-- You can add quite a few, many unlimited -->
 
 1. En el **[!UICONTROL Add Subscriber Email Addresses]** , introduzca todas las direcciones de correo electrónico que recibirán las alertas y, a continuación, presione la tecla **[!UICONTROL Enter]** clave.
 
