@@ -1,13 +1,14 @@
 ---
-source-git-commit: 8094e8ae6cf76594ac705a8a6d76b98620220250
+title: Preguntas frecuentes
+description: xxx
+source-git-commit: 5dfc4e8f2e6d2532e40eb4da8748fec0ed096e71
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-
-Preguntas frecuentes
+# Preguntas frecuentes xxx
 
 ## title
 
@@ -17,4 +18,19 @@ Puede usar el filtro para eliminar eventos no especificados de los informes elim
 
 ## title
 
-https://adobeadcloud.zendesk.com/agent/tickets/21757 Coloque las etiquetas de eventos de Analytics en las mismas zonas que los píxeles de Ad Cloud para asegurarse de que XXX coinciden.
+https://adobeadcloud.zendesk.com/agent/tickets/24323 Coloque las etiquetas de eventos de Analytics en las mismas zonas que los píxeles de Ad Cloud para asegurarse de que XXX coinciden.
+
+## title
+
+https://adobeadcloud.zendesk.com/agent/tickets/24323
+
+P: Durante nuestra auditoría de seguridad interna, ciertas funciones se marcaron como problemas de seguridad que habilitamos cuando integramos Ad Cloud en nuestra instalación existente de Adobe Analytics.
+
+La integración en cuestión está entre AdCloud y Adobe Audience Manager. Esta función aumenta la tasa de coincidencia del ID de visitante entre AdCloud y Adobe Audience Manager. Para ello, envía solicitudes de red a pagead.l.doubleclick.net, star-mini.c10r.facebook.com y pug88000nf.pubmatic.com para determinar si estos servicios tienen un ID de visitante existente que se pueda aprovechar. Estas son las solicitudes de red que se han marcado como un riesgo de seguridad y que se producen en todos los visitantes del sitio.
+
+Nuestro auditor nos pide que deshabilitemos esta función. ¿Qué sucede si bloqueamos esas solicitudes de red?
+
+A: Comprobamos con nuestro producto y mencionaron que los píxeles en cuestión tienen el propósito de aumentar las tasas de coincidencia de cookies entre Ad Cloud, socios específicos de inventario/SSP (con respecto a DSP) y AAM.  Si se eliminan, el cliente puede ver algún nivel de tasa de coincidencia reducida entre AAC/AAM y los socios de inventario para los que están los píxeles respectivos, pero no esperarían que fuera sustancial.
+
+Para la búsqueda en Ad Cloud, vemos que la organización de IMS está configurada para Mathworks, pero nuestro equipo de productos no ve la configuración de Mathworks para activar audiencias en Ad Cloud. ¿Utiliza Adobe Audience Manager para enviar audiencias a Ad Cloud Search? Si no es así, la eliminación de estos elementos no afectará al flujo de trabajo actual. AAM Servicio de atención al cliente puede ayudarle con la eliminación de estos píxeles si no desea que se activen.
+
