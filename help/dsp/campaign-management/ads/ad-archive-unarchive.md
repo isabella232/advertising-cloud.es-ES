@@ -3,9 +3,9 @@ title: Archivar o desarchivar una publicidad
 description: Aprenda a archivar o desarchivar una publicidad.
 feature: DSP Ads
 exl-id: f3dfc92c-e99b-4a72-9a91-65ae0d5f2419
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b538a4a8792122f5640ae38279a3f243abade7a1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,24 @@ Puede desarchivar una publicidad para restaurar su estado anterior en cualquier 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 1. Haga clic en el nombre de la campaña.
 1. En el submenú, haga clic en **[!UICONTROL Ads]**.
-1. Junto al nombre del anuncio, haga clic en **... >[!UICONTROL Archive]**.
+1. Junto al nombre del anuncio, haga clic en  **... >[!UICONTROL Archive]**.
 1. En el mensaje de confirmación, haga clic en **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->Para ver anuncios archivados, filtre la vista [!UICONTROL Ads]: haga clic en ![[!UICONTROL Filter] botón](/help/dsp/assets/filter.png), haga clic en **[!UICONTROL Ad status]**, seleccione **[!UICONTROL Archived]** y, a continuación, haga clic en **[!UICONTROL Apply].**
+>Para ver las publicidades archivadas, filtre el [!UICONTROL Ads] vista: click ![[!UICONTROL Filter] botón](/help/dsp/assets/filter.png), haga clic en **[!UICONTROL Ad status]** y seleccione **[!UICONTROL Archived]** y, a continuación, haga clic en **[!UICONTROL Apply].**
 
 ## Desarchivar una publicidad
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 1. Haga clic en el nombre de la campaña.
 1. En el submenú, haga clic en **[!UICONTROL Ads]**.
-1. Junto al nombre del anuncio, haga clic en **... >[!UICONTROL Unarchive]**.
+1. Junto al nombre del anuncio, haga clic en  **... >[!UICONTROL Unarchive]**.
 1. En el mensaje de confirmación, haga clic en **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]
 >
->* [Crear una publicidad](ad-create.md)
+>* [Crear una sola publicidad](ad-create.md)
+>* [Crear varias publicidades de terceros](ad-create-multiple.md)
 >* [Editar una publicidad](ad-edit.md)
 

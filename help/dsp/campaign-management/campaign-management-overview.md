@@ -1,16 +1,16 @@
 ---
-title: Información general sobre la administración de campañas en Advertising Cloud DSP
+title: Información general sobre Campaign Management en Advertising Cloud DSP
 description: Obtenga información sobre la jerarquía y los componentes de administración de campañas.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-# Información general sobre la administración de campañas en Advertising Cloud DSP
+# Información general sobre Campaign Management en Advertising Cloud DSP
 
 Las campañas de Advertising Cloud DSP tienen la siguiente jerarquía:
 
@@ -18,9 +18,7 @@ Las campañas de Advertising Cloud DSP tienen la siguiente jerarquía:
    * Paquete(s)
       * Colocación(es)
          * Anuncios
-            * Creative(s)
 
-<!-- Add "Feature: DSP Creatives" once we have other topics on creatives; get Bob to update the feature list. -->
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
@@ -43,18 +41,11 @@ A [placement](/help/dsp/campaign-management/placements/placement-about.md) almac
 
 ## [!UICONTROL Ads]
 
-[Publicidades](/help/dsp/campaign-management/ads/ad-about.md) incluya recursos creativos y direcciones URL de seguimiento. Puede cargar sus recursos creativos y DSP publicar los anuncios que los utilizan de forma gratuita, o bien puede cargar etiquetas de servicio de publicidad de terceros.
+[Publicidades](/help/dsp/campaign-management/ads/ad-about.md) incluya recursos creativos y direcciones URL de seguimiento. Puede cargar etiquetas de servicios de publicidad de terceros de forma individual o en lote mediante hojas de etiquetas de socios o la plantilla de etiquetas en bloque. También puede crear manualmente anuncios en pantalla nativos para DSP que se vayan a mostrar.
 
 Una vez configuradas las publicidades, deberá adjuntarlas a una ubicación. Puede adjuntar una sola publicidad a una o más ubicaciones.
 
 Todos los anuncios activos y aprobados de una colocación activa en una campaña activa pueden ejecutarse según los parámetros de objetivo de colocación.
-
-## [!UICONTROL Creatives]
-
-Puede cargar archivos de audio y vídeo para utilizarlos en las publicidades de campañas específicas.
-<!-- add link to [About Creative Management](/help/dsp/campaign-management/creatives/creative-about.md) when it's available-->
-
-Puede crear inmediatamente una publicidad con el creativo cargado, o bien puede crearla más tarde desde la vista Creativos o la vista Anuncios.
 
 >[!MORELIKETHIS]
 >

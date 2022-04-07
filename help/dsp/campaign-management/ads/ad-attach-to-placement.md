@@ -3,25 +3,25 @@ title: Adjuntar una publicidad a una colocación
 description: Aprenda a adjuntar una publicidad a una ubicación.
 feature: DSP Ads
 exl-id: 4d85b89b-217f-46eb-a8b2-27da4c220be7
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: af5e9449802c98b92a3d0107a00c47fe2b2031ca
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '528'
 ht-degree: 1%
 
 ---
 
 # Adjuntar una publicidad a una colocación
 
-## Adjuntar una publicidad nueva desde la vista [!UICONTROL Ads]
+## Adjuntar una publicidad nueva desde el [!UICONTROL Ads] Ver
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 1. Haga clic en el nombre de la campaña.
 1. En el submenú, haga clic en **[!UICONTROL Ads]**.
-1. Junto al nombre del anuncio, haga clic en **... >[!UICONTROL Add to Placements]**.
+1. Junto al nombre del anuncio, haga clic en  **... >[!UICONTROL Add to Placements]**.
 1. En la pantalla Colocar publicidad , realice una de las acciones siguientes:
    * Para crear una nueva ubicación para la publicidad:
       1. Haga clic **[!UICONTROL Create New Placement]**.
-      1. Introduzca [placement settings](/help/dsp/campaign-management/placements/placement-settings.md) y haga clic en **[!UICONTROL Create Placement]**.
+      1. Introduzca la variable [configuración de ubicación](/help/dsp/campaign-management/placements/placement-settings.md)y, a continuación, haga clic en **[!UICONTROL Create Placement]**.
    * Para agregar la publicidad a una o más ubicaciones existentes:
       1. Haga clic **[!UICONTROL Select a Placement].**
       1. Realice una de las siguientes acciones:
@@ -36,19 +36,19 @@ ht-degree: 1%
          * Para volver a la vista Publicidades, haga clic en **[!UICONTROL I'm done for now]**.
          * Para adjuntar la publicidad a otra ubicación, haga clic en **[!UICONTROL Attach To Other Placement]**.
 
-## Adjuntar una publicidad nueva o existente desde la vista [!UICONTROL Placements]
+## Adjuntar una publicidad nueva o existente desde el [!UICONTROL Placements] Ver
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 1. Haga clic en el nombre de la campaña.
 1. En el submenú, haga clic en **[!UICONTROL Placements]**.
-1. Junto al nombre de la ubicación, haga clic en **... > [!UICONTROL Attach Ads].**
-1. En la pantalla [!UICONTROL Add Ad to Placement], realice una de las acciones siguientes:
+1. Junto al nombre de la ubicación, haga clic en  **... > [!UICONTROL Attach Ads].**
+1. En el [!UICONTROL Add Ad to Placement] , realice una de las acciones siguientes:
    * Para crear una publicidad nueva:
       1. Haga clic **[!UICONTROL Create a New Ad]**.
-      1. Introduzca la configuración del anuncio para [anuncios de audio](ad-settings-audio.md), [TV conectada](ad-settings-connected-tv.md), [anuncios en pantalla](ad-settings-display.md), [anuncios móviles](ad-settings-mobile.md), [anuncios nativos](ad-settings-native.md) o [anuncios previos a la emisión](ad-settings-pre-roll.md).
+      1. Introduzca la configuración de publicidad para [anuncios de audio](ad-settings-audio.md), [TV conectada](ad-settings-connected-tv.md), [anuncios en pantalla](ad-settings-display.md), [anuncios móviles](ad-settings-mobile.md), [anuncios nativos](ad-settings-native.md)o [anuncios previos a la emisión](ad-settings-pre-roll.md).
       1. Haga clic **[!UICONTROL Save & Submit for Review]**.
 
-         La [revisión de anuncios](ad-about.md) para el nuevo anuncio tarda de 24 a 48 horas e incluye comprobaciones de categorías delicadas, clic en la funcionalidad URL y vista previa del procesamiento. La columna [!UICONTROL Status] indica si DSP ha aprobado el anuncio. Los anuncios rotos pueden tener un estado pendiente durante más de 24-48 horas, por lo que tiene tiempo para corregir errores antes de que se rechacen.
+         La variable [revisión de anuncio](ad-about.md) para el nuevo anuncio tarda de 24 a 48 horas e incluye comprobaciones de categorías delicadas, clic en la funcionalidad URL y vista previa del procesamiento. La variable [!UICONTROL Status] indica si DSP ha aprobado el anuncio. Los anuncios rotos pueden tener un estado pendiente durante más de 24-48 horas, por lo que tiene tiempo para corregir errores antes de que se rechacen.
 
          >[!NOTE]
          >
@@ -67,9 +67,9 @@ ht-degree: 1%
          1. Haga clic **[!UICONTROL Custom Schedule Ads]**.
          1. Realice una de las siguientes acciones:
             * Para añadir un vuelo, haga clic en **[!UICONTROL Add Flight]** y, a continuación, especifique la fecha de inicio y la fecha de finalización.
-            * Para agregar un vuelo existente a un anuncio, haga clic en **[!UICONTROL +]** en la fila de publicidad de la columna de vuelo.
-            * Para eliminar un vuelo existente de un anuncio, haga clic en **[!UICONTROL x]** en la fila de publicidad de la columna de vuelo.
-            * (Cuando varios anuncios tengan el mismo vuelo) Para rotar los anuncios de forma desigual, haga clic en **[!UICONTROL Even Rotation]** en la información de vuelo y, a continuación, introduzca el peso relativo con el que rotar cada anuncio, como porcentaje.
+            * Para añadir un vuelo existente a un anuncio, haga clic en **[!UICONTROL +]** en la fila de publicidad de la columna &quot;flight&quot;.
+            * Para eliminar un vuelo existente de un anuncio, haga clic en **[!UICONTROL x]** en la fila de publicidad de la columna &quot;flight&quot;.
+            * (Cuando varios anuncios tengan el mismo vuelo) Para girar los anuncios de forma desigual, haga clic en **[!UICONTROL Even Rotation]** en la información de vuelo y, a continuación, introduzca el peso relativo por el que debe rotar cada anuncio, como porcentaje.
 El peso total debe ser igual a 100.
          1. En la esquina superior derecha, haga clic en **[!UICONTROL Continue]**.
          1. Revise los detalles del vuelo y haga clic en **[!UICONTROL Save & Finish]**.
@@ -79,7 +79,8 @@ El peso total debe ser igual a 100.
 >[!MORELIKETHIS]
 >
 >* [Acerca de la administración de publicidad](ad-about.md)
->* [Crear una publicidad](ad-create.md)
+>* [Crear una sola publicidad](ad-create.md)
+>* [Crear varias publicidades de terceros](ad-create-multiple.md)
 >* [Editar una publicidad](ad-edit.md)
 >* [Enumerar las ubicaciones asociadas a una publicidad](ad-list-placements.md)
 >* [Editar la programación de publicidad de una colocación](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)

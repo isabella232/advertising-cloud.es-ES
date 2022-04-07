@@ -3,9 +3,9 @@ title: '"Cree un [!UICONTROL Simple Ad Serving] Acuerdo"'
 description: '"Aprenda a crear un píxel de seguimiento para un [!UICONTROL Simple Ad Serving] trato".'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
          * Para las publicidades existentes, seleccione las que desee utilizar.
 
-         * Para nuevas publicidades, cree un proxy [anuncio de origen](/help/dsp/campaign-management/ads/ad-create.md) o [anuncio de terceros](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+         * Para nuevas publicidades, cree un proxy [anuncio de terceros](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
       > En realidad, no DSP los anuncios que especifique. El editor publicará el anuncio.
 

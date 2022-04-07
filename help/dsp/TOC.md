@@ -8,9 +8,9 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
+source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '859'
 ht-degree: 6%
 
 ---
@@ -37,10 +37,10 @@ ht-degree: 6%
       + [Directrices de segmentos de mantenimiento aceptables](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Directrices de uso de datos](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Soluciones de medición avanzadas](/help/dsp/introduction/advanced-measurement-services.md)
-+ Administración de campañas {#campaign-management}
-   + [Descripción general de la estructura de administración de campañas](/help/dsp/campaign-management/campaign-management-overview.md)
++ Campaign Management {#campaign-management}
+   + [Descripción general de la estructura de Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campañas {#campaigns}
-      + [Acerca de Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Acerca de la administración de campañas](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Creación de una campaña](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [Editar una campaña](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [Duplicar una campaña](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -70,27 +70,23 @@ ht-degree: 6%
       + [Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md)
    + Publicidades {#ads}
       + [Acerca de la administración de publicidad](/help/dsp/campaign-management/ads/ad-about.md)
-      + [Tipos de anuncios disponibles](/help/dsp/campaign-management/ads/ad-types.md)
-      + Publicidades servidas por Advertising Cloud {#advertising-cloud-served}
-         + [Crear una publicidad](/help/dsp/campaign-management/ads/ad-create.md)
-         + Configuración de publicidad {#ad-settings}
-            + [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
-            + [Configuración de TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
-            + [Mostrar configuración de publicidad](/help/dsp/campaign-management/ads/ad-settings-display.md)
-            + [Configuración de anuncios de Mobile](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
-            + [Configuración de anuncios nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)
-            + [Configuración de anuncio previo a la emisión](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-         + [Prácticas recomendadas para el diseño de superposiciones](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-      + Anuncios masivos de terceros {#bulk-third-party}
-         + [Crear varias publicidades de terceros](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-         + [Crear publicidades con [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
-         + [Socios certificados de servicio de publicidad](/help/dsp/campaign-management/ads/certified-ad-servers.md)
-      + [Adjuntar una publicidad a una colocación](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [Socios certificados de servicio de publicidad](/help/dsp/campaign-management/ads/certified-ad-servers.md)
+      + [Crear una sola publicidad](/help/dsp/campaign-management/ads/ad-create.md)
+      + [Crear varias publicidades de terceros](/help/dsp/campaign-management/ads/ad-create-multiple.md)
+      + [Crear publicidades con [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
       + [Editar una publicidad](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Duplicar una publicidad](/help/dsp/campaign-management/ads/ad-duplicate.md)
+      + [Adjuntar una publicidad a una colocación](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [Enumerar las ubicaciones asociadas a una publicidad](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Ver un informe detallado de una publicidad](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Archivar o desarchivar una publicidad](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
+      + Configuración de publicidad {#ad-settings}
+         + [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+         + [Configuración de TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+         + [Mostrar configuración de publicidad](/help/dsp/campaign-management/ads/ad-settings-display.md)
+         + [Configuración de anuncios de Mobile](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+         + [Configuración de anuncios en pantalla nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)
+         + [Configuración de anuncio previo a la emisión](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Especificaciones para los tipos de publicidad admitidos](/help/dsp/assets/ad-specs.pdf)
    + Informes de campaña {#campaign-reports}
       + [Acerca de los informes en la plataforma](/help/dsp/campaign-management/reports/campaign-reports-about.md)
@@ -112,7 +108,7 @@ ht-degree: 6%
       + [Columnas de hojas de cálculo descargadas o cargadas](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
    + [Métodos abreviados del teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Preguntas frecuentes sobre Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Preguntas frecuentes sobre la administración de campañas](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimización {#optimization}
    + [Cómo [!DNL DSP] Optimiza las campañas](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Objetivos de optimización y cómo utilizarlos](/help/dsp/optimization/optimization-goals.md)

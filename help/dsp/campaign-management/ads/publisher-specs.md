@@ -2,9 +2,9 @@
 title: Especificaciones de anuncios específicos del editor
 description: Haga referencia a las especificaciones de publicidad para editores compatibles.
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,6 @@ Los siguientes vínculos le conducen a las especificaciones publicitarias de alg
 >[!MORELIKETHIS]
 >
 >* [Acerca de la administración de publicidad](ad-about.md)
->* [Crear una publicidad](ad-create.md)
+>* [Crear varias publicidades de terceros](ad-create-multiple.md)
 >* [Especificaciones de la publicidad](/help/dsp/assets/ad-specs.pdf)
 

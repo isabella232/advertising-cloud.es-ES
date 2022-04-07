@@ -1,10 +1,11 @@
 ---
-title: '"[!UICONTROL Simple Ad Serving] Configuración de ofertas"'
+title: '''[!UICONTROL Simple Ad Serving] Configuración de ofertas"'
 description: Obtenga información sobre la configuración disponible para [!UICONTROL Simple Ad Serving] ofertas.
 feature: DSP Simple Ad Serving
-source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
+exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -33,7 +34,7 @@ ht-degree: 0%
 
 ### [!UICONTROL Select & Upload [Media Type]]
 
-(Solo anuncios nuevos) Screens para crear una nueva [anuncio de origen](/help/dsp/campaign-management/ads/ad-create.md) o [anuncio de terceros](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+(Solo anuncios nuevos) Screens para crear una nueva [anuncio de terceros](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 ### [!UICONTROL Feed Details]
 
