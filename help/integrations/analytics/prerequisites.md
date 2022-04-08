@@ -3,9 +3,9 @@ title: Requisitos previos e información clave para la implementación [!DNL Ana
 description: Requisitos previos e información clave para la implementación [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 11a13816ccd2ef0c47efa615c54c0f7ce2f83734
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Proporcione al equipo de implementación de Advertising Cloud lo siguiente:
 * La variable [!DNL Analytics] ID del grupo de informes que se utilizará para informar sobre la actividad de medios de pago y para alimentar la actividad del sitio para la optimización y la creación de informes en Advertising Cloud
 * El ID de organización de Experience Cloud de la empresa (ID de organización).
 
-Puede encontrar ambos ID en el [Pantalla de resumen de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
+Puede encontrar ambos ID en el [Pestaña Resumen de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
 ![Pantalla Resumen del Experience Cloud Debugger](/help/integrations/assets/a4adc-debugger-summary.png)
 
@@ -111,7 +111,7 @@ Ejemplo: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
 Para una integración de datos precisa, todas las llamadas de Advertising Cloud que usa un [!DNL Analytics for Advertising Cloud] actividad para entregar contenido o registrar la métrica de objetivo debe tener una [!DNL Analytics] visita que comparte el mismo ID suplementario.
 
-Cuando esté solucionando problemas en [!DNL Analytics], asegúrese de que el ID suplementario esté presente para [!DNL Analytics] visitas individuales. En el [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html), puede ver este ID en la pestaña Advertising Cloud como la variable `sdid` parámetro.
+Cuando esté solucionando problemas en [!DNL Analytics], asegúrese de que el ID suplementario esté presente para [!DNL Analytics] visitas individuales. En el [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), puede ver este ID en la pestaña Advertising Cloud como la variable `sdid` parámetro.
 
 >[!NOTE]
 >
