@@ -2,9 +2,10 @@
 title: Especificaciones de la publicidad
 description: Haga referencia a las especificaciones generales y específicas del publicador.
 feature: DSP Ads
-source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
+exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
+source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -110,7 +111,7 @@ Escritorio, móvil, tableta, altavoces inteligentes y TV conectada
 
 ### Servidores de publicidad de terceros compatibles
 
-Para obtener una lista completa de los proveedores admitidos, consulte &quot;[Socios certificados de servicio de publicidad](certified-ad-servers.md).&quot;
+Puede utilizar hojas de etiquetas desde [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid]y [!DNL Sizmek]. Para obtener una lista completa de los proveedores admitidos, consulte &quot;[Socios certificados de servicio de publicidad](certified-ad-servers.md).&quot;
 
 ### Requisitos para los recursos de audio (obligatorio)
 
