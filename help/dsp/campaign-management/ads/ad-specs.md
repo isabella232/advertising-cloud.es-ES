@@ -2,14 +2,14 @@
 title: Especificaciones de la publicidad
 description: Haga referencia a las especificaciones generales y específicas del publicador.
 feature: DSP Ads
-source-git-commit: 212409be98cb6f48d5aaf13e3ba44e37d2c5342b
+source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
 
-# Especificaciones de la publicidad
+# Especificaciones para los tipos de publicidad admitidos
 
 ## Anuncios de vídeo (pre-roll y CTV)
 
@@ -108,7 +108,9 @@ Se admite la visualización universal.
 
 Escritorio, móvil, tableta, altavoces inteligentes y TV conectada
 
-### [Servidores de publicidad de terceros compatibles](certified-ad-servers.md)
+### Servidores de publicidad de terceros compatibles
+
+Para obtener una lista completa de los proveedores admitidos, consulte &quot;[Socios certificados de servicio de publicidad](certified-ad-servers.md).&quot;
 
 ### Requisitos para los recursos de audio (obligatorio)
 
