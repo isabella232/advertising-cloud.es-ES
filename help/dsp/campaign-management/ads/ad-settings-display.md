@@ -3,7 +3,7 @@ title: Mostrar configuración de publicidad
 description: Consulte las descripciones de la configuración de publicidad disponible para los anuncios en pantalla.
 feature: DSP Ads
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Los siguientes ajustes son para anuncios en pantalla estándar.
 
 **[!UICONTROL Final Display Code]:** (Solo anuncios de terceros) La URL del recurso creativo de terceros, con los [Macros de seguimiento de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) insertado, si procede.
 
-**[!UICONTROL Ad Size]:** Anchura y altura del anuncio. Debe ser [tamaño de anuncio estándar admitido](/help/dsp/assets/ad-specs.pdf). Puede introducir manualmente el tamaño de la publicidad antes de cargar la publicidad o introducir una [!UICONTROL Display Code]. Si no introduce el tamaño de la publicidad, las dimensiones de la publicidad cargada o de la etiqueta de publicidad se introducen automáticamente como de solo lectura. Tenga en cuenta que la publicidad de visualización no se guardará si las dimensiones no se encuentran dentro de la visualización estándar como tamaños (por ejemplo, 301x250 en lugar del tamaño de la publicidad de 300x250).
+**[!UICONTROL Ad Size]:** Anchura y altura del anuncio. Debe ser [tamaño de anuncio estándar admitido](ad-specs.md). Puede introducir manualmente el tamaño de la publicidad antes de cargar la publicidad o introducir una [!UICONTROL Display Code]. Si no introduce el tamaño de la publicidad, las dimensiones de la publicidad cargada o de la etiqueta de publicidad se introducen automáticamente como de solo lectura. Tenga en cuenta que la publicidad de visualización no se guardará si las dimensiones no se encuentran dentro de la visualización estándar como tamaños (por ejemplo, 301x250 en lugar del tamaño de la publicidad de 300x250).
 
 >[!IMPORTANT]
 >
@@ -67,6 +67,6 @@ Las siguientes opciones se aplican a cada píxel que cree o edite.
 >* [Acerca de la administración de publicidad](ad-about.md)
 >* [Crear una sola publicidad](ad-create.md)
 >* [Enumerar las ubicaciones asociadas a una publicidad](ad-list-placements.md)
->* [Especificaciones de la publicidad](/help/dsp/assets/ad-specs.pdf)
+>* [Especificaciones de la publicidad](ad-specs.md)
 >* [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
 

@@ -8,7 +8,7 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
+source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 6%
@@ -37,10 +37,10 @@ ht-degree: 6%
       + [Directrices de segmentos de mantenimiento aceptables](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Directrices de uso de datos](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Soluciones de medición avanzadas](/help/dsp/introduction/advanced-measurement-services.md)
-+ Campaign Management {#campaign-management}
++ Administración de campañas {#campaign-management}
    + [Descripción general de la estructura de Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campañas {#campaigns}
-      + [Acerca de la administración de campañas](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Acerca de Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Creación de una campaña](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [Editar una campaña](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [Duplicar una campaña](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -87,7 +87,7 @@ ht-degree: 6%
          + [Configuración de anuncios de Mobile](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Configuración de anuncios en pantalla nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Configuración de anuncio previo a la emisión](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-      + [Especificaciones para los tipos de publicidad admitidos](/help/dsp/assets/ad-specs.pdf)
+      + [Especificaciones para los tipos de publicidad admitidos](/help/dsp/campaign-management/ads/ad-specs.md)
    + Informes de campaña {#campaign-reports}
       + [Acerca de los informes en la plataforma](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [Exportación de datos desde una vista de Campaign Management](/help/dsp/campaign-management/reports/campaign-export-data.md)

@@ -3,7 +3,7 @@ title: Crear varias publicidades de terceros
 description: Aprenda a crear varias publicidades de terceros a la vez.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Puede cargar: [!DNL DoubleClick] y [!DNL Flashtalking] etiquetas de o un archivo
 >[!MORELIKETHIS]
 >
 >* [Acerca de la administración de publicidad](ad-about.md)
->* [Especificaciones de la publicidad](/help/dsp/assets/ad-specs.pdf)
+>* [Especificaciones de la publicidad](ad-specs.md)
 >* [Crear una sola publicidad](ad-create.md)
 >* [Vídeo: Cómo cargar de forma masiva etiquetas de publicidad de terceros](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
 

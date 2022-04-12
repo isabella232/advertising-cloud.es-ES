@@ -3,7 +3,7 @@ title: Crear una sola publicidad
 description: Obtenga información sobre cómo crear una sola publicidad de terceros.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: 63c8b750c9d5e6816da29fe15416d43d6b3e3726
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -49,5 +49,5 @@ Para crear varias publicidades de terceros a la vez, consulte [Crear varias publ
 >* [Acerca de la administración de publicidad](ad-about.md)
 >* [Crear varias publicidades de terceros](ad-create-multiple.md)
 >* [Editar una publicidad](ad-edit.md)
->* [Especificaciones de la publicidad](/help/dsp/assets/ad-specs.pdf)
+>* [Especificaciones de la publicidad](ad-specs.md)
 

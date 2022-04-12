@@ -1,16 +1,16 @@
 ---
-title: Configuración de publicidad móvil
+title: Configuración de anuncios de Mobile
 description: Consulte las descripciones de la configuración de publicidad disponible para los anuncios móviles.
 feature: DSP Ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 0%
 
 ---
 
-# Configuración de anuncios de Mobile
+# Configuración de publicidad móvil
 
 ## [!UICONTROL Insert Ad Tag]
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Ad Options]
 
-### [!UICONTROL Basic]: Publicidades en pantalla de Mobile
+### [!UICONTROL Basic]: Publicidades para pantallas móviles
 
 **[!UICONTROL Ad Type]:** (Solo lectura) El tipo de anuncio que está creando, que corresponde al tipo de ubicación al que se puede adjuntar la publicidad.
 
@@ -105,6 +105,6 @@ Obsoleto
 >* [Acerca de la administración de publicidad](ad-about.md)
 >* [Crear una sola publicidad](ad-create.md)
 >* [Enumerar las ubicaciones asociadas a una publicidad](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Especificaciones de la publicidad](/help/dsp/assets/ad-specs.pdf)
+>* [Especificaciones de la publicidad](ad-specs.md)
 >* [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
 

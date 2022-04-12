@@ -3,7 +3,7 @@ title: Duplicar una publicidad
 description: Obtenga información sobre cómo duplicar una publicidad.
 feature: DSP Ads
 exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef
-source-git-commit: 322823a1df355b687827544f5464d01093b94213
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Puede duplicar una publicidad dentro de la misma campaña.
 >* [Crear una sola publicidad](ad-create.md)
 >* [Crear varias publicidades de terceros](ad-create-multiple.md)
 >* [Editar una publicidad](ad-edit.md)
->* [Especificaciones de la publicidad](/help/dsp/assets/ad-specs.pdf)
+>* [Especificaciones de la publicidad](ad-specs.md)
 
