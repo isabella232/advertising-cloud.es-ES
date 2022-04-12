@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 81227f1d016a91b5359acf960db9ece2d732d23e
+source-git-commit: e26d6efff8bae08b89ba4bd72748ddf7ef769a87
 workflow-type: tm+mt
-source-wordcount: '1481'
+source-wordcount: '1498'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 
 | Fecha | Función | Descripción | Para obtener más información |
 | ---- | ------- | ----------- | -------------------- |
+| 12 de abril de 2022 | Administración de campañas | Las especificaciones de los anuncios se actualizaron para reflejar la compatibilidad actual. | Consulte &quot;[Especificaciones para los tipos de publicidad admitidos](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
 | 17 de febrero de 2022 | Tutoriales en vídeo | Hay disponible un nuevo vídeo sobre &quot;Cómo crear una colocación de visualización estándar&quot;. | Consulte [Tutorials de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 de enero de 2022 | Ayuda | Información adicional sobre [!DNL Deal IDs] y [!DNL Simple Ad Serving] ya está disponible. | Consulte el subcapítulo Inventario > Inventario privado. |
 | 10 de diciembre de 2021 | Tutoriales en vídeo | Hay disponibles nuevos tutoriales en vídeo: &quot;Introducción a Advertising Cloud DSP&quot;, &quot;Estructura de la cuenta e interfaz de usuario&quot;, &quot;Cómo crear un paquete&quot;, &quot;Cómo cargar masivamente etiquetas de anuncios de terceros&quot; y &quot;Cómo editar colocaciones mediante herramientas de edición masiva&quot;. | Consulte &quot;[Tutorials de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
