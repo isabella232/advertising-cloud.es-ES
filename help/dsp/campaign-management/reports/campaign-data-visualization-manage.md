@@ -3,16 +3,16 @@ title: Administrar visualizaciones de datos
 description: Obtenga información sobre cómo cambiar las métricas y el modo de visualización para las visualizaciones de datos.
 feature: DSP Campaign Data Views
 exl-id: f557ddfc-9a20-4cbc-8ad3-230ba5df32e3
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ba1217c5097a3a17fba49761185940b252bb7e32
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # Administrar visualizaciones de datos
 
-Puede cambiar las métricas y el modo de gráfico para todas las visualizaciones de datos de una sola campaña. Los cambios se aplican a todas las visualizaciones de datos de la campaña, incluidas las pestañas [!UICONTROL Packages], [!UICONTROL Placements] y [!UICONTROL Ads].
+Puede cambiar las métricas y el modo de gráfico para todas las visualizaciones de datos de campañas o de una sola campaña. Los cambios realizados en una sola campaña se aplican en todas las visualizaciones de datos de la campaña, incluido el [!UICONTROL Packages], [!UICONTROL Placements]y [!UICONTROL Ads] pestañas.
 
 ## Cambiar las métricas para una visualización de datos
 
@@ -23,7 +23,7 @@ No puede seleccionar la misma métrica dos veces.
 
 ## Cambio del modo de visualización para una visualización de datos
 
-* En la parte superior derecha de la visualización de datos, haga clic en el modificador [!UICONTROL Overlay] (![Overlay switch](/help/dsp/assets/overlay.png)) para cambiar entre el modo de superposición (todos los gráficos superpuestos) y el modo de gráfico de mosaico (tres gráficos independientes).
+* En la parte superior derecha de la visualización de datos, haga clic en el [!UICONTROL Overlay] switch (![Interruptor de superposición](/help/dsp/assets/overlay.png)) para cambiar entre el modo de superposición (todos los gráficos superpuestos) y el modo de gráfico de mosaico (tres gráficos independientes).
 
 >[!MORELIKETHIS]
 >
