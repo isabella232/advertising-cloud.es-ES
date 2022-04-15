@@ -3,9 +3,9 @@ title: Acerca de los informes en la plataforma
 description: Obtenga información sobre los datos de informes incluidos en las vistas de administración de campañas.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
+source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,21 @@ ht-degree: 0%
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
 Las vistas de administración de campañas incluyen datos completos de informes. Los informes disponibles le ayudan a identificar los paquetes y las ubicaciones que funcionan bien y aquellos que necesitan su atención. Los botones de acción rápida también le hacen más productivo.
 
-## Lista Todas las campañas
+## Vista de todas las campañas
 
-La variable [!UICONTROL Campaigns] se abre a una lista de todas las campañas de la cuenta. La variable [!UICONTROL Subtotals] La fila muestra la suma o el valor promedio de cada métrica en todas las filas visibles.
+La variable [!UICONTROL Campaigns] se abre a una lista de todas las campañas de la cuenta. &lt;!— El [!UICONTROL Subtotals] La fila muestra la suma o el valor promedio de cada métrica en todas las filas visibles. — ¿Todavía hay una fila de subtotales? No veo ninguno. —>
+
+### Vista de gráfico {#chart-view}
+
+Puede [personalizar gráficos de tendencias de series temporales](campaign-data-visualization-manage.md) en todas las campañas utilizando tres métricas. De forma predeterminada, los datos de [!UICONTROL Net Spend], [!UICONTROL Impressions]y [!UICONTROL Net CPM] se incluyen en gráficos separados (gráficos de mosaico). Opcionalmente, puede cambiar las métricas. Para habilitar los datos por hora en los gráficos de tendencias de series temporales, cambie la selección de fechas a un solo día ([!UICONTROL Today], [!UICONTROL Yesterday]o un día específico).
+
+![gráficos de tendencias independientes para tres métricas](/help/dsp/assets/trend-chart-separate.png)
+
+Opcionalmente, también puede superponer las tres métricas para facilitar la detección de anomalías y áreas en las que mejorar la escala o el rendimiento.
+
+![gráfico de tendencias con superposición](/help/dsp/assets/trend-chart.png)
+
+### Vista de tabla
 
 ![Lista de campañas](/help/dsp/assets/campaigns-list.png)
 
@@ -33,17 +45,15 @@ Dentro de una campaña, puede filtrar los datos en función de la entidad de la 
 
 ![Pestañas de entidad de Campaign](/help/dsp/assets/campaign-subtabs.png)
 
+### Vista de gráfico
+
+Para cada campaña, puede [personalizar gráficos de tendencias de series temporales](campaign-data-visualization-manage.md) con tres métricas, que están disponibles en cada vista de entidad. Las mismas métricas se mantienen en todos los gráficos de tendencias de la campaña.
+
+Consulte la [Sección &quot;Vista de gráfico&quot; sobre métricas entre campañas](#chart-view) para obtener más información.
+
+### Vista de tabla
+
 En cada pestaña de entidad, cada fila incluye métricas de ritmo y envío de forma predeterminada, pero puede [cambiar la vista de columna](column-view-change.md) o [crear una vista de columna personalizada](column-view-create.md) para aplicar a todas las subpestañas de la campaña. Puede [personalizar las tablas de datos](campaign-data-views-about.md) de formas adicionales. Cada tabla de datos incluye un [!UICONTROL Subtotals] , que muestra la suma o el valor promedio de cada métrica en todas las filas visibles.
-
-Para cada campaña, también puede personalizar gráficos de tendencias de series temporales con tres métricas, que están disponibles en cada vista de entidad. De forma predeterminada, los datos de [!UICONTROL Net Spend], [!UICONTROL Impressions]y [!UICONTROL Net CPM] se incluyen en gráficos separados (gráficos de mosaico). Opcionalmente, puede cambiar las métricas. Para habilitar los datos por hora en los gráficos de tendencias de series temporales, cambie la selección de fechas a un solo día ([!UICONTROL Today], [!UICONTROL Yesterday]o un día específico).
-
-![gráficos de tendencias independientes para tres métricas](/help/dsp/assets/trend-chart-separate.png)
-
-Opcionalmente, también puede superponer las tres métricas para facilitar la detección de anomalías y áreas en las que mejorar la escala o el rendimiento.
-
-![gráfico de tendencias con superposición](/help/dsp/assets/trend-chart.png)
-
-Puede [personalizar los gráficos de tendencias](campaign-data-visualization-manage.md) por campaña y las mismas métricas se mantienen en todos los gráficos de tendencias de la campaña.
 
 ### Colocación [!UICONTROL Inspector] {#placement-inspector}
 
@@ -96,6 +106,6 @@ Para ver otros desgloses de datos, consulte [las páginas heredadas de informes 
 >* [Crear una vista de columna personalizada](column-view-create.md)
 >* [Cambiar la vista de columna](column-view-change.md)
 >* [Administrar visualizaciones de datos](campaign-data-visualization-manage.md)
->* [Exportación de datos desde una vista de administración de campañas](campaign-export-data.md)
+>* [Exportación de datos desde una vista de Campaign Management](campaign-export-data.md)
 >* [Ver un informe detallado de una campaña](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
