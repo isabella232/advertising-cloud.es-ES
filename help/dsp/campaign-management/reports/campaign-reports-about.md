@@ -3,7 +3,7 @@ title: Acerca de los informes en la plataforma
 description: Obtenga información sobre los datos de informes incluidos en las vistas de administración de campañas.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
+source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -97,7 +97,7 @@ Puede exportar los datos en la variable [!UICONTROL Sites], [!UICONTROL Ads]o [!
 
 ### Otros tipos de informes de nivel de campaña
 
-Para ver otros desgloses de datos, consulte [las páginas heredadas de informes de nivel de campaña](/help/dsp/campaign-management/campaigns/campaign-view-report.md). El informe preexistente incluye secciones sobre [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]y [!UICONTROL Audience Performance] datos.
+Para ver otros desgloses de datos, consulte [las páginas de informes de nivel de campaña](/help/dsp/campaign-management/campaigns/campaign-view-report.md). La variable <!--legacy --> informe incluye secciones sobre [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]y [!UICONTROL Audience Performance] datos.
 
 >[!MORELIKETHIS]
 >
@@ -106,6 +106,6 @@ Para ver otros desgloses de datos, consulte [las páginas heredadas de informes 
 >* [Crear una vista de columna personalizada](column-view-create.md)
 >* [Cambiar la vista de columna](column-view-change.md)
 >* [Administrar visualizaciones de datos](campaign-data-visualization-manage.md)
->* [Exportación de datos desde una vista de Campaign Management](campaign-export-data.md)
+>* [Exportación de datos desde una vista de administración de campañas](campaign-export-data.md)
 >* [Ver un informe detallado de una campaña](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 

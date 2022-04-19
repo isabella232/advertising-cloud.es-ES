@@ -3,21 +3,21 @@ title: Ver un informe detallado de una publicidad
 description: Obtenga información sobre cómo abrir un informe de nivel de anuncio con datos de Información general, Geografía y Visibilidad.
 feature: DSP Ads, DSP Campaign Data Views
 exl-id: e222e9db-c828-4ac1-9df6-eb350d2ba9ef
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b6fe8939bb00a73aa534e535d2daaf40723c01c8
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # Ver un informe detallado de una publicidad
 
-El informe de nivel de anuncio heredado incluye datos [!UICONTROL Overview], [!UICONTROL Geography] y [!UICONTROL Viewability].
+La variable <!--legacy --> informe a nivel de anuncio incluye [!UICONTROL Overview], [!UICONTROL Geography]y [!UICONTROL Viewability] datos.
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 1. Haga clic en el nombre de la campaña.
 1. En el submenú, haga clic en **[!UICONTROL Ads]**.
-1. Junto al nombre del anuncio, haga clic en **... >[!UICONTROL View report]**.
+1. Junto al nombre del anuncio, haga clic en  **... >[!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >
