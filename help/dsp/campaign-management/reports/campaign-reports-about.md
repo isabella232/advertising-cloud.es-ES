@@ -3,7 +3,7 @@ title: Acerca de los informes en la plataforma
 description: Obtenga información sobre los datos de informes incluidos en las vistas de administración de campañas.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
+source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Las vistas de administración de campañas incluyen datos completos de informes.
 
 ## Vista de todas las campañas
 
-La variable [!UICONTROL Campaigns] se abre a una lista de todas las campañas de la cuenta. &lt;!— El [!UICONTROL Subtotals] La fila muestra la suma o el valor promedio de cada métrica en todas las filas visibles. — ¿Todavía hay una fila de subtotales? No veo ninguno. —>
+La variable [!UICONTROL Campaigns] la vista se abre a un conjunto de gráficos de datos de rendimiento y a una lista de todas las campañas de la cuenta.
 
 ### Vista de gráfico {#chart-view}
 
@@ -106,6 +106,6 @@ Para ver otros desgloses de datos, consulte [las páginas de informes de nivel d
 >* [Crear una vista de columna personalizada](column-view-create.md)
 >* [Cambiar la vista de columna](column-view-change.md)
 >* [Administrar visualizaciones de datos](campaign-data-visualization-manage.md)
->* [Exportación de datos desde una vista de administración de campañas](campaign-export-data.md)
+>* [Exportación de datos desde una vista de Campaign Management](campaign-export-data.md)
 >* [Ver un informe detallado de una campaña](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
