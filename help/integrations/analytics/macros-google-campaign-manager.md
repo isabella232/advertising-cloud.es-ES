@@ -2,9 +2,9 @@
 title: Anexar [!DNL Analytics for Advertising Cloud] Macros a [!DNL Google Campaign Manager 360] Etiquetas de publicidad
 description: Descubra por qué y cómo añadir [!DNL Analytics for Advertising Cloud] macros a su [!DNL Google Campaign Manager 360] etiquetas de publicidad
 feature: Integration with Adobe Analytics
-source-git-commit: fe61dcd97d5509784a20bf8f68bea0ab2699dcfd
+source-git-commit: 2ba5656704319584e475f8c6c68943f215196ae2
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Usar macros para [!DNL Campaign Manager 360] anuncios en pantalla y en vídeo pa
 
 ## Anexe las macros a su [!DNL Google Campaign Manager 360] Publicidades
 
-Within [!DNL Google Campaign Manager 360], anexe al siguiente parámetro a la dirección URL de la página de aterrizaje: `%pamo=!;`
+Within [!DNL Google Campaign Manager 360], añada el siguiente parámetro a la dirección URL de la página de aterrizaje para cada uno de sus anuncios de vídeo y visualización: `%pamo=!;`
 
 Puede especificar la dirección URL de la página de aterrizaje de varias formas. Las instrucciones para cada opción se incluyen en las siguientes subsecciones.
 
@@ -46,20 +46,20 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >* Si no se incluyen otros parámetros después de la variable `amo` y, a continuación, agregue un parámetro (por ejemplo, &amp;a=b) después de él. Ejemplo:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 
-## Configuración del sufijo de dirección URL de la página de aterrizaje a nivel del anunciante
+### Configuración del sufijo de dirección URL de la página de aterrizaje a nivel del anunciante
 
 1. En el menú principal, haga clic en el [!UICONTROL Advertisers] pestaña .
 1. Haga clic en el nombre del anunciante.
 1. En el [!UICONTROL Landing page URL suffix] configuración, incluir `%pamo!;` en el [!UICONTROL URL suffix] campo .
 
-## Configuración del sufijo de dirección URL de la página de aterrizaje de nivel de campaña
+### Configuración del sufijo de dirección URL de la página de aterrizaje de nivel de campaña
 
 1. En el menú principal, haga clic en el [!UICONTROL Campaigns] pestaña .
 1. Haga clic en el nombre de la campaña.
 1. Haga clic [!UICONTROL Properties].
 1. En el [!UICONTROL Landing page URL suffix] configuración, incluir `%pamo!;` en el [!UICONTROL URL suffix] campo .
 
-## Configuración del sufijo de URL de la página de aterrizaje de nivel creativo
+### Configuración del sufijo de URL de la página de aterrizaje de nivel creativo
 
 1. En el menú principal, haga clic en el [!UICONTROL Campaigns] pestaña .
 1. Haga clic en el nombre de la campaña.
