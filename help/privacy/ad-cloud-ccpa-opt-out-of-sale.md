@@ -3,9 +3,9 @@ title: 'Compatibilidad de Adobe Advertising Cloud con la Ley de Privacidad del C
 description: Obtenga información sobre la compatibilidad para capturar solicitudes de exclusión de venta de clientes.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1020'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Puede comunicar las solicitudes de exclusión de la venta de los consumidores me
 
 ### Método 2: Comunicar las solicitudes de exclusión de CCPA mediante la API de Adobe Experience Platform Privacy Service
 
-*Anunciantes asignados a Adobe Experience Cloud [!DNL Organization ID] ([!DNL IMS Org ID]solo )*
+*Anunciantes a los que solo se les ha asignado un Adobe Experience Cloud ID*
 
 1. Implemente una biblioteca JavaScript para recuperar las cookies del cliente. La misma biblioteca, `AdobePrivacy.js`, se utiliza para todas las soluciones de Adobe Experience Cloud.
 
@@ -58,20 +58,20 @@ Puede comunicar las solicitudes de exclusión de la venta de los consumidores me
 
    Debe implementar la biblioteca en la página web desde la que los clientes pueden enviar solicitudes de exclusión de la venta, como el portal de privacidad de su empresa. La biblioteca de ayuda a recuperar las cookies de Adobe (ID de área de nombres: `gsurferID`) para poder enviar estas identidades como parte de solicitudes de exclusión de venta a través de la API de Adobe Experience Platform Privacy Service.
 
-1. Identifique su ID de organización de IMS y asegúrese de que esté vinculado a sus cuentas de Advertising Cloud.
+1. Identifique su ID de Experience Cloud y asegúrese de que esté vinculado a sus cuentas de Advertising Cloud.
 
-   Un ID de organización de IMS es una cadena alfanumérica de 24 caracteres anexada a @AdobeOrg. A la mayoría de los clientes de Adobe Experience Cloud se les ha asignado un ID de organización de IMS. Si el equipo de marketing o el administrador interno del sistema de Adobe no conocen el ID de organización de IMS de su organización o no están seguros de si se ha aprovisionado, póngase en contacto con el servicio de atención al cliente de Adobe en gdprsupport@adobe.com. Necesitará el ID de organización de IMS para enviar solicitudes a la API de privacidad.
+   Un ID de Experience Cloud es una cadena alfanumérica de 24 caracteres anexada a &quot;@AdobeOrg&quot;. A la mayoría de los clientes Experience Cloud se les ha asignado un ID. Si el equipo de marketing o el administrador interno del sistema de Adobe no conocen el ID de su organización o no están seguros de si se ha aprovisionado, póngase en contacto con el servicio de atención al cliente de Adobe en gdprsupport@adobe.com. Necesitará el ID para enviar solicitudes a la API de privacidad mediante el `imsOrgID` espacio de nombres.
 
    >[!IMPORTANT]
    >
-   >Póngase en contacto con el representante de Advertising Cloud de su empresa para confirmar que todas las cuentas de Advertising Cloud de su organización, incluidas [!DNL DSP] cuentas o anunciantes, [!DNL Search] cuentas y [!DNL Creative] o [!DNL DCO] cuentas: están vinculadas a su ID de organización de IMS.
+   >Póngase en contacto con el representante de Advertising Cloud de su empresa para confirmar que todas las cuentas de Advertising Cloud de su organización, incluidas [!DNL DSP] cuentas o anunciantes, [!DNL Search] cuentas y [!DNL Creative] o [!DNL DCO] cuentas: están vinculadas a su ID de Experience Cloud.
 
 1. Utilice la API de Adobe Experience Platform Privacy Service para [enviar solicitudes de exclusión de venta](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) a Advertising Cloud en nombre de los consumidores y para comprobar el estado de las solicitudes existentes.
 
    Consulte el apéndice siguiente para ver un ejemplo de una solicitud de exclusión de la venta.
 
    >[!NOTE]
-   Si su empresa tiene varios ID de organización de servicio de Adobe Experience Cloud Identity Management (ID de organización de IMS), debe enviar solicitudes de API independientes para cada uno. Sin embargo, puede realizar una solicitud de API a varias subsoluciones de Advertising Cloud ([!DNL Search], [!DNL Creative], [!DNL DSP]y [!DNL DCO]), con una cuenta por subsolución.
+   Si su empresa tiene varios ID de Experience Cloud, debe enviar solicitudes de API independientes para cada uno. Sin embargo, puede realizar una solicitud de API a varias subsoluciones de Advertising Cloud ([!DNL Search], [!DNL Creative], [!DNL DSP]y [!DNL DCO]), con una cuenta por subsolución.
 
 Todos estos pasos son necesarios para recibir asistencia de Advertising Cloud. Para obtener más información sobre estas y otras tareas relacionadas que debe realizar con Adobe Experience Platform Privacy Service, y dónde encontrar los elementos que necesita, consulte [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 

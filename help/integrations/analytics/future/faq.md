@@ -1,9 +1,9 @@
 ---
 title: Preguntas frecuentes
 description: xxx
-source-git-commit: 5dfc4e8f2e6d2532e40eb4da8748fec0ed096e71
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Nuestro auditor nos pide que deshabilitemos esta función. ¿Qué sucede si bloq
 
 A: Comprobamos con nuestro producto y mencionaron que los píxeles en cuestión tienen el propósito de aumentar las tasas de coincidencia de cookies entre Ad Cloud, socios específicos de inventario/SSP (con respecto a DSP) y AAM.  Si se eliminan, el cliente puede ver algún nivel de tasa de coincidencia reducida entre AAC/AAM y los socios de inventario para los que están los píxeles respectivos, pero no esperarían que fuera sustancial.
 
-Para la búsqueda en Ad Cloud, vemos que la organización de IMS está configurada para Mathworks, pero nuestro equipo de productos no ve la configuración de Mathworks para activar audiencias en Ad Cloud. ¿Utiliza Adobe Audience Manager para enviar audiencias a Ad Cloud Search? Si no es así, la eliminación de estos elementos no afectará al flujo de trabajo actual. AAM Servicio de atención al cliente puede ayudarle con la eliminación de estos píxeles si no desea que se activen.
+En Ad Cloud Search, vemos que el ID de Experience Cloud de la organización está configurado para Mathworks, pero nuestro equipo de productos no ve la configuración de Mathworks para activar audiencias en Ad Cloud. ¿Utiliza Adobe Audience Manager para enviar audiencias a Ad Cloud Search? Si no es así, la eliminación de estos elementos no afectará al flujo de trabajo actual. AAM Servicio de atención al cliente puede ayudarle con la eliminación de estos píxeles si no desea que se activen.
 
