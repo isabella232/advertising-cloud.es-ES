@@ -3,9 +3,9 @@ title: Soluciones entre dispositivos
 description: Obtenga más información sobre las funciones entre dispositivos.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '1113'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,7 @@ Con la atribución basada en personas, puede atribuir conversiones que se produj
 
 ### Habilitar la medición de atribución basada en personas
 
-Si desea activar la medición de atribución entre dispositivos, póngase en contacto con su [!DNL Adobe] equipo de la cuenta. Para [!DNL Adobe Device Co-op] cuentas, deberá proporcionar el [!DNL Adobe Device Co-op] y el ID de Experience Cloud de la organización (anteriormente denominado [!DNL IMS org ID]).
+Si desea activar la medición de atribución entre dispositivos, póngase en contacto con su [!DNL Adobe] equipo de la cuenta. Para [!DNL Adobe Device Co-op] cuentas, deberá proporcionar el [!DNL Adobe Device Co-op] contrato y su ID de organización de Experience Cloud (anteriormente denominada [!DNL IMS org ID]).
 
 Para ver si una cuenta de anunciante está configurada para usar un gráfico de dispositivos para la medición de atribuciones:
 
