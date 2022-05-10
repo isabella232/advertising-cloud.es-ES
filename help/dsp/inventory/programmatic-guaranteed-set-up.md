@@ -3,9 +3,9 @@ title: Configuración de un acuerdo garantizado programático
 description: Aprenda a configurar un acuerdo garantizado mediante programación (PG) que haya negociado con un editor.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
+source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,9 @@ Este es el método preferido para [!DNL FreeWheel], [!DNL Google Authorized Buye
 
    * Si está aceptando una propuesta con varios ID de oferta de PG, identifique cada ubicación predeterminada de PG que necesita crear. Una vez que haya creado todas las ubicaciones necesarias, el botón Continuar estará activado.
 
-1. (Opcional) Para dirigir la operación PG a ubicaciones adicionales, PG o que no sean PG, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Opcional) Para dirigir la operación PG a ubicaciones PG adicionales o que no sean PG, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->Es posible adjuntar varias ubicaciones que admitan distintos tipos de (CTV, escritorio, audio, etc.) al mismo trato.
+   Una oferta puede dirigirse a varias ubicaciones que admitan cualquier combinación de tipos de medios (como TV, escritorio y audio conectados).
 
 ## Configuración manual de un acuerdo garantizado programático
 
@@ -54,12 +52,9 @@ Utilice este método para todos los demás SSP.
 
    La creación de una colocación predeterminada de PG para la oferta es obligatoria para entregar el 100% de su compra. Este tipo de ubicación no tiene segmentación, por lo que DSP devolver una oferta a cada solicitud de oferta del editor.
 
-1. (Opcional) Para dirigir la operación PG a ubicaciones adicionales, PG o que no sean PG, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Opcional) Para dirigir la operación PG a ubicaciones PG adicionales o que no sean PG, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->Es posible adjuntar varias ubicaciones que admitan distintos tipos de (CTV, escritorio, audio, etc.) al mismo trato.
-
+   Una oferta puede dirigirse a varias ubicaciones que admitan cualquier combinación de tipos de medios (como TV, escritorio y audio conectados).
 
 >[!MORELIKETHIS]
 >
