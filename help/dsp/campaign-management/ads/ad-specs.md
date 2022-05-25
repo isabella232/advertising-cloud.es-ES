@@ -3,9 +3,9 @@ title: Especificaciones de la publicidad
 description: Haga referencia a las especificaciones generales y específicas del publicador.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
+source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,22 @@ Puede utilizar hojas de etiquetas desde [!DNL DCM], [!DNL Flashtalking], [!DNL I
 #### Requisitos adicionales del editor para anuncios de TV conectados
 
 * **Hulu:** Véase Hulu&#39;s [especificaciones del anuncio](https://advertising.hulu.com/ad-products/video-commercial/).
+
+* **Importe principal:** Consulte Paramount&#39;s [especificaciones del anuncio](https://www.paramount.com/digital-ads).
+
+* **Descubrimiento:** Consulte Discovery&#39;s [especificaciones del anuncio](/help/dsp/assets/discovery-networks-ad-specs.pdf).
+
+* **HBO Max:** Consulte HBO Max&#39;s [especificaciones del anuncio](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+
+* **Red A+E:** Consulte la [especificaciones del anuncio](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+
+* **NBCUniversal:**
+
+   * [Vídeo digital](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+
+   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+
+   * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
 * **Disney:**
 
