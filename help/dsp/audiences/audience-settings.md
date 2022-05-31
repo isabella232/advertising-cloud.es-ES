@@ -3,7 +3,7 @@ title: Configuración de audiencia
 description: Consulte las descripciones de la configuración de audiencia disponible.
 feature: DSP Audiences
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 505944d534e04da8f903c24e7899e7a80cb836e4
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Segmentos de Adobe
 
-(Opcional) Cualquier segmento de Adobe Analytics o Adobe Audience Manager que se incluya en la configuración de audiencia.
+(Opcional) Cualquiera [!DNL Adobe Real-Time Customer Data Profile], segmentos de Adobe Analytics o Adobe Audience Manager que se incluirán en la configuración de audiencia.
 
 ## Segmentos personalizados
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 >* [Proveedores de datos de terceros disponibles](third-party-data-providers.md)
 >* [Sintaxis para la lógica del segmento de audiencia](audience-segment-logic-syntax.md)
 >* [Crear e implementar un segmento personalizado](custom-segment-create.md)
->* [Creación e implementación de un  [!UICONTROL CCPA Opt-Out-of-Sale] segmento](ccpa-opt-out-segment-create.md)
+>* [Cree e implemente un [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md)
 

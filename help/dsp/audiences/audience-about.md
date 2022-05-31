@@ -3,9 +3,9 @@ title: Acerca de la gestión de público en Advertising Cloud DSP
 description: Obtenga información sobre las funciones de gestión de público.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,11 @@ También hay disponibles tipos de audiencia adicionales para la segmentación de
 
 ## Importación de segmentos de datos de origen y de terceros
 
-Advertising Cloud DSP puede importar sus propios segmentos de datos de origen desde su plataforma de administración de datos (DMP) y proporcionarlos a cualquier conjunto de anunciantes, según sea necesario.
+DSP importar sus propios segmentos de datos de origen desde su plataforma de administración de datos (DMP) y proporcionarlos a cualquier conjunto de anunciantes, según sea necesario.
 
-Advertising Cloud DSP también puede importar segmentos de terceros personalizados, incluidas combinaciones complejas de segmentos de terceros. Puede proporcionar los segmentos a cualquier conjunto de anunciantes, según sea necesario.
+DSP es un destino integrado para [el [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), lo que le permite compartir segmentos de origen autenticados con anunciantes y usuarios aprobados para la activación de campañas. Para obtener más información sobre la integración de Real-Time CDP, consulte la [Sección Fuentes](/help/dsp/audiences/sources/source-about.md).
+
+DSP también importar segmentos de terceros personalizados, incluidas combinaciones complejas de segmentos de terceros. Puede proporcionar los segmentos a cualquier conjunto de anunciantes, según sea necesario.
 
 Póngase en contacto con su [!DNL Adobe] equipo de cuenta para obtener más información.
 
@@ -40,9 +42,9 @@ Póngase en contacto con su [!DNL Adobe] equipo de cuenta para obtener más info
 
 Puede dirigir las ubicaciones a todos los tipos de audiencias siguientes.
 
-* Todos los conjuntos de audiencias creados por el usuario que se guardaron en Advertising Cloud DSP.
+* Todos los conjuntos de audiencias creados por el usuario que se guardaron en DSP.
 
-* Todos los segmentos de audiencia creados por el usuario que se crearon en Advertising Cloud DSP:
+* Todos los segmentos de audiencia creados por el usuario que se crearon en DSP:
 
    * Segmentos personalizados para usuarios que visitaron páginas web específicas y usuarios expuestos a impresiones de anuncios específicos.
 
@@ -52,21 +54,21 @@ Puede dirigir las ubicaciones a todos los tipos de audiencias siguientes.
 
 * Todos los segmentos de datos de terceros personalizados importados.
 
-* (Ubicaciones dirigidas solo a EE. UU.) [Todos los segmentos de datos de terceros disponibles para clientes de Advertising Cloud DSP de más de 30 proveedores](/help/dsp/audiences/third-party-data-providers.md), incluyendo [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast], y muchos más.
+* (Ubicaciones dirigidas solo a EE. UU.) [Todos los segmentos de datos de terceros disponibles para clientes DSP de más de 30 proveedores](/help/dsp/audiences/third-party-data-providers.md), incluyendo [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast], y muchos más.
 
    Puede dirigirse a segmentos específicos, que se dirigen a usuarios según los datos de audiencia (por ejemplo, usuarios con datos demográficos, intereses o intenciones específicos y/o perfiles de comportamiento). Puede examinar por proveedor y categoría de datos, buscar segmentos por nombre o ID de segmento, o filtrar los resultados por proveedor de datos, tamaño total del segmento, recuento del explorador web o recuento de dispositivos.
 
    Los segmentos de terceros incurren en tarifas adicionales, que se indican junto al nombre de cada segmento.
 
-* (Anunciantes con Adobe Experience Cloud, Adobe Audience Manager o Adobe Analytics que solo usan etiquetas de conversión de JavaScript de Advertising Cloud) Todos los segmentos de audiencia de origen, segundo o terceros disponibles creados en Adobe Experience Cloud, creados en Audience Manager o publicados en Adobe Experience Cloud desde Audience Manager o [!DNL Analytics].
+* (Anunciantes con Adobe Experience Platform y [!DNL Real-Time CDP], Adobe Audience Manager o Adobe Analytics que solo usan etiquetas de conversión de JavaScript de Advertising Cloud) Todos los segmentos de audiencia de origen, segundo o terceros disponibles creados en [!DNL Real-Time CDP], creado en Audience Manager o publicado en Adobe Experience Cloud desde Audience Manager o [!DNL Analytics].
 
-   Los precios para el uso de los segmentos se negocian previamente y no son visibles en Advertising Cloud.  <!-- Verify -->
+   Los precios para el uso de los segmentos se negocian previamente y no se pueden ver en DSP.
 
-   Los segmentos de Adobe Experience Cloud están disponibles aproximadamente una hora después de crearlos o publicarlos en Adobe Experience Cloud. Los segmentos procedentes directamente de Audience Manager están disponibles unas 24 horas después de crearlos. <!-- Verify all -->
+   Segmentos de [!DNL Analytics] están disponibles aproximadamente una hora después de crearlas o publicarlas como audiencias de Experience Cloud. Segmentos procedentes directamente del Audience Manager o [!DNL Real-Time CDP] están disponibles en un plazo de 24 horas después de compartirlas.
 
    >[!NOTE]
    >
-   >Consulte la documentación para [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)y [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) para obtener información sobre la configuración y recopilación de datos para segmentos en esas soluciones.
+   >Consulte la documentación para [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)y [el [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) para obtener información sobre la configuración y recopilación de datos para segmentos en esas soluciones.
 
 ## Datos de tamaño de audiencia
 

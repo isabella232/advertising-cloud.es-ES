@@ -8,9 +8,9 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
+source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '886'
 ht-degree: 6%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 6%
       + [Directrices de segmentos de mantenimiento aceptables](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Directrices de uso de datos](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Soluciones de medición avanzadas](/help/dsp/introduction/advanced-measurement-services.md)
-+ Administración de campañas {#campaign-management}
++ Campaign Management {#campaign-management}
    + [Descripción general de la estructura de Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campañas {#campaigns}
       + [Acerca de Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
@@ -84,7 +84,7 @@ ht-degree: 6%
          + [Configuración de anuncios de audio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
          + [Configuración de TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
          + [Mostrar configuración de publicidad](/help/dsp/campaign-management/ads/ad-settings-display.md)
-         + [Configuración de anuncios de Mobile](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+         + [Configuración de publicidad móvil](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Configuración de anuncios en pantalla nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Configuración de anuncio previo a la emisión](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Especificaciones para los tipos de publicidad admitidos](/help/dsp/campaign-management/ads/ad-specs.md)
@@ -108,7 +108,7 @@ ht-degree: 6%
       + [Columnas de hojas de cálculo descargadas o cargadas](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
    + [Métodos abreviados del teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Preguntas frecuentes sobre la administración de campañas](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Preguntas frecuentes sobre Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimización {#optimization}
    + [Cómo [!DNL DSP] Optimiza las campañas](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Objetivos de optimización y cómo utilizarlos](/help/dsp/optimization/optimization-goals.md)
@@ -131,6 +131,11 @@ ht-degree: 6%
       + [Crear una audiencia reutilizable](/help/dsp/audiences/reusable-audience-create.md)
       + [Configuración de audiencia](/help/dsp/audiences/audience-settings.md)
       + [Sintaxis para la lógica del segmento de audiencia](/help/dsp/audiences/audience-segment-logic-syntax.md)
+   + Administrar fuentes {#sources}
+      + [Acerca de la activación de segmentos autenticados desde fuentes de audiencia](/help/dsp/audiences/sources/source-about.md)
+      + [Activar segmentos autenticados de socios de ID duraderos](/help/dsp/audiences/sources/source-durable-id.md)
+      + [Crear una fuente de audiencias para activar las audiencias de origen](/help/dsp/audiences/sources/source-create.md)
+      + [Configuración de fuente de audiencia](/help/dsp/audiences/sources/source-settings.md)
    + [Proveedores de datos de terceros disponibles](/help/dsp/audiences/third-party-data-providers.md)
 + Inventario {#inventory}
    + [Descripción general de las funciones de inventario](/help/dsp/inventory/inventory-overview.md)
