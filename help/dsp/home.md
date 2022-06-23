@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 611589fd6fa7067a6e5c6ddfb1f8bb5ed700a44b
+source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 | Fecha | Función | Descripción | Para obtener más información |
 | ---- | ------- | ----------- | -------------------- |
 | 31 de mayo de 2022 | Fuentes de audiencia | (Función beta) Advertising Cloud DSP ahora puede introducir segmentos de origen compuestos de señales autenticadas creadas dentro de una plataforma de datos del cliente (CDP). | Consulte &quot;[Acerca de la activación de segmentos autenticados desde fuentes de audiencia](/help/dsp/audiences/sources/source-about.md).&quot; |
+| 25 de mayo de 2022 | Objetivos de optimización | Las ubicaciones nativas y de vídeo ahora se pueden incluir en paquetes con los objetivos personalizados El ROAS más alto y el CPA más bajo. | Consulte &quot;[Objetivos de optimización y cómo utilizarlos](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 de abril de 2022 | Campaign Management | Las especificaciones de los anuncios se actualizaron para reflejar la compatibilidad actual. | Consulte &quot;[Especificaciones para los tipos de publicidad admitidos](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
 | 17 de febrero de 2022 | Tutoriales en vídeo | Hay disponible un nuevo vídeo sobre &quot;Cómo crear una colocación de visualización estándar&quot;. | Consulte [Tutorials de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 de enero de 2022 | Ayuda | Información adicional sobre [!DNL Deal IDs] y [!DNL Simple Ad Serving] ya está disponible. | Consulte el subcapítulo Inventario > Inventario privado. |
