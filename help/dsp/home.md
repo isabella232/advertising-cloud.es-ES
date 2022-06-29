@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: e29853b728cd3efbb374179ca6af8d095b77df43
+source-git-commit: b15f952d11ff88d66f3e14b243ff3d6dc40224ba
 workflow-type: tm+mt
-source-wordcount: '1611'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,8 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 
 | Fecha | Función | Descripción | Para obtener más información |
 | ---- | ------- | ----------- | -------------------- |
-| 29 de junio de 2022 | Inventario | El nuevo [!UICONTROL Inventory] > [!UICONTROL Deals] la vista incluye las mismas capacidades de personalización de datos que la [!UICONTROL Campaigns] , incluidos filtros adicionales, personalización de columnas y la opción de guardar vistas personalizadas, clasificación de columnas y vistas de gráficos. Puede abrir un menú de comandos en cada fila haciendo clic en [!UICONTROL ...] después del nombre de la oferta. | Consulte &quot;[Descripción general de las funciones de inventario](/help/dsp/inventory/inventory-overview.md).&quot; |
+| 29 de junio de 2022 | Inventario | El nuevo [!UICONTROL Inventory] > [!UICONTROL Deals] la vista incluye las mismas capacidades de personalización de datos que la [!UICONTROL Campaigns] , incluidos filtros adicionales, personalización de columnas y la opción de guardar vistas personalizadas, clasificación de columnas y una vista de visualización de datos (gráfico). Puede abrir un menú de comandos en cada fila haciendo clic en [!UICONTROL ...] después del nombre de la oferta. | Consulte &quot;[Descripción general de las funciones de inventario](/help/dsp/inventory/inventory-overview.md).&quot; |
+|  | Inventario [!UICONTROL Inspector] | La variable [!UICONTROL Inventory] de la colocación [!UICONTROL Inspector] ahora incluye gráficos de visualización de datos personalizables y métricas de rendimiento ampliadas, como [!UICONTROL Viewability Rate], [!UICONTROL Clicks]y [!UICONTROL Yesterday's CPM]. | Consulte &quot;[Ver los detalles de sitios, anuncios, frecuencia e inventario de una colocación](/help/dsp/campaign-management/reports/placement-details-view.md).&quot; |
 | 31 de mayo de 2022 | Fuentes de audiencia | (Función beta) Advertising Cloud DSP ahora puede introducir segmentos de origen compuestos de señales autenticadas creadas dentro de una plataforma de datos del cliente (CDP). | Consulte &quot;[Acerca de la activación de segmentos autenticados desde fuentes de audiencia](/help/dsp/audiences/sources/source-about.md).&quot; |
 | 25 de mayo de 2022 | Objetivos de optimización | Las ubicaciones nativas y de vídeo ahora se pueden incluir en paquetes con los objetivos personalizados El ROAS más alto y el CPA más bajo. | Consulte &quot;[Objetivos de optimización y cómo utilizarlos](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 de abril de 2022 | Campaign Management | Las especificaciones de los anuncios se actualizaron para reflejar la compatibilidad actual. | Consulte &quot;[Especificaciones para los tipos de publicidad admitidos](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
