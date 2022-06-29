@@ -3,7 +3,7 @@ title: Crear e implementar un segmento personalizado
 description: Aprenda a crear e implementar un segmento personalizado para rastrear a los usuarios expuestos a publicidades o usuarios que visitan sus páginas web.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: a1a51e0191152112d357a979aae6cde1e73a2497
+source-git-commit: b6e77b91ad5626bb9ece45ec3f01126715dbe37b
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Puede recopilar sus propios datos de audiencia de origen creando e implementando
 
          1. Copie la etiqueta de seguimiento de impresión, que se denomina &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Agregue la etiqueta a [!UICONTROL Pixel] para cada anuncio relevante o para la [!UICONTROL Event Pixels] de la sección [[!UICONTROL Tracking] configuración para cada ubicación correspondiente](/help/dsp/campaign-management/placements/placement-settings.html##placement-tracking) .
+         1. Agregue la etiqueta a [!UICONTROL Pixel] para cada anuncio relevante o para la [!UICONTROL Event Pixels] de la sección [[!UICONTROL Tracking] configuración para cada ubicación correspondiente](/help/dsp/campaign-management/placements/placement-settings.html#placement-tracking).
 
 
 Una vez implementada la etiqueta de seguimiento, puede utilizar el segmento en los destinos o exclusiones de audiencia para cualquier ubicación.
