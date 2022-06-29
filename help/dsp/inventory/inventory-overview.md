@@ -3,9 +3,9 @@ title: Descripción general de las funciones de inventario en Advertising Cloud 
 description: Obtenga más información sobre las funciones de inventario disponibles.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,12 @@ Los tipos de inventario disponibles incluyen:
 * **Inventario privado [!DNL Deal IDs]:** Configure y administre ofertas de mercado privadas (PMP) que haya negociado directamente 1:1 con el editor.
 
 * **[!DNL Simple Ad Serving]:** Utilice la tecnología optimizada para la entrega de anuncios y la creación de informes garantizados y no decididos cuando el editor no pueda ejecutar la oferta mediante los ID de la oferta.
+
+## Vista Ofertas
+
+Puede ver todas las ofertas existentes en la [!UICONTROL Inventory] > [!UICONTROL Deals] vista. Puede personalizar aún más cómo se presentan los datos de la oferta existente aplicando filtros, personalizando las columnas visibles y, opcionalmente, guardando vistas personalizadas, ordenando las columnas y viendo los datos como gráficos.
+
+También puede crear y administrar la configuración de ofertas privadas y [!DNL Simple Ad Serving] ofertas de [!UICONTROL Deals] vista. Para ver y administrar [!DNL On Demand] inventory, vaya a [!UICONTROL Inventory] > [!UICONTROL On Demand].
 
 >[!MORELIKETHIS]
 >
