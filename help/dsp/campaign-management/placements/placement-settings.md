@@ -3,9 +3,9 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 9faed6cda5dcd3e40ea04a07eb2b3ed8a524389a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '3277'
 ht-degree: 0%
 
 ---
@@ -397,7 +397,7 @@ Para especificar el objetivo de temas:
 
 **[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Los anunciantes configurados con la variable [!UICONTROL DoubleVerify Authentic Brand Safety] opción) Habilita [!DNL DoubleVerify Authentic Brand Safety], que bloquea las impresiones posteriores a la oferta mediante las reglas de seguridad de marca personalizadas configuradas para el ID de segmento especificado. DSP factura a su cuenta por el uso del ID de segmento especificado en la configuración del anunciante.
 
-## [!UICONTROL Tracking]
+## [!UICONTROL Tracking]{#placement-tracking}
 
 >[!NOTE]
 >
