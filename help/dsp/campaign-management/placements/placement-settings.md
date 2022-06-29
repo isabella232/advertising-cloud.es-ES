@@ -3,9 +3,9 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: c2fbaf3381ca4380c18d55931e9f4f662da892af
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '3278'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -440,7 +440,7 @@ Para especificar el objetivo de temas:
             Es posible que el departamento de TI u otro grupo del anunciante tenga que programar la implementación de etiquetas o que se le informe al respecto.
    1. Haga clic **[!UICONTROL Save]**.
 
-**[!UICONTROL 3rd-party Fees]:** (Opcional) Una tasa estática de terceros que se rastreará como un costo no facturable por cada mil impresiones. El valor predeterminado del nivel de paquete se aplica automáticamente a las nuevas ubicaciones, cuando corresponda, a menos que introduzca un valor diferente.
+**[!UICONTROL 3rd-party Fees]:** (Opcional) Una tasa estática de terceros que se rastreará como un costo no facturable por 1000 impresiones. El valor predeterminado del nivel de paquete se aplica automáticamente a las nuevas ubicaciones, cuando corresponda, a menos que introduzca un valor diferente.
 
 >[!NOTE]
 >
@@ -452,5 +452,5 @@ Para especificar el objetivo de temas:
 >* [Crear una colocación](placement-create.md)
 >* [Editar una colocación](placement-edit.md)
 >* [Métodos abreviados del teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Preguntas frecuentes sobre la administración de campañas](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Preguntas frecuentes sobre Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

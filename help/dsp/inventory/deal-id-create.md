@@ -3,9 +3,9 @@ title: Crear manualmente detalles de ID de acuerdo
 description: Obtenga información sobre cómo introducir manualmente los detalles de un ID de acuerdo.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
-source-git-commit: 593bfc03d2dd182b817be9eac4792dfd690132a2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 1. Introduzca la variable [configuración de acuerdo](deal-id-settings.md):
 
-   1. En el [!UICONTROL Deal ID basics] , especifique los detalles de la oferta y los anunciantes que pueden acceder a la oferta. Para ofertas garantizadas, también debe especificar las fechas de vuelo previstas y la estimación de impresiones, solo con fines de seguimiento.
+   1. En el [!UICONTROL Deal ID basics] , especifique los detalles de la oferta y los anunciantes que pueden acceder a la oferta. Para ofertas garantizadas, también debe especificar las fechas de vuelo previstas y el número estimado de impresiones, solo con fines de seguimiento.
 
    1. (Solo usuarios administradores; (opcional) En la [!UICONTROL Technical] , edite la configuración predeterminada según sea necesario.
 
    1. Haga clic **[!UICONTROL Save]**.
 
-1. (Ofertas garantizadas solamente) Seleccione las publicidades que se utilizarán para la oferta y cree una colocación garantizada mediante programación (PG) predeterminada.
+1. (Solo ofertas garantizadas) Seleccione las publicidades que desea utilizar para la oferta y cree una colocación garantizada mediante programación (PG) predeterminada.
 
-   Las ubicaciones de PG predeterminadas garantizan que la oferta siempre devolverá una oferta por cada solicitud de oferta. Si no crea una colocación de PG predeterminada, las ubicaciones a las que se dirija la oferta no colocarán ofertas a menos que estén configuradas correctamente. Siempre debe crear una colocación de PG predeterminada. En el [!UICONTROL Placements] vista, las ubicaciones de PG predeterminadas tienen una [!UICONTROL Sub-type] valor de columna de &quot;[!UICONTROL PG Default].&quot;
+   Las ubicaciones de PG predeterminadas garantizan que la oferta siempre devuelva una oferta por cada solicitud de oferta. Si no se crea una colocación de PG predeterminada, las ubicaciones a las que se dirija la oferta no generan ofertas a menos que estén configuradas correctamente. Siempre debe crear una colocación de PG predeterminada. En el [!UICONTROL Placements] vista, las ubicaciones de PG predeterminadas tienen una [!UICONTROL Sub-type] valor de columna de &quot;[!UICONTROL PG Default].&quot;
 
    Si lo desea, puede utilizar la oferta como destino de inventario en ubicaciones adicionales, pero debe configurarlas correctamente para colocar ofertas.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
       1. Seleccione el anunciante, la campaña y el tipo de publicidad. De forma opcional, seleccione un estado de publicidad mediante el cual filtrar las publicidades.
 
-      1. En la lista de publicidades disponibles, active la casilla de verificación situada junto a cada publicidad que se utilizará para la oferta.
+      1. En la lista de publicidades disponibles, active la casilla de verificación situada junto a cada publicidad que desee utilizar para la oferta.
 
       1. Haga clic **[!UICONTROL Apply]**.
    1. En la pantalla de configuración de ubicación:

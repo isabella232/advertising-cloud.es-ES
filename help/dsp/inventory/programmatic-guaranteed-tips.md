@@ -3,16 +3,16 @@ title: Sugerencias para negociar un acuerdo garantizado mediante programación
 description: Conozca sugerencias para negociar un acuerdo con garantía programática (PG) y listas de las responsabilidades del comprador y del editor.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: b754f993-b52f-4527-a246-bf232038c7cd
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Sugerencias para negociar un acuerdo garantizado mediante programación
 
-Al negociar un acuerdo garantizado programático, el comprador y el editor deben debatir y confirmar los siguientes puntos:
+Al negociar un acuerdo garantizado programático, el comprador y el editor deben discutir y confirmar los siguientes puntos:
 
 * Fecha de vuelo
 * Geos

@@ -3,16 +3,16 @@ title: Archivar o desarchivar un acuerdo privado
 description: Aprenda a archivar o desarchivar una oferta privada.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 6ecf90b6-a52f-42f3-aa3f-b2c489ea0aa8
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 1c35dd571193bbf3e59c48b19438b7339f3f32d7
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Archivar o desarchivar un acuerdo privado
 
-Oculte una oferta privada que no se esté utilizando archivándola. La única acción que puede realizar en un acuerdo archivado es desarchivarlo. La oferta archivada no se muestra de forma predeterminada, pero sigue estando disponible para los informes.
+Oculte una oferta privada que no se esté utilizando archivándola. La única acción que puede realizar en un acuerdo archivado es desarchivarlo. Las ofertas archivadas no se muestran de forma predeterminada, pero siguen estando disponibles para los informes.
 
 Puede desarchivar una oferta para restaurar su estado anterior en cualquier momento.
 
@@ -25,25 +25,25 @@ Puede desarchivar una oferta para restaurar su estado anterior en cualquier mome
 ## Archivar un acuerdo privado
 
 1. En el menú principal, haga clic en **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
-1. En la fila de acuerdo, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL archive]**.
-1. En el mensaje de confirmación, haga clic en **[!UICONTROL OK]**.
+1. En la fila de acuerdo, haga clic en **[!UICONTROL ...]>[!UICONTROL Archive]**.
+1. En el mensaje de confirmación, haga clic en **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->Para ver las ofertas archivadas, haga clic en el botón **[!UICONTROL Status]** y seleccione **[!UICONTROL Inactive].**
+>Para ver las ofertas archivadas, haga clic en ![Filtro](/help/dsp/assets/filter.png) por encima de la lista de operaciones; click **[!UICONTROL Status]** y seleccione *[!UICONTROL Archived]*; y haga clic en **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
 
 ## Desarchivar un acuerdo privado
 
-1. En el menú principal, haga clic en **[!UICONTROL Deals]**.
-1. En la barra de herramientas, haga clic en el **[!UICONTROL Status]** y seleccione **[!UICONTROL Inactive].**
-1. En la fila de acuerdo, haga clic en  ![Menú Opciones](/help/dsp/assets/options-menu.png) **>[!UICONTROL unarchive]**.
-1. En el mensaje de confirmación, haga clic en **[!UICONTROL OK]**.
+1. En el menú principal, haga clic en **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
+1. Sobre la lista de ofertas, haga clic en ![Filtro](/help/dsp/assets/filter.png); click **[!UICONTROL Status]** y seleccione *[!UICONTROL Archived]*; y haga clic en **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
+1. En la fila de acuerdo, haga clic en **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
+1. En el mensaje de confirmación, haga clic en **[!UICONTROL Unarchive]**.
 
 Si el publicador o la SSP han desactivado previamente la operación y desea volver a utilizarla, póngase en contacto directamente con el publicador o con la SSP.
 
 >[!NOTE]
 >
->Para ver las ofertas no archivadas (activas), haga clic en el botón **[!UICONTROL Status]** y seleccione **[!UICONTROL Active].**
+>Para ver ofertas no archivadas (en directo), haga clic en ![Filtro](/help/dsp/assets/filter.png) por encima de la lista de operaciones; click **[!UICONTROL Status]** y seleccione *[!UICONTROL Live]*; y haga clic en **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
 
 >[!MORELIKETHIS]
 >

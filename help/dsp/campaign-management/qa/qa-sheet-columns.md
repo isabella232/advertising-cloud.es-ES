@@ -3,9 +3,9 @@ title: Columnas de hojas de cálculo descargadas o cargadas
 description: Haga referencia a las columnas en las hojas de cálculo de control de calidad de Excel descargadas y cargadas.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 15f1e22dbc742d372dcabf2c029f2f7d72ff1d2f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 0%
 | [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | Indica si el bloque de seguridad del sitio está habilitado o no: *[!UICONTROL ON]* o *[!UICONTROL OFF]*.<!-- Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one? --> | — |
 | [!UICONTROL Tracking] | [!UICONTROL Tracking Pixels #] | El número de píxeles de seguimiento de eventos de terceros adjuntos a la ubicación o *[!UICONTROL None]*. | — |
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | El número de píxeles de seguimiento de conversión adjuntos a la ubicación o *[!UICONTROL None]*. | — |
-| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | Una tasa estática de terceros que se rastreará como un coste no facturable por cada mil impresiones, si corresponde. | — |
+| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | Una tasa estática de terceros que se rastreará como un coste no facturable por 1000 impresiones, si corresponde. | — |
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | El número de anuncios adjuntos a la ubicación, si los hay, o *[!UICONTROL None]*. | — |
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | Los nombres de los anuncios adjuntos a la ubicación, si los hay, o *[!UICONTROL None]*. | — |
 

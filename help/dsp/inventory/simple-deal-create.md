@@ -3,9 +3,9 @@ title: '"Cree un [!UICONTROL Simple Ad Serving] Acuerdo"'
 description: '"Aprenda a crear un píxel de seguimiento para un [!UICONTROL Simple Ad Serving] trato".'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
          * Para nuevas publicidades, cree un proxy [anuncio de terceros](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
-      > En realidad, no DSP los anuncios que especifique. El editor publicará el anuncio.
+      > DSP no sirve las publicidades que especifique. El editor sirve para el anuncio.
 
       1. Haga clic **[!UICONTROL Next]**.
    1. En Detalles de fuente, edite los detalles de la fuente y, a continuación, haga clic en **[!UICONTROL Next]**.
@@ -63,5 +63,9 @@ ht-degree: 0%
 >
 >* [Acerca de [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [[!UICONTROL Simple Ad Serving] Configuración](simple-deal-settings.md)
->* [Ver píxeles de seguimiento de eventos para un [!UICONTROL Simple Ad Serving] Acuerdo](simple-deal-show-pixels.md)
+>* [Ver un informe detallado de un acuerdo](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

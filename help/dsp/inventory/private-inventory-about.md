@@ -3,9 +3,9 @@ title: Acerca del inventario privado
 description: Acerca del inventario privado
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Los anunciantes que buscan más allá de RTB pueden utilizar el inventario priva
 
 ### ID de acuerdos
 
-Si tiene relaciones directas con editores, puede optimizar el proceso de compra de medios y el flujo de trabajo mediante el uso de sus propias ofertas privadas, con su inventario negociado y sus precios, en las ubicaciones de Advertising Cloud DSP. DSP integrará con todos los editores cuando configure una cuenta. Si desea acceder a editores adicionales más adelante, póngase en contacto con su [!DNL Adobe] equipo de la cuenta para configurar el acceso. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+Si tiene relaciones directas con editores, puede optimizar el proceso de compra de medios y el flujo de trabajo mediante el uso de sus propias ofertas privadas, con su inventario negociado y sus precios, en las ubicaciones de Advertising Cloud DSP. DSP se integra con todos los editores al configurar una cuenta. Si desea acceder a editores adicionales más adelante, póngase en contacto con su [!DNL Adobe] equipo de la cuenta para configurar el acceso. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 Todas las transacciones privadas con un ID de acuerdo se financian y facturan mediante [!DNL Adobe].
 
@@ -38,7 +38,7 @@ Puede usar cada oferta privada como destino de colocación para varias campañas
 
 [!UICONTROL Simple Ad Serving] proporciona informes y entrega de anuncios no decididos y garantizados para los medios ofrecidos fuera de Advertising Cloud DSP.
 
-El editor proporciona cada anuncio directamente y DSP un píxel de seguimiento de eventos para enviarlo al editor, que necesita implementar el píxel y el tráfico de los anuncios.
+El editor proporciona cada anuncio directamente y DSP un píxel de seguimiento de eventos para enviarlo al editor, que debe implementar el píxel y el tráfico de los anuncios.
 
 Para obtener más información, consulte &quot;[Acerca de [!UICONTROL Simple Ad Serving]](simple-deal-about.md).&quot;
 

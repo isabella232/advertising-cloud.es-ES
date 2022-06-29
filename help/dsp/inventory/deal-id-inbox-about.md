@@ -3,9 +3,9 @@ title: Acerca de [!UICONTROL Deal ID Inbox]
 description: Obtenga información sobre [!UICONTROL Deal ID inbox] , que le permite aceptar ofertas privadas que ya ha negociado con editores en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocido como [!DNL AdX]), and [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,11 @@ Durante las negociaciones del acuerdo, indique al editor que envíe el acuerdo a
 
 ## Acciones que puedes llevar a cabo en tus acuerdos
 
-* **Revisar ofertas** para verificar que la SSP ha enviado el editor, las fechas de vuelo, el CPM y otros detalles de acuerdo correctos. Si el editor ha cometido un error, póngase en contacto con ellos fuera de DSP para que puedan corregir y volver a enviar el acuerdo.
+* **Revisar ofertas** para verificar que la SSP ha enviado el editor, las fechas de vuelo, el CPM y otros detalles de acuerdo correctos. Si el editor ha cometido un error, póngase en contacto con ellos fuera de DSP para que puedan corregir y reenviar el acuerdo.
 
 * **Aceptar ofertas** después de la revisión, y ya no aparecerán en la variable [!UICONTROL Deal ID inbox]. Las ofertas aceptadas se enumeran en [!UICONTROL Inventory] > [!UICONTROL Deals] y están listos para dirigirse a las ubicaciones de los anunciantes.
 
-* **Omitir ofertas** que no son necesarios o no son solicitados. Las ofertas ignoradas se mueven al [!UICONTROL Ignored Deals] dentro de la pestaña [!UICONTROL Deal ID inbox], que sirve como archivo. DSP alerta a los SSP y a los editores cuando ignora una oferta.
+* **Omitir ofertas** que no son necesarios o no son solicitados. Las ofertas ignoradas se mueven al [!UICONTROL Ignored Deals] dentro de la pestaña [!UICONTROL Deal ID inbox], que sirve como archivo. DSP alerta a los SSP y a los editores cuando ignora un acuerdo.
 
 * **Modificar detalles para ofertas ya aceptadas** from [!UICONTROL Inventory] > [!UICONTROL Deals] (no en la variable [!UICONTROL Deal ID inbox]). Del mismo modo, cuando los editores envían cambios a ofertas, los anunciantes son responsables de implementar dichos cambios en [!UICONTROL Inventory] > [!UICONTROL Deals] porque la variable [!UICONTROL Deal ID inbox] no sincroniza los cambios de los SSP después de configurar las ofertas.
 

@@ -3,9 +3,9 @@ title: Acerca de [!UICONTROL Simple Ad Serving]
 description: Obtenga información sobre [!UICONTROL Simple Ad Serving] trata el uso de píxeles de seguimiento de eventos.
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
-source-git-commit: 5a8aaa3fba6cca33915fc9720c78493f98244b61
+source-git-commit: cdb4f7c014ee4c7606c2e6acd5b3e2bfd08b275d
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 [!UICONTROL Simple Ad Serving] proporciona informes y entrega de anuncios garantizados y sin decisiones para un editor específico y un único tipo de anuncio que utiliza una sola ubicación dedicada. Uso [!DNL Simple Ad Serving] cuando el editor no puede ejecutar la operación mediante ID de acuerdo. El editor gestiona todos los objetivos, el ritmo del presupuesto y los límites de frecuencia. Ejecute estas ofertas a través de píxeles de seguimiento de eventos.
 
-con [!UICONTROL Simple Ad Serving], el editor (servidor del sitio) proporciona cada anuncio directamente y DSP un píxel de seguimiento de eventos para enviarlo al editor, que necesita implementar el píxel y el tráfico de los anuncios de DSP. Según el tipo de inventario, los píxeles de evento miden los eventos de impresión, pulsación y vídeo reproducido.
+con [!UICONTROL Simple Ad Serving], el editor (servidor del sitio) proporciona cada anuncio directamente y DSP un píxel de seguimiento de eventos para enviarlo al editor, que debe implementar el píxel y el tráfico de los anuncios de DSP. Según el tipo de inventario, los píxeles de evento miden los eventos de impresión, pulsación y vídeo reproducido.
 
 Están disponibles los siguientes tipos de anuncios:
 
@@ -31,6 +31,11 @@ Puede crear un [!UICONTROL Simple Ad Serving] en el [!UICONTROL Inventory] > [!U
 >[!MORELIKETHIS]
 >
 >* [Cree un [!UICONTROL Simple Ad Serving] Acuerdo](simple-deal-create.md)
+>* [Editar [!UICONTROL Simple Ad Serving] Configuración de ofertas](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] Configuración](simple-deal-settings.md)
->* [Ver píxeles de seguimiento de eventos para un [!UICONTROL Simple Ad Serving] Acuerdo](simple-deal-show-pixels.md)
+>* [Ver un informe detallado de un acuerdo](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

@@ -3,9 +3,9 @@ title: Comprobar el estado de las publicidades para un [!DNL [!DNL FreeWheel]] O
 description: Obtenga información sobre cómo encontrar el estado de las publicidades para [!DNL Freewheel] ofertas garantizadas mediante programación.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 57c365f6-41cf-4ab6-b71d-fe9984eaf115
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Para cualquier pregunta o problema adicional con el reenvío, póngase en contac
 
 1. (Opcional) Filtre los datos para encontrar ofertas y publicidades específicas.
 
-   La variable [!UICONTROL Submission Status] indica si el anuncio se envió y aprobó o no.
+   La variable [!UICONTROL Submission Status] indica si el anuncio se envió y aprobó.
 
    Para los envíos fallidos, la variable [!UICONTROL API] La columna Respuesta indica el error. Para obtener una lista completa de los códigos de error de los envíos fallidos y los pasos siguientes para corregirlos, consulte &quot;[Códigos de error para [!DNL FreeWheel] Envíos de publicidad](freewheel-error-codes.md).&quot;
 

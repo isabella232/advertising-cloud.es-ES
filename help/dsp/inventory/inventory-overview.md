@@ -3,22 +3,22 @@ title: Descripción general de las funciones de inventario en Advertising Cloud 
 description: Obtenga más información sobre las funciones de inventario disponibles.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 3039557f4929b716d86840cd3cb4a5aa54125145
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 # Descripción general de las funciones de inventario en Advertising Cloud DSP
 
-Advertising Cloud DSP puede satisfacer sus necesidades de inventario, tanto si desea buscar escala con el inventario público como si desea buscar escala entre los editores premium con [!DNL On Demand], o configurar una relación de mercado privado (PMP) 1:1 con un editor para activarla con audiencias o sitios específicos. Los objetivos de su campaña le ayudarán a dictar qué tipo de inventario se adapta mejor a las necesidades de rendimiento de su campaña. Las integraciones con las principales plataformas de suministro (SSP) permiten una configuración y activación sin problemas de sus PMP.
+Advertising Cloud DSP puede satisfacer sus necesidades de inventario, tanto si desea buscar escala con el inventario público como si desea buscar escala entre los editores premium con [!DNL On Demand], o configurar una relación de mercado privado (PMP) 1:1 con un editor para activarla con audiencias o sitios específicos. Los objetivos de su campaña le ayudan a dictar qué tipo de inventario se adapta mejor a las necesidades de rendimiento de su campaña. Las integraciones con las principales plataformas de suministro (SSP) permiten una configuración y activación sin problemas de sus PMP.
 
 Una vez que acceda a sus ofertas de inventario o las identifique en DSP, puede utilizarlas como objetivos de ubicación para sus campañas.
 
 Los tipos de inventario disponibles incluyen:
 
-* **[!DNL On Demand]Inventario:** Explore ofertas previamente negociadas y no garantizadas que el Adobe haya seleccionado con nuestros socios editores premium.
+* **[!DNL On Demand]Inventario:** Explore las ofertas previamente negociadas y no garantizadas que el Adobe ha seleccionado con los socios editores premium.
 
 * **Inventario privado [!DNL Deal IDs]:** Configure y administre ofertas de mercado privadas (PMP) que haya negociado directamente 1:1 con el editor.
 

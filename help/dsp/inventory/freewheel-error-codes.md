@@ -3,10 +3,10 @@ title: Códigos de error para [!DNL FreeWheel] Envíos de publicidad
 description: Haga referencia a los códigos de error devueltos para los envíos de anuncios a [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 2eb93971-ba82-4de8-96c5-48524d628b70
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Los mensajes de error para los envíos de anuncios fallidos pueden provenir de A
 | 403 | Prohibido | El servidor entendió la solicitud, pero se niega a autorizarla. | Póngase en contacto con su [!DNL Adobe] equipo de la cuenta. |
 | 404 | No encontrado | El recurso solicitado no está disponible. Si no se encuentra el ID creativo en la operación de PUT, se devuelve un error 404. | Póngase en contacto con su [!DNL Adobe] equipo de la cuenta. |
 | 405 | Método no permitido | Se ha realizado una solicitud de un recurso utilizando un método de solicitud no admitido por ese recurso (por ejemplo, utilizando GET en un método que requiere que el POST envíe los datos o utilizando un PUT en un recurso de solo lectura). | Póngase en contacto con su [!DNL Adobe] equipo de la cuenta. |
-| 408 | Tiempo de espera de solicitud | Se agotó el tiempo de espera mientras se procesaba esta solicitud. Los tiempos de espera suelen deberse a solicitudes simultáneas de acceso exclusivo a determinados recursos. | Vuelva a enviar la solicitud cuando reciba este estado. Si el problema persiste, póngase en contacto con su [!DNL Adobe] equipo de la cuenta. |
+| 408 | Tiempo de espera de solicitud | Se agotó el tiempo de espera mientras se procesaba esta solicitud. Normalmente, los tiempos de espera se deben a solicitudes simultáneas de acceso exclusivo a determinados recursos. | Vuelva a enviar la solicitud cuando reciba este estado. Si el problema persiste, póngase en contacto con su [!DNL Adobe] equipo de la cuenta. |
 | 422 | Entidad no procesable | Recurso no válido. Este error ocurre cuando el cuerpo de la solicitud no es válido o el recurso creado/actualizado no es válido (por ejemplo, si no se encontró el ID de acuerdo). Consulte [Errores de la API 422 de FreeWheel](#freewheel-422-errors) para obtener más información. | Póngase en contacto con su [!DNL Adobe] equipo de la cuenta. |
 | 500 | Error interno del servidor | Error del sistema de API. | Póngase en contacto con su [!DNL Adobe] equipo de la cuenta. |
 

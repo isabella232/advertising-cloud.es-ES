@@ -1,10 +1,11 @@
 ---
 title: Información general sobre la configuración de ofertas PG en [!DNL Freewheel]
-description: 'Obtenga información sobre los requisitos previos y los pasos adicionales necesarios para ejecutar anuncios para ofertas garantizadas mediante programación con editores en [!DNL Freewheel]. '
+description: Obtenga información sobre los requisitos previos y los pasos adicionales necesarios para ejecutar anuncios para ofertas garantizadas mediante programación con editores en [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Configuración de acuerdos garantizados programáticos con editores en [!DNL Fre
 
    Para algunos editores del Reino Unido, debe incluir un [!DNL Clearcast] número de reloj con su anuncio.
 
-1. [Aceptar el ID de la oferta](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) ya ha negociado con un editor en [!DNL Freewheel] uso de la bandeja de entrada Deal ID.
+1. [Aceptar el ID de la oferta](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) que ya ha negociado con un editor en [!DNL Freewheel] uso de la bandeja de entrada Deal ID.
 
    Después de aceptar la oferta, siga las indicaciones para 1) seleccionar la publicidad que desea usar para la oferta y 2) crear una ubicación predeterminada garantizada programáticamente para servir la publicidad.
 
