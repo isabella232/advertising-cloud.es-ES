@@ -2,10 +2,11 @@
 title: Editar [!UICONTROL Simple Ad Serving] Configuración de ofertas
 description: Obtenga información sobre cómo editar la configuración de un [!UICONTROL Simple Ad Serving] trato.
 feature: DSP Simple Ad Serving
-source-git-commit: cc0b5d73712fa1ab8955c444899a3e93ef1393b2
+exl-id: 025b299b-05ba-4e4e-ac92-8a738303bc32
+source-git-commit: f1fce966c8db2f4cde72ecf1cc900f3d5fb1a1a5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
