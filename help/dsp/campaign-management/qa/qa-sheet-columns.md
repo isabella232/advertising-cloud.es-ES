@@ -3,9 +3,9 @@ title: Columnas de hojas de cálculo descargadas o cargadas
 description: Haga referencia a las columnas en las hojas de cálculo de control de calidad de Excel descargadas y cargadas.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 | [!UICONTROL Sites] | [!UICONTROL Categories - Excluded #] | El número de categorías de sitio excluidas, si las hay, o *[!UICONTROL All]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Excluded Sites] | Los sitios excluidos, si se especifican, o *[!UICONTROL None]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Language] | Idiomas del sitio de destino. | — |
-| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | Si se permite o no la entrega de anuncios en sitios no auditados: *[!UICONTROL ON]* o *[!UICONTROL OFF]*. | — |
+| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | (Solo las ubicaciones de visualización estándar) Si se permite o no la entrega de anuncios en sitios que no son auditados: *[!UICONTROL ON]* o *[!UICONTROL OFF]*. Cuando la ubicación se dirige al inventario privado, esta opción puede entregar anuncios en sitios bloqueados. | — |
 | [!UICONTROL Sites] | [!UICONTROL Targeted Sites] | El número de sitios de destino, si se especifica alguno, o *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | Las audiencias de destino, si las hay, o *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | Las audiencias excluidas, si se especifica alguna, o *[!UICONTROL None]*. | — |

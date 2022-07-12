@@ -3,9 +3,9 @@ title: Seguridad de la marca y calidad de los medios
 description: Obtenga más información sobre la seguridad de la marca y las funciones de calidad de los medios.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: b436936e3a0edcb78497fadb6f3c4086412baaa5
 workflow-type: tm+mt
-source-wordcount: '1315'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -79,6 +79,10 @@ Advertising Cloud DSP mantiene una lista de sitios bloqueados globalmente de los
 Como parte de nuestra iniciativa de seguridad de marca para erradicar las actividades que defraudan a los anunciantes, todos los sitios se analizan usando las medidas de la lista de sitios bloqueados del gráfico. Todos los sitios que no pasan las comprobaciones de seguridad de marca se agregan a la lista de sitios bloqueados globalmente. Dado que Advertising Cloud DSP administra esta lista de forma dinámica, los sitios pueden entrar o salir de la lista en cualquier momento, según el último análisis de seguridad de marca.
 
 Cuando se incluye un sitio en la lista de sitios bloqueados globalmente como destino de ubicación, el sitio se marca con un signo de exclamación rojo (!). Esto indica que las publicidades no se ejecutarán en el sitio marcado.
+
+>[!NOTE]
+>
+>Opcionalmente, puede evitar la lista global de sitios bloqueados para los anuncios en pantalla estándar adjuntos a un acuerdo privado de confianza habilitando el evento[!UICONTROL Allow unscreened sites]&quot; en la [configuración de ubicación](/help/dsp/campaign-management/placements/placement-settings.md). Si es necesario, la variable [!DNL Adobe] el equipo de la cuenta también puede, opcionalmente, desactivar el bloqueo de sitios para una oferta pública (a nivel de subasta) en la configuración del editor para la oferta.
 
 #### Listas de sitios bloqueados a nivel de cuenta y anunciante
 

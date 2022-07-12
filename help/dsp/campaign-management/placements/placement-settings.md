@@ -3,9 +3,9 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 8b1ae7385d7747f7073448aae5ad0a617f323562
+source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
 workflow-type: tm+mt
-source-wordcount: '3277'
+source-wordcount: '3301'
 ht-degree: 0%
 
 ---
@@ -253,7 +253,7 @@ Los anuncios salientes generalmente aparecen sobre el contenido como una ventana
 
 Si lo desea, puede exportar la lista de sitios bloqueados y con objetivo como archivo de valores separados por comas (CSV). Para exportar la lista, haga clic en **[!UICONTROL Export full site list]** y luego abra o guarde el archivo según el procedimiento normal del explorador.
 
-<!-- **[!UICONTROL Allow unscreened sites]:** (XXX placements only) Allows you to XXXX.   Optional available for https://advertising.adobe.com/configurator/placement/edit/2432022 -->
+**[!UICONTROL Allow unscreened sites]:** (Solo ubicaciones de visualización estándar) Habilita el envío de anuncios en sitios no auditados. Cuando la ubicación se dirige al inventario privado, esta opción puede entregar anuncios en sitios bloqueados.
 
 **[!UICONTROL Paste list of targeted sites]:** Permite dirigirse solo a sitios específicos. Cuando activa esta opción, las demás opciones de segmentación del sitio se desactivan.
 
