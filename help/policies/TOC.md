@@ -5,13 +5,13 @@ cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
 user-guide-title: Políticas y directrices de Adobe Advertising Cloud
-user-guide-description: Obtenga información sobre las directivas y directrices para Advertising Cloud DSP y Advertising Cloud Search.
+user-guide-description: Obtenga información acerca las políticas y directrices para Advertising Cloud DSP y Advertising Cloud Search.
 breadcrumb-title: Políticas y directrices
 index: true
 source-git-commit: acc5b7bb719b655d8b019eee3b5783fec49af0b9
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 73%
 
 ---
 
