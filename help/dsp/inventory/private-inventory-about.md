@@ -3,9 +3,9 @@ title: Acerca del inventario privado
 description: Acerca del inventario privado
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 0fb8417ed6ed261077affd4db071e207731058f9
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Puede usar cada oferta privada como destino de colocación para varias campañas
 
 ## Vista Ofertas
 
-En el [!UICONTROL Inventory] > [!UICONTROL Deals] vista, puede crear la configuración de oferta privada. También puede editar algunos ajustes de la oferta; enumere las ubicaciones y publicidades, y adjunte ubicaciones y publicidades adicionales a una oferta; editar los anunciantes y las cuentas que pueden acceder a una oferta; ver un informe de un acuerdo privado; o archivar o desarchivar una operación.<!-- ; or edit the attribute tags for a deal -->
+En el [!UICONTROL Inventory] > [!UICONTROL Deals] vista, puede crear la configuración de oferta privada. También puede editar algunos ajustes de la oferta; enumere las ubicaciones y publicidades, y adjunte ubicaciones y publicidades adicionales a una oferta privada; editar los anunciantes y las cuentas que pueden acceder a una oferta privada; ver un informe de rendimiento para una operación; ver perspectivas de subastas para un acuerdo privado, o archivar o desarchivar un acuerdo.<!-- ; or edit the attribute tags for a deal -->
 
 Puede personalizar aún más cómo se presentan los datos de la oferta existente aplicando filtros, personalizando las columnas visibles y, opcionalmente, guardando vistas personalizadas, ordenando las columnas y viendo los datos como gráficos.
 

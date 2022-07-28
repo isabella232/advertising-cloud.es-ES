@@ -8,9 +8,9 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: d72707f9628e8e39eae36115b057d1cd332012f5
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '881'
 ht-degree: 6%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 6%
       + [Especificar ubicaciones y publicidades para un acuerdo privado](/help/dsp/inventory/deal-id-attach-placements.md)
       + [Editar las cuentas con acceso a un acuerdo privado](/help/dsp/inventory/deal-id-share.md)
       + [Editar los anunciantes con acceso a un acuerdo privado](/help/dsp/inventory/deal-id-edit-advertisers.md)
+      + [Ver perspectivas de subasta para un acuerdo privado](/help/dsp/inventory/private-deal-auction-insights.md)
       + [Lista de colocaciones y publicidades de un acuerdo privado](/help/dsp/inventory/private-deal-view-placements.md)
       + [Archivar o desarchivar un acuerdo privado](/help/dsp/inventory/private-deal-archive-unarchive.md)
    + [!UICONTROL Simple Ad Serving] Ofertas {#sas}

@@ -3,9 +3,9 @@ title: Acerca de los informes en la plataforma
 description: Obtenga información sobre los datos de informes incluidos en las vistas de administración de campañas.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Para cada ubicación, puede [abrir una (vista de detalles) [!UICONTROL Inspector
 
 * **[!UICONTROL Inventory]:** Información sobre todas las ofertas segmentadas por la ubicación.
 
-   La variable [!UICONTROL Inventory] La pestaña incluye funciones de búsqueda y filtro, las mismas opciones estándar y personalizadas de vista de columna que están disponibles en la página principal y los botones de acción rápida en cada fila, como [!UICONTROL Edit] y [!UICONTROL View Report]. La variable [!UICONTROL Inventory] permite una solución rápida de problemas al mostrar estadísticas de rendimiento, como [!UICONTROL Auctions], [!UICONTROL Bids]y [!UICONTROL Win Rate].
+   La variable [!UICONTROL Inventory] permite una solución rápida de problemas al mostrar estadísticas de rendimiento, como [!UICONTROL Auctions], [!UICONTROL Bids]y [!UICONTROL Win Rate]. La pestaña incluye funciones de búsqueda y filtro, las mismas opciones estándar y personalizadas de vista de columna que están disponibles en la página principal y los botones de acción rápida en cada fila, incluidas [!UICONTROL Edit], [!UICONTROL View Report]y [[!UICONTROL Auction Insights] para obtener más información sobre la resolución de problemas](/help/dsp/inventory/private-deal-auction-insights.md).
 
 #### Solución de problemas del inventario
 
