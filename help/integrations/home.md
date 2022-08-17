@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: b73abe16578069a0037cfb0a8520485a5d27790f
+source-git-commit: 5180665a7342d7222aa350298298d5bcc9b2e449
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 
 | Fecha | Función | Descripción | Para obtener más información |
 | ---- | ------- | ----------- | -------------------- |
+| 17 de agosto de 2022 | Ayuda | En un nuevo capítulo se explican todas las formas en que Advertising Cloud está integrado con Adobe Audience Manager. | Consulte el capítulo &quot;Integración con Adobe Audience Manager&quot;, que incluye información general sobre &quot;[Integraciones de Advertising Cloud con Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
 | 27 de abril de 2021 | [!DNL Analytics for Advertising Cloud] | Descubra por qué y cómo añadir [!DNL Analytics for Advertising Cloud] macros a su [!DNL Google Campaign Manager 360] etiquetas de publicidad para enviar datos de clics a Adobe Analytics. | Consulte &quot;[Anexar [!DNL Analytics for Advertising Cloud] Macros a [!DNL Google Campaign Manager 360] Etiquetas de publicidad](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 19 de abril de 2021 | [!DNL Analytics for Advertising Cloud] | Descubra por qué y cómo anexar macros a su [!DNL Flashtalking] etiquetas de publicidad para enviar datos de clics a Adobe Analytics. | Consulte &quot;[Anexar [!DNL Analytics for Advertising Cloud] Macros a [!DNL Flashtalking] Etiquetas de publicidad](/help/integrations/analytics/macros-flashtalking.md).&quot; |
 | 27 de octubre de 2021 | [!DNL Analytics for Advertising Cloud] | Si su organización desea dejar de utilizar el Adobe Analytics heredado `visitorAPI.js` a la biblioteca [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) biblioteca (`alloy.js`) para la recopilación de datos, deberá realizar algunos cambios para habilitar la vinculación de ID. | Consulte &quot;[Al usar la variable [!DNL Last Event Service] Biblioteca JavaScript con Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md).&quot; |
