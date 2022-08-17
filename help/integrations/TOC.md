@@ -3,10 +3,10 @@ user-guide-title: Integraciones con Adobe Experience Cloud
 user-guide-description: Obtenga información acerca las integraciones de Advertising Cloud DSP y Advertising Cloud Search con otros productos y servicios de Adobe Experience Cloud.
 breadcrumb-title: Integraciones con Experience Cloud
 index: true
-source-git-commit: 5884da8177dac1313f69ba67a46713b4fd047640
+source-git-commit: c047238f0d92b5218df6245c004607ac1e48e345
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 20%
+source-wordcount: '189'
+ht-degree: 14%
 
 ---
 
@@ -35,4 +35,12 @@ ht-degree: 20%
       + [Uso de Advertising Cloud ID para crear [!DNL Marketing Channels] Reglas de procesamiento](/help/integrations/analytics/marketing-channels/mc-ids.md)
       + [Uso [!DNL Marketing Channels] con datos de Advertising Cloud](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
       + [Por qué los datos de canal pueden variar entre Advertising Cloud y [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
++ [Integración con Adobe Audience Manager] {#audience-manager}
+   + [Integraciones de Advertising Cloud con Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
+   + [Importación de segmentos de Audience Manager a Advertising Cloud](/help/integrations/audience-manager/import-audiences.md)
+   + Integración de datos de medios DSP con Adobe Audience Manager {#media-data-ingestion}
+      + [Información general sobre el envío de datos de exposición DSP medios a Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)
+      + [Recopilación de datos de impresión y clics de DSP campañas](/help/integrations/audience-manager/media-data-integration/collect.md)
+      + [Casos de uso](/help/integrations/audience-manager/media-data-integration/use-cases.md)
+   + [Audience Analytics de Adobe para clientes de Advertising Cloud](/help/integrations/audience-manager/audience-analytics.md)
 + [Tutorials de vídeos sobre integraciones de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
