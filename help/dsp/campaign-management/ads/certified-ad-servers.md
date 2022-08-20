@@ -3,7 +3,7 @@ title: Socios certificados de servicio de publicidad
 description: Ver todos los servidores de publicidad certificados y las unidades de publicidad.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: d04672f1daddb7b57a7ab2ab9a0ad25a7ad40812
+source-git-commit: 2ef6a194f02748de3f8fee072a5c7eb65ecb80f8
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
-| [!DNL InSkin] |  |  | X |  | Las pieles de alto impacto (incluido el anuncio de Cavai Conversational) deben proporcionarse con un ID de oferta de visualización de 180 x 150 en toda la red de inventario de Inskin. |
+| [!DNL Inskin] |  |  | X |  | Las pieles de alto impacto (incluidos los anuncios conversacionales de Cavai) deben suministrarse con un ID de oferta de visualización de 180 x 150 a través de la red de inventario Inskin. |
 | [!DNL Jivox] |  | X |  |  |  |
 | [!DNL Kargo] |  | X |  |  | Anclaje, BYOC, Pase, Desglose y Barra de tareas de 320 x 50; 300x250 Outstream; Pantalla de escritorio estándar (no se necesitan los ID de complemento de anuncio específicos).</br></br>Póngase en contacto con su [!DNL Adobe] equipo de la cuenta para obtener ayuda sobre la configuración de unidades de publicidad. |
 | [!DNL Linkstorm] |  |  | X |  |  |
