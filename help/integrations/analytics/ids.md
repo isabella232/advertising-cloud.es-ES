@@ -3,9 +3,9 @@ title: Advertising Cloud ID que utiliza [!DNL Analytics]
 description: Advertising Cloud ID que utiliza [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,30 @@ El ID de EF es un token único que Advertising Cloud utiliza para asociar la act
 
 ### Formato de ID de EF
 
+>[!NOTE]
+>
+>Los ID de EF distinguen entre mayúsculas y minúsculas. Si una [!DNL Analytics] la implementación fuerza el seguimiento de URL a minúsculas y, a continuación, Advertising Cloud no reconocerá el ID de EF. Esto afectará a las ofertas y los informes de Advertising Cloud, pero no afecta a los informes de Advertising Cloud en [!DNL Analytics].
+
+#### [!DNL Google Ads] anuncios de búsqueda
+
+```{gclid}:G:s```
+
+donde:
+
+* `gclid` es la variable [!DNL Google Click ID] (GCLID).
+* `s` es el tipo de red (&quot;s&quot; para la búsqueda).
+
+#### Publicidad de Microsoft anuncios de búsqueda
+
+```{msclkid}:G:s```
+
+donde:
+
+* `msclkid` es la variable [!DNL Microsoft Click ID] (MSCLKID).
+* `s` es el tipo de red (&quot;s&quot; para la búsqueda).
+
+#### Mostrar anuncios y anuncios de búsqueda en otros motores de búsqueda
+
 ```<Advertising Cloud visitor ID>:<timestamp>:<channel type>```
 
 <!-- <*Advertising Cloud visitor ID*>:<*timestamp*>:<*channel type*> -->
@@ -60,10 +84,6 @@ donde:
    * `s` para hacer clic en una publicidad de búsqueda (hacer clic en la búsqueda).
 
 Ejemplo `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
-
->[!NOTE]
->
->Los ID de EF distinguen entre mayúsculas y minúsculas. Si una [!DNL Analytics] la implementación fuerza el seguimiento de URL a minúsculas y, a continuación, Advertising Cloud no reconocerá el ID de EF. Esto afectará a las ofertas y los informes de Advertising Cloud, pero no afecta a los informes de Advertising Cloud en [!DNL Analytics].
 
 ### El Dimension de ID de EF en [!DNL Analytics]
 
