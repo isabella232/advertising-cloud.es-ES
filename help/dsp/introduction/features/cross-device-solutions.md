@@ -3,16 +3,16 @@ title: Soluciones entre dispositivos
 description: Obtenga más información sobre las funciones entre dispositivos.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1006'
 ht-degree: 0%
 
 ---
 
 # Soluciones entre dispositivos
 
-Integraciones de Advertising Cloud DSP con [!DNL LiveRamp] y [!DNL Adobe Device Co-op] permite ampliar la audiencia a todos los dispositivos conocidos de una persona, no solo a los dispositivos de su marca. Las integraciones también proporcionan restricción de frecuencia y medición de atribución en todos los dispositivos.
+La integración de Advertising Cloud DSP con [!DNL LiveRamp] permite ampliar la audiencia a todos los dispositivos conocidos de una persona, no solo a los dispositivos de su marca. La integración también proporciona restricción de frecuencia y medición de atribución en todos los dispositivos.
 
 Al utilizar un gráfico de dispositivos basado en personas compatible, puede:
 
@@ -20,22 +20,19 @@ Al utilizar un gráfico de dispositivos basado en personas compatible, puede:
 * Equilibrar la exposición publicitaria mediante la comprensión y restricción de la frecuencia entre individuos.
 * Pruebe estrategias que expongan y conviertan audiencias entre canales o dispositivos.
 
-## Ventajas de cada gráfico de dispositivos
+## Ventajas de [!DNL LiveRamp] Gráfico de dispositivos
 
-* [!DNL Adobe Device Co-op]:
-   * Proporciona un grupo de inclusión de datos determinísticos y probabilísticos de los anunciantes de Adobe participantes
-   * Proporciona fuertes conexiones de ID de cookie con tecnología de visitantes de escritorio y de web móvil
-   * Incluye datos procedentes principalmente de los Estados Unidos y el Canadá
-   * No tiene tarifas de uso
+* Proporciona un grupo de datos determinísticos, que incluye datos de clientes sin conexión
 
-* [!DNL LiveRamp] gráfico de dispositivos:
-   * Proporciona un grupo de datos determinísticos, que incluye datos de clientes sin conexión
-   * Proporciona cobertura uniforme entre ID de cookies e ID de dispositivos móviles
-   * Incluye datos procedentes principalmente de los Estados Unidos
-   * Es libre de restricción de frecuencia y medición de atribución
-   * Precio de 0,35 CPM de USD para impresiones extendidas (impresiones que se entregan únicamente mediante el uso de la variable [!DNL LiveRamp] gráfico de dispositivos en lugar de en dispositivos encontrados dentro de los segmentos de audiencia de destino)
+* Proporciona cobertura uniforme entre ID de cookies e ID de dispositivos móviles
 
-      La tasa se refleja en la tarjeta de tasa de la cuenta.
+* Incluye datos procedentes principalmente de los Estados Unidos
+
+* Es libre de restricción de frecuencia y medición de atribución
+
+* Precio de 0,35 CPM de USD para impresiones extendidas (impresiones que se entregan únicamente mediante el uso de la variable [!DNL LiveRamp] gráfico de dispositivos en lugar de en dispositivos encontrados dentro de los segmentos de audiencia de destino)
+
+   La tasa se refleja en la tarjeta de tasa de la cuenta.
 
 ## Administración de frecuencia basada en personas
 
@@ -85,15 +82,7 @@ Con la atribución basada en personas, puede atribuir conversiones que se produj
 
 ### Habilitar la medición de atribución basada en personas
 
-Si desea activar la medición de atribución entre dispositivos, póngase en contacto con su [!DNL Adobe] equipo de la cuenta. Para [!DNL Adobe Device Co-op] cuentas, deberá proporcionar el [!DNL Adobe Device Co-op] contrato y su ID de organización de Experience Cloud (anteriormente denominada [!DNL IMS org ID]).
-
-Para ver si una cuenta de anunciante está configurada para usar un gráfico de dispositivos para la medición de atribuciones:
-
-1. En el menú principal, haga clic en **[!UICONTROL Settings]>[!UICONTROL Advertiser]**.
-1. Mantenga el cursor sobre la fila del anunciante y haga clic en **[!UICONTROL Edit]**.
-1. En el [!UICONTROL Integrations] de la configuración del anunciante, compruebe si la variable [!UICONTROL Cross-Device Attribution] está activo.
-
-   Para integraciones activas, se indica el gráfico del dispositivo.
+Si desea activar la medición de atribución entre dispositivos, póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 ### Configurar informes de conversión para la atribución de conversión entre dispositivos
 
