@@ -3,9 +3,9 @@ title: Configuración de paquetes
 description: Consulte las descripciones de la configuración de paquetes disponible.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 4a699912468cd89efec0c1da9fdb6302ca93a3b4
+source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ Para los paquetes con delimitación personalizada, el intervalo presupuestario s
 >
 >Este campo es solo una referencia y no se utiliza para la toma de decisiones.
 
-**[!UICONTROL Frequency Cap]:** (Paquetes con un ritmo de nivel de paquete solamente) El número de veces que un dispositivo o una persona únicos (según el valor especificado [!UICONTROL Cross Device Level]) se pueden servir anuncios del paquete. Las opciones incluyen *[!UICONTROL Unlimited]* o una cantidad específica por día, semana o mes.
+**[!UICONTROL Frequency Cap]:** (Paquetes con un ritmo de nivel de paquete solamente) El número de veces que un dispositivo o una persona únicos (según el valor especificado [!UICONTROL Cross Device Level] para la campaña) se pueden servir anuncios del paquete. Las opciones incluyen *[!UICONTROL Unlimited]* o una cantidad específica por día, semana o mes.
 
 >[!NOTE]
 >
@@ -111,5 +111,5 @@ Para cada vuelo, introduzca la fecha de inicio, la fecha de finalización y el n
 >* [Creación de un paquete](package-create.md)
 >* [Editar un paquete](package-edit.md)
 >* [Adjuntar una colocación a un paquete](package-attach-placement.md)
->* [Preguntas frecuentes sobre la administración de campañas](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Preguntas frecuentes sobre Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

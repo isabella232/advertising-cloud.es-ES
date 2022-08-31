@@ -3,9 +3,9 @@ title: Columnas de hojas de cálculo descargadas o cargadas
 description: Haga referencia a las columnas en las hojas de cálculo de control de calidad de Excel descargadas y cargadas.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
+source-git-commit: a3ddbe1aed444636e7bf45e7d52c8d5ee8ec1382
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | Las audiencias de destino, si las hay, o *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | Las audiencias excluidas, si se especifica alguna, o *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Demographic booster] | Si o no [!DNL Comscore] los segmentos demográficos están habilitados para la ubicación (y otras ubicaciones en la campaña): *[!UICONTROL ON]* o *[!UICONTROL OFF]*. Esta función solo se puede habilitar para campañas para las que la variable [!DNL Audience Verification] está activada para [!DNL Nielsen] y/o [!DNL Comscore].  Supone tasas adicionales. | — |
-| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Indica si ampliar o no la segmentación de anuncios entre dispositivos: *[!UICONTROL ON]* o *[!UICONTROL OFF]*.<!-- Whether or not the Cross Device Targeting setting is enabled for the placement : *ON* or *OFF*. Cross-device targeting extends your targeting across all of a person's known device, per the device graph specified in the campaign settings.--> | — |
+| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Indica si ampliar o no la segmentación de anuncios entre dispositivos: *[!UICONTROL ON]* o *[!UICONTROL OFF]*. La segmentación entre dispositivos amplía la segmentación en todos los dispositivos conocidos de una persona, según el gráfico de dispositivos especificado en la configuración de la campaña. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting] - Se ha incluido # | El número de códigos de temas de destino, si se especifican, o *[!UICONTROL All]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting - Excluded #] | El número de códigos de tema excluidos, si se especifican, o *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Device Targeting - Included #] | El número de destinos de dispositivo de destino, si se especifica alguno, o *[!UICONTROL All]*. | — |

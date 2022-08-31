@@ -3,7 +3,7 @@ title: Acerca de los informes en la plataforma
 description: Obtenga información sobre los datos de informes incluidos en las vistas de administración de campañas.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 093902d577cc4af3bb18bbeddc640fe284d3a179
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Para cada ubicación, puede [abrir una (vista de detalles) [!UICONTROL Inspector
 
 * **[!UICONTROL Frequency]:** Datos de cada nivel de frecuencia de anuncio para la ubicación, incluidos:
    * el nivel de frecuencia de anuncio (como &quot;1&quot; para todas las instancias en las que los usuarios vieron un anuncio una vez)
-   * la cantidad única estimada de dispositivos, navegadores o personas (en función del [!UICONTROL Cross Device Level] para la ubicación) que recibieron impresiones en el nivel de frecuencia especificado
+   * la cantidad única estimada de dispositivos, navegadores o personas (en función del [!UICONTROL Cross Device Level] para la campaña) que recibieron impresiones en el nivel de frecuencia especificado
    * el número estimado de impresiones al nivel de frecuencia especificado
    * la frecuencia media estimada para el nivel de frecuencia especificado. Este valor es igual a (Impresiones estimadas)/(Únicas estimadas).
 

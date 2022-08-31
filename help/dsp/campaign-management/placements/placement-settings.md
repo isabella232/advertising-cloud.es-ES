@@ -3,9 +3,9 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
+source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
 workflow-type: tm+mt
-source-wordcount: '3301'
+source-wordcount: '3304'
 ht-degree: 0%
 
 ---
@@ -288,7 +288,7 @@ Si lo desea, puede exportar la lista de sitios bloqueados y con objetivo como ar
 
 **[!UICONTROL Cross Device Targeting]:** (Disponible cuando selecciona al menos un segmento o audiencia y el [campaign está configurada para la segmentación entre dispositivos basada en personas](/help/dsp/campaign-management/campaigns/campaign-settings.md). Permite ampliar los objetivos a todos los dispositivos conocidos de una persona (según el gráfico de dispositivos especificado en la configuración de campañas), incluso a los dispositivos que no están en los segmentos especificados. Las tarifas pueden aplicarse según el gráfico especificado para la campaña. Actualmente, los datos de gráficos de dispositivos solo están disponibles en Norteamérica.
 
-**[!UICONTROL Placement Cap]:** (Opcional) El número de veces que un dispositivo o una persona únicos (según el valor especificado) [!UICONTROL Cross Device Level]) serán publicidades servidas desde la ubicación. Las opciones incluyen *[!UICONTROL Unlimited]* o una cantidad específica por día, semana o mes.
+**[!UICONTROL Placement Cap]:** (Opcional) El número de veces que un dispositivo o una persona únicos (según el valor especificado) [!UICONTROL Cross Device Level] para la campaña) se servirán publicidades de la ubicación. Las opciones incluyen *[!UICONTROL Unlimited]* o una cantidad específica por día, semana o mes.
 
 >[!NOTE]
 >
