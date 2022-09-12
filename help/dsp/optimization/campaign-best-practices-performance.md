@@ -3,9 +3,9 @@ title: Prácticas recomendadas para configurar campañas de rendimiento
 description: Conozca las prácticas recomendadas para configurar sus campañas centradas en el rendimiento, que incluyen ubicaciones optimizadas para la CPA más baja o el ROAS más alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,11 @@ Además, utilice la siguiente configuración.
    * Si un nuevo paquete tiene el mismo objetivo que un paquete existente, puede opcionalmente vincular el paquete existente para que el algoritmo pueda utilizar los datos de aprendizaje automático existentes.
    * Introduzca el correspondiente [!UICONTROL Target CPA] o [!UICONTROL Target ROAS].
 
-* **Estrategia de relleno de ritmo:** Select *[!UICONTROL Even]* para maximizar sus objetivos de rendimiento con un ritmo uniforme a lo largo de toda la fecha de vuelo.
+* **Rastreo de vuelo y ritmo intradía:** Para ambos tipos de ritmo, seleccione *[!UICONTROL Even]* para maximizar sus objetivos de rendimiento con un ritmo uniforme a lo largo de cada día y durante todo el vuelo.
 
-   Uso *[!UICONTROL FrontLoad]* y *[!UICONTROL Aggressive Front Load]* ritmo solo cuando está dando prioridad completa a la entrega y los gastos en lugar de a la optimización del rendimiento, ya que estas estrategias pueden afectar negativamente a los KPI de rendimiento deseados.
+   >[!CAUTION]
+   >
+   >Uso *[!UICONTROL FrontLoad]* y *[!UICONTROL Aggressive Front Load]* para el ritmo de vuelo y *[!UICONTROL ASAP]* ritmo para el ritmo intradía solo cuando está dando prioridad completa a la entrega y a los gastos en comparación con la optimización del rendimiento, ya que estas estrategias pueden afectar negativamente a los KPI de rendimiento deseados.
 
 ## Paso 4: Creación de una estructura de colocación
 

@@ -3,9 +3,9 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
+source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
 workflow-type: tm+mt
-source-wordcount: '3304'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -96,13 +96,25 @@ Consulte las descripciones de cada filtro de oferta previa en &quot;[Filtros de 
 
 **[!UICONTROL Max Bid]:** El máximo para pagar 1000 impresiones.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Paquetes solo con ritmo de nivel de paquete) Cómo rastrear la entrega de anuncios:
+**[!UICONTROL Flight pacing]:** (Ubicaciones con un ritmo de nivel de ubicación solamente) Cómo colocar la entrega de publicidad:
 
 * *[!UICONTROL Even]:* (El valor predeterminado) Realiza la entrega de manera uniforme a lo largo de cada vuelo, con un objetivo del 50% de la entrega en la primera mitad del vuelo.
+
+* *[!UICONTROL Slightly Ahead]:* (El valor predeterminado) Acelera el envío para que se complete en un 55-65% a mitad de la duración del vuelo.
 
 * *[!UICONTROL Frontload]:* Acelera el envío para que esté entre un 65 y un 75% completo a mitad del vuelo.
 
 * *[!UICONTROL Aggressive Frontload]:* Acelera el envío para que esté entre un 75 y un 85% a mitad de camino.
+
+**[!UICONTROL Intraday pacing]:** (Ubicaciones con un ritmo de nivel de ubicación solamente) Cómo rastrear la entrega de anuncios a lo largo de cada día dentro del vuelo:
+
+* *[!UICONTROL Even]:* (El valor predeterminado) Escala la entrega según la disponibilidad del inventario. Por lo general, se entregan más anuncios por hora durante el día, cuando el volumen de la subasta es mayor, y se entregan menos anuncios por la mañana y por la noche.
+
+* *[!UICONTROL ASAP]:* (el valor predeterminado) Acelera el envío al doble de la velocidad de *Even*.
+
+   >[!CAUTION]
+   >
+   >Esta opción puede afectar negativamente al rendimiento. Utilícelo solo cuando priorice completamente el envío y gaste más que la optimización del rendimiento.
 
 **[!UICONTROL Placement Pre-bid Filters]:** (Opcional) Se deben cumplir hasta cinco filtros para que se produzca la oferta. Puede utilizar filtros de oferta previa como tácticas de optimización, pero tenga en cuenta que cada regla puede limitar las oportunidades en las que esta ubicación puede ofertar. Para añadir o editar filtros:
 

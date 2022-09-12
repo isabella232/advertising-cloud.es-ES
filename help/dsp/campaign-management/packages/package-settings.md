@@ -3,9 +3,9 @@ title: Configuración de paquetes
 description: Consulte las descripciones de la configuración de paquetes disponible.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
+source-git-commit: 6331166f563e1404c077eb848eed049b4eb0706d
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -88,16 +88,25 @@ Para los paquetes con delimitación personalizada, el intervalo presupuestario s
 
 * *[!UICONTROL Impressions]:* Esta opción envía impresiones hasta que se alcanza una cantidad especificada dentro de un intervalo especificado. Al seleccionar esta opción, especifique el número de impresiones y el intervalo: *Todo el tiempo,* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* o *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Paquetes solo con ritmo de nivel de paquete) Cómo rastrear la entrega de anuncios:
+**[!UICONTROL Flight pacing]:** (Paquetes solo con ritmo a nivel de paquete) Cómo rastrear el ritmo de la entrega en todo el vuelo:
 
 * *[!UICONTROL Even]:* Realiza la entrega de manera uniforme a lo largo de cada vuelo, con un objetivo del 50% de la entrega en la primera mitad del vuelo.
 
 * *[!UICONTROL Slightly Ahead]:* (El valor predeterminado) Acelera el envío para que se complete en un 55-65% a mitad de la duración del vuelo.
 
-<!-- replaced with ASAP -->
 * *[!UICONTROL Frontload]:* Acelera el envío para que esté entre un 65% y un 75% completo a mitad del vuelo.
 
 * *[!UICONTROL Aggressive Frontload]:* Acelera el envío para que esté entre un 75 y un 85% a mitad del vuelo.
+
+**[!UICONTROL Intraday pacing]:** (Paquetes solo con ritmo de nivel de paquete) Cómo rastrear el envío de anuncios a lo largo de cada día dentro del vuelo:
+
+* *[!UICONTROL Even]:* (El valor predeterminado) Escala la entrega según la disponibilidad del inventario. Por lo general, se entregan más anuncios por hora durante el día, cuando el volumen de la subasta es mayor, y se entregan menos anuncios por la mañana y por la noche.
+
+* *[!UICONTROL ASAP]:* Acelera el envío hasta el doble de la velocidad de *Even*.
+
+   >[!CAUTION]
+   >
+   >Esta opción puede afectar negativamente al rendimiento. Utilícelo solo cuando priorice completamente el envío y gaste más que la optimización del rendimiento.
 
 ## [!UICONTROL Flighting]
 
