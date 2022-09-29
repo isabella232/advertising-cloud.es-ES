@@ -3,9 +3,9 @@ title: Socios de SSP
 description: Consulte una lista de plataformas de suministro (SSP) disponibles y socios de intercambio abierto.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f
-source-git-commit: c34487bef4504f5187bfe28e87f6114ec01ff489
+source-git-commit: 7674ed62cf0e3f44dabbf153bbb3fadd38495b2e
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Una plataforma de suministro (SSP) es una plataforma de tecnología de publicida
 | [!DNL SmartClip] |  | Adobe Advertising Cloud | No | EMEA | Todas las monedas | x | x | x | x | x |  |  |
 | [!DNL SmartStream] |  | Adobe Advertising Cloud | No | EMEA | EUR, USD | x | x |  |  |  |  |  |
 | [!DNL Sortable] |  | Adobe Advertising Cloud | No | CA | USD |  |  |  | x | x |  |  |
-| [!DNL Soundcast Audio] |  |  |  |  |  |  |  |  |  |  |  |  |
+| [!DNL Soundcast] |  | Adobe Advertising Cloud | Sí | Global | EUR, USD |  |  |  |  |  |  | x |
 | [!DNL SpotX] | [!DNL Magnite] (anteriormente [!DNL Telaria] y [!DNL Tremor]) | [!DNL TubeMogul] o Adobe Advertising Cloud | Sí | Global | USD | x | x | x |  |  |  |  |
 | [!DNL Stroer] |  | Adobe Advertising Cloud | No | EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Taboola] |  | Adobe Advertising Cloud | No | US/CA | USD | x | x |  |  |  |  |  |
