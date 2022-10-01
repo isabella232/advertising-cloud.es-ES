@@ -8,9 +8,9 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '936'
 ht-degree: 6%
 
 ---
@@ -135,8 +135,19 @@ ht-degree: 6%
          + [Acerca de [!UICONTROL CCPA Opt-out-of-Sale] Segmentos](/help/dsp/audiences/ccpa-opt-out-about.md)
          + [Cree e implemente un [!UICONTROL CCPA Opt-out-of-Sale] Segmento](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
          + [Recuperar [!UICONTROL Consumer Opt-Out-of-Sale] Informes](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [Editar información de segmentos](/help/dsp/audiences/segment-edit.md)
+      + [Compartir o dejar de compartir un segmento](/help/dsp/audiences/segment-share.md)
+      + [Ver píxeles de seguimiento de un segmento](/help/dsp/audiences/segment-view-pixels.md)
+      + [Eliminar un segmento](/help/dsp/audiences/segment-delete.md)
    + Administrar audiencias {#reusable-audiences}
       + [Crear una audiencia reutilizable](/help/dsp/audiences/reusable-audience-create.md)
+      + [Duplicar una audiencia reutilizable](/help/dsp/audiences/reusable-audience-duplicate.md)
+      + [Editar una audiencia reutilizable](/help/dsp/audiences/reusable-audience-edit.md)
+      + [Ver detalles de una audiencia reutilizable](/help/dsp/audiences/reusable-audience-view-details.md)
+      + [Compartir una audiencia reutilizable](/help/dsp/audiences/reusable-audience-share.md)
+      + [Exportar una audiencia reutilizable](/help/dsp/audiences/reusable-audience-export.md)
+      + [Copiar la clave de segmento para una audiencia reutilizable en el portapapeles](/help/dsp/audiences/reusable-audience-clipboard.md)
+      + [Eliminar una audiencia reutilizable](/help/dsp/audiences/reusable-audience-delete.md)
       + [Configuración de audiencia](/help/dsp/audiences/audience-settings.md)
       + [Sintaxis para la lógica del segmento de audiencia](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + Administrar fuentes {#sources}

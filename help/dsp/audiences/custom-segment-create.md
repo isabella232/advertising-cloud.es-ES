@@ -3,9 +3,9 @@ title: Crear e implementar un segmento personalizado
 description: Aprenda a crear e implementar un segmento personalizado para rastrear a los usuarios expuestos a publicidades o usuarios que visitan sus páginas web.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: bc8e476e1218681140a1748998c19f1f6c5c0866
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Puede recopilar sus propios datos de audiencia de origen creando e implementando
 
    1. Escriba un **[!UICONTROL Segment Name]**.
 
-   1. Para la variable [!UICONTROL Segment Type], seleccione **[!UICONTROL Custom]**.
+   1. Para la variable **[!UICONTROL Segment Type]**, seleccione *[!UICONTROL Custom]*.
 
-   1. Introduzca la ventana del segmento, que es el número de días que la cookie de un usuario permanece en el segmento.
+   1. Introduzca la variable **[!UICONTROL Segment Window]**, que es el número de días que la cookie de un usuario permanece en el segmento.
 
       La ventana predeterminada es de 45 días. Introduzca un valor de uno (1) a 365.
 
@@ -38,7 +38,7 @@ Puede recopilar sus propios datos de audiencia de origen creando e implementando
 
    1. Volver a **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 
-   2. Mantenga el cursor sobre la fila de segmento y haga clic en **[!UICONTROL Get pixel]**.
+   2. Mantenga el cursor sobre la fila de segmento y haga clic en **[!UICONTROL Get Pixel]**.
 
       * Para realizar un seguimiento de los visitantes de escritorio y móviles a una página web:
 
@@ -51,8 +51,8 @@ Puede recopilar sus propios datos de audiencia de origen creando e implementando
 
          1. Copie la etiqueta de seguimiento de impresión, que se denomina &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Agregue la etiqueta a [!UICONTROL Pixel] para cada anuncio relevante o para la [!UICONTROL Event Pixels] de la sección [[!UICONTROL Tracking] configuración para cada ubicación correspondiente](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
+1. Agregue la etiqueta a [!UICONTROL Pixel] para cada anuncio relevante o para la [!UICONTROL Event Pixels] de la sección [[!UICONTROL Tracking] configuración para cada ubicación correspondiente](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 Una vez implementada la etiqueta de seguimiento, puede utilizar el segmento en los destinos o exclusiones de audiencia para cualquier ubicación.
 
@@ -63,10 +63,12 @@ Una vez implementada la etiqueta de seguimiento, puede utilizar el segmento en l
 >[!MORELIKETHIS]
 >
 >* [Acerca de la gestión de público](audience-about.md)
+>* [Editar información de segmentos](segment-edit.md)
+>* [Eliminar un segmento](segment-delete.md)
+>* [Ver píxeles de seguimiento de un segmento](segment-view-pixels.md)
+>* [Compartir o dejar de compartir un segmento](segment-share.md)
 >* [Cree e implemente un [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Crear una audiencia reutilizable](reusable-audience-create.md)
->* [Configuración de audiencia](audience-settings.md)
 >* [Proveedores de datos de terceros disponibles](third-party-data-providers.md)
 >* [Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md)
 
-<!-- I'll add x-ref to ad settings later.-->
