@@ -3,9 +3,9 @@ title: Especificaciones de la publicidad
 description: Haga referencia a las especificaciones generales y específicas del publicador.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
+source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '841'
 ht-degree: 0%
 
 ---
@@ -54,15 +54,13 @@ Puede utilizar hojas de etiquetas desde [!DNL DCM], [!DNL Flashtalking], [!DNL I
 
 #### Requisitos adicionales del editor para anuncios de TV conectados
 
-* **Hulu:** Véase Hulu&#39;s [especificaciones del anuncio](https://advertising.hulu.com/ad-products/video-commercial/).
-
-* **Importe principal:** Consulte Paramount&#39;s [especificaciones del anuncio](https://www.paramount.com/digital-ads).
+* **Red A+E:** Consulte la [especificaciones del anuncio](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
 * **Descubrimiento:** Consulte Discovery&#39;s [especificaciones del anuncio](/help/dsp/assets/discovery-networks-ad-specs.pdf).
 
-* **HBO Max:** Consulte HBO Max&#39;s [especificaciones del anuncio](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **Disney (incl. Hulu):** Consulte Disney&#39;s [especificaciones del anuncio](https://hulu.disneyadsales.com/ad-products/video-commercial/).
 
-* **Red A+E:** Consulte la [especificaciones del anuncio](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **HBO Max:** Consulte HBO Max&#39;s [especificaciones del anuncio](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
 
@@ -72,32 +70,7 @@ Puede utilizar hojas de etiquetas desde [!DNL DCM], [!DNL Flashtalking], [!DNL I
 
    * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
-* **Disney:**
-
-   * Emisión en directo de ESPN:
-
-      **Tasa de bits:** > 14000 kbps
-      **Formato:** .mp4
-      **Tipo de etiqueta:** VAST 2.0
-      **Tamaño creativo:** 1280 x 720 o 1920 x 1080
-
-   * Programación de episodios completos (FEP): ESPN, ABC, Freeform, Nat Geo y FX
-
-      * **Tasa de bits:** > 14000 kbps:
-
-         **Formato:** .mp4
-
-         **Tipo de etiqueta:** VAST 2.0
-
-         **Tamaño creativo:** 1280 x 720 o 1920 x 1080
-
-      * **Tasa de bits:** > 1000 kbps (baja resolución) o 15000 kbps (alta resolución):
-
-         **Formato:** .mp4
-
-         **Tipo de etiqueta:** VAST 2.0 (VPAID 1.0 solo en el escritorio)
-
-         **Tamaño creativo:** 1280 x 720 o 1920 x 1080
+* **Importe principal:** Consulte Paramount&#39;s [especificaciones del anuncio](https://www.paramount.com/digital-ads).
 
 ## Publicidades de visualización
 
