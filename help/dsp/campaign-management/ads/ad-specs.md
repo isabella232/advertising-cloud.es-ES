@@ -3,7 +3,7 @@ title: Especificaciones de la publicidad
 description: Haga referencia a las especificaciones generales y específicas del publicador.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
+source-git-commit: 8bc43253f15859c3b7dd7441fcbb4f34ecc98566
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -116,36 +116,36 @@ Puede utilizar hojas de etiquetas desde [!DNL DCM], [!DNL Flashtalking], [!DNL I
 
 #### Requisitos adicionales del editor
 
-* **[!DNL Spotify]**
-   * Longitud: Hasta 30 segundos
-   * Tipo de archivo: OGG
-   * Tamaño máximo del archivo: 500 MB
-   * Volumen: EMR normalizado a -14; Pico dBFS normalizado a -0,2 dBFS
-
-* **[!DNL SoundCloud]**
-   * Longitud: 6, 15 o 30 segundos
-   * Tipo de archivo: MP3
-   * Tamaño máximo del archivo: 5 MB
-
-* **[!DNL Pandora]**
-   * Longitud: 15 o 30 segundos
-   * Tipo de archivo: MP4 (en la aplicación), MP3 (en el escritorio)
-   * Tamaño máximo del archivo: 2,2 MB
-
-* **[!DNL TuneIn]**
-   * Longitud: 10, 15 o 30 segundos
-   * Tipo de archivo: MP3, OGG
-   * Volumen: 44,1 kHz
-
 * **[!DNL iHeartRadio]**
    * Longitud: 5, 15, 30 o 60 segundos
    * Tipo de archivo: MP3
    * Tamaño máximo del archivo: 320 kbps
    * Volumen: 44,1 kHz
 
+* **[!DNL Pandora]**
+   * Longitud: 15 o 30 segundos
+   * Tipo de archivo: MP4 (en la aplicación), MP3 (en el escritorio)
+   * Tamaño máximo del archivo: 2,2 MB
+
+* **[!DNL SoundCloud]**
+   * Longitud: 6, 15 o 30 segundos
+   * Tipo de archivo: MP3
+   * Tamaño máximo del archivo: 5 MB
+
+* **[!DNL Spotify]**
+   * Longitud: Hasta 30 segundos
+   * Tipo de archivo: OGG
+   * Tamaño máximo del archivo: 500 MB
+   * Volumen: EMR normalizado a -14; Pico dBFS normalizado a -0,2 dBFS
+
 * **[!DNL TargetSpot]**
    * Longitud: 15, 30 o 60 segundos
    * Tipo de archivo: MP3
+
+* **[!DNL TuneIn]**
+   * Longitud: 10, 15 o 30 segundos
+   * Tipo de archivo: MP3, OGG
+   * Volumen: 44,1 kHz
 
 ### Requisitos para anuncios de titular Companion (opcional)
 
@@ -153,29 +153,29 @@ Puede utilizar hojas de etiquetas desde [!DNL DCM], [!DNL Flashtalking], [!DNL I
 
 #### Requisitos adicionales del editor
 
-* **[!DNL Spotify]:**
-   * Tipo de archivo: JPG estático, PNG
-   * Tamaño máximo del archivo: 200 KB
+* **[!DNL iHeartRadio]:**
+   * Tipo de archivo: JPEG, JPG, PNG, GIF, SWF, HTML
+   * Tamaño máximo del archivo: 2,2 MB
    * Dimension: 300 x 250
-
-* **[!DNL SoundCloud]:**
-   * Tipo de archivo: JPG estático, PNG
-   * Tamaño máximo del archivo: Menos de 400 KB
-   * Dimension: 1024x1024
 
 * **[!DNL Pandora]:**
    * Tipo de archivo: JPEG, GIF
    * Tamaño máximo del archivo: Tamaño: 100 KB
    * Dimension: 300x250 (móvil o escritorio) o 500x500 (escritorio)
 
+* **[!DNL SoundCloud]:**
+   * Tipo de archivo: JPG estático, PNG
+   * Tamaño máximo del archivo: Menos de 400 KB
+   * Dimension: 1024x1024
+
+* **[!DNL Spotify]:**
+   * Tipo de archivo: JPG estático, PNG
+   * Tamaño máximo del archivo: 200 KB
+   * Dimension: 300 x 250
+
 * **[!DNL TuneIn]:**
    * Tipo de archivo: JPEG, JPG, PNG, GIF, HTML
    * Tamaño máximo del archivo: 2 MB
-   * Dimension: 300 x 250
-
-* **[!DNL iHeartRadio]:**
-   * Tipo de archivo: JPEG, JPG, PNG, GIF, SWF, HTML
-   * Tamaño máximo del archivo: 2,2 MB
    * Dimension: 300 x 250
  
 
