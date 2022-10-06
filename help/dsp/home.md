@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: a3f676bd085571392a4add32f69fe0da4d4ae912
+source-git-commit: 3c951d738d5ef571b8f762df1f89ebd0360cd0f6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 
 | Fecha | Función | Descripción | Para obtener más información |
 | ---- | ------- | ----------- | -------------------- |
+| 6 de octubre de 2022 | Campañas | Hay nuevas columnas de métricas relacionadas con el ritmo disponibles para las vistas Campañas: &quot;OTS de ayer&quot; (en gasto objetivo), &quot;Entrega de ayer&quot;, &quot;Objetivo de ayer&quot;, &quot;OTS de hoy&quot; (en gasto objetivo), &quot;Entrega de hoy&quot; y &quot;Objetivo de hoy&quot;. | Consulte &quot;[Crear una vista de columna personalizada](/help/dsp/campaign-management/reports/column-view-create.md)&quot; y &quot;[Editar una vista de columna personalizada](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 12 de septiembre de 2022 | Empaquetado y colocación | Ya hay disponibles controles de ritmo independientes para el ritmo de vuelo y el ritmo intradía. Anteriormente, una sola estrategia controlaba ambas. La configuración de los paquetes y las ubicaciones existentes se asignó de la siguiente manera:<ul><li>Heredado **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* — Ahora configurado como **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* y **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Heredado **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* — Ahora configurado como **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* y **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Heredado **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* — Ahora configurado como **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* y **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>Heredado **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* — Ahora configurado como **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* y **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> | Consulte &quot;[Configuración de paquetes](/help/dsp/campaign-management/packages/package-settings.md)&quot; y &quot;[Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 27 de julio de 2022 | Inventario | Subction Insights es una nueva herramienta de resolución de problemas que le permite analizar la composición de las ofertas privadas garantizadas y no garantizadas. Con las visualizaciones de datos, esta herramienta muestra la tendencia y las proporciones relativas de los valores recibidos para los atributos de subasta clave en un período de tiempo específico.<br><br>Con la transparencia en los datos de solicitud de oferta de los editores, puede evitar pasos de solución de problemas que requieran mucho tiempo. | Consulte &quot;[Ver perspectivas de subasta para un acuerdo privado](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 29 de junio de 2022 | Inventario | El nuevo [!UICONTROL Inventory] > [!UICONTROL Deals] la vista incluye las mismas capacidades de personalización de datos que la [!UICONTROL Campaigns] , incluidos filtros adicionales, personalización de columnas y la opción de guardar vistas personalizadas, clasificación de columnas y una vista de visualización de datos (gráfico). Puede abrir un menú de comandos en cada fila haciendo clic en [!UICONTROL ...] después del nombre de la oferta. | Consulte &quot;[Descripción general de las funciones de inventario](/help/dsp/inventory/inventory-overview.md).&quot; |
