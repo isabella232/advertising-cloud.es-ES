@@ -3,7 +3,7 @@ title: Socios de SSP
 description: Consulte una lista de plataformas de suministro (SSP) disponibles y socios de intercambio abierto.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f
-source-git-commit: 7674ed62cf0e3f44dabbf153bbb3fadd38495b2e
+source-git-commit: f6319fdee2e8509e0d0a960b6855a2c28d05d50a
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Una plataforma de suministro (SSP) es una plataforma de tecnología de publicida
 | [!DNL Teads] |  | [!DNL TubeMogul] o Adobe Advertising Cloud | No | Vídeo de salida = Global<br>Mostrar = NA + EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL TripleLift] |  | [!DNL TubeMogul] o Adobe Advertising Cloud | No | Global | USD |  |  |  |  |  | x |  |
 | [!DNL TripleLift Display & Outstream] |  | [!DNL TubeMogul] o Adobe Advertising Cloud | No | Global | USD | x | x |  | x | x |  |  |
-| [!DNL Triton] |  | Adobe Advertising Cloud | No | Global | USD |  |  |  |  |  |  | x |
+| [!DNL Triton] |  | Adobe Advertising Cloud | Sí | Global | USD |  |  |  |  |  |  | x |
 | [!DNL Unruly] | [!DNL Tremor] | Adobe Advertising Cloud | No | EE. UU. + EMEA | USD | x | x |  |  |  |  |  |
 | [!DNL Yahoo] | [!DNL Verizon Media Group] | [!DNL TubeMogul] o Adobe Advertising Cloud | No | Global | USD |  |  |  | x | x |  |  |
 
