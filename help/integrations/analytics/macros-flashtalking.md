@@ -2,9 +2,10 @@
 title: Anexar [!DNL Analytics for Advertising Cloud] Macros a [!DNL Flashtalking] Etiquetas de publicidad
 description: Descubra por qué y cómo añadir [!DNL Analytics for Advertising Cloud] macros a su [!DNL Flashtalking] etiquetas de publicidad
 feature: Integration with Adobe Analytics
-source-git-commit: c95dc72fa42b47ecea0c27bd59a2df4cd9c20233
+exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,7 @@ Usar macros para [!DNL Flashtalking] anuncios en pantalla y en vídeo para los s
 >
 >El código JavaScript es una solución para el rastreo de clics solamente mientras las cookies siguen disponibles. Una vez que se interrumpan las cookies, será necesario implementar las siguientes macros.
 
-* **Anunciantes cuyos sitios web no utilicen la variable [!DNL Analytics for Advertising Cloud] Código JavaScript y, en su lugar, confían en [!DNL Analytics] reenvío del lado del servidor solo para datos de pulsaciones** (sin datos de visualización): Las siguientes macros son necesarias para informar sobre la actividad de clics en el sitio impulsada por anuncios que compra a través de Advertising Cloud.
+* **Anunciantes cuyos sitios web no utilicen la variable [!DNL Analytics for Advertising Cloud] Código JavaScript y, en su lugar, confían en [!DNL Analytics] reenvío del lado del servidor solo para datos de pulsaciones** (sin datos de visualización): Las siguientes macros son necesarias para informar sobre la actividad de clics en el sitio impulsada por los anuncios que compra a través de Advertising Cloud.
 
 ## Mostrar etiquetas de publicidad
 

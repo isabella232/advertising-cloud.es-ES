@@ -3,7 +3,7 @@ title: Anexar [!DNL Analytics for Advertising Cloud] Macros a [!DNL Google Campa
 description: Descubra por qué y cómo añadir [!DNL Analytics for Advertising Cloud] macros a su [!DNL Google Campaign Manager 360] etiquetas de publicidad
 feature: Integration with Adobe Analytics
 exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: c7716aa6f953cda7b03bce85dc85842f25d41172
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Usar macros para [!DNL Campaign Manager 360] anuncios en pantalla y en vídeo pa
 >
 >El código JavaScript es una solución para el rastreo de clics solamente mientras las cookies siguen disponibles. Una vez que se interrumpan las cookies, será necesario implementar las siguientes macros.
 
-* **Anunciantes cuyos sitios web no utilicen la variable [!DNL Analytics for Advertising Cloud] Código JavaScript y, en su lugar, confían en [!DNL Analytics] reenvío del lado del servidor solo para datos de pulsaciones** (sin datos de visualización): Las siguientes macros son necesarias para informar sobre la actividad de clics en el sitio impulsada por anuncios que compra a través de Advertising Cloud.
+* **Anunciantes cuyos sitios web no utilicen la variable [!DNL Analytics for Advertising Cloud] Código JavaScript y, en su lugar, confían en [!DNL Analytics] reenvío del lado del servidor solo para datos de pulsaciones** (sin datos de visualización): Las siguientes macros son necesarias para informar sobre la actividad de clics en el sitio impulsada por los anuncios que compra a través de Advertising Cloud.
 
 ## Anexe las macros a su [!DNL Google Campaign Manager 360] Publicidades
 
