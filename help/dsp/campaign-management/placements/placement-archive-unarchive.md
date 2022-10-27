@@ -3,9 +3,9 @@ title: Archivar o desarchivar una ubicación
 description: Aprenda a archivar o desarchivar una ubicación.
 feature: DSP Placements
 exl-id: 3d342f83-1bcb-4f80-b31a-2009bcdde565
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,24 @@ Puede desarchivar una ubicación para restaurar su estado anterior en cualquier 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 1. Haga clic en el nombre de la campaña.
 1. En el submenú, haga clic en **[!UICONTROL Placements]**.
-1. Junto al nombre de la ubicación, haga clic en **[!UICONTROL ...]>[!UICONTROL Archive]**.
+1. Junto al nombre de la ubicación, haga clic en  **[!UICONTROL ...]>[!UICONTROL Archive]**.
 1. En el mensaje de confirmación, haga clic en **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->Para ver las colocaciones archivadas, filtre la vista [!UICONTROL Placements]: haga clic en ![Botón de filtro](/help/dsp/assets/filter.png), haga clic en **[!UICONTROL Placement status]**, seleccione **[!UICONTROL Archived]** y, a continuación, haga clic en **[!UICONTROL Apply].**
+>Para ver las ubicaciones archivadas, filtre el [!UICONTROL Placements] vista: click ![Botón Filtro](/help/dsp/assets/filter.png), haga clic en **[!UICONTROL Placement status]** y seleccione **[!UICONTROL Archived]** y, a continuación, haga clic en **[!UICONTROL Apply].**
 
 ## Desarchivar una colocación
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 1. Haga clic en el nombre de la campaña.
 1. En el submenú, haga clic en **[!UICONTROL Placements]**.
-1. Junto al nombre de la ubicación, haga clic en **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
+1. Junto al nombre de la ubicación, haga clic en  **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
 1. En el mensaje de confirmación, haga clic en **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]
 >
 >* [Poner en pausa o activar una colocación](placement-pause-activate.md)
 >* [Editar una colocación](placement-edit.md)
+>* [Ver el registro de cambios de una colocación](placement-change-log.md)
 

@@ -3,9 +3,9 @@ title: Duplicar un paquete
 description: Aprenda a duplicar un paquete.
 feature: DSP Packages
 exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Duplique un paquete para crear un paquete con una configuración similar. Puede:
 * (Para paquetes duplicados dentro de las campañas originales) Opcionalmente, duplique los píxeles de evento de nivel de ubicación y anuncios originales
 * Modificación de las fechas de vuelo del nuevo paquete
 
-Consulte &quot;[Novedades no duplicadas](#package-not-duplicated)&quot; para obtener una lista de las configuraciones de ubicación que no están duplicadas.
+Consulte &quot;[Novedades no duplicadas](#package-not-duplicated)&quot; para obtener una lista de los ajustes de ubicación que no están duplicados.
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
-1. Haga clic en el nombre de la campaña para abrir la vista [!UICONTROL Packages].
-1. Junto al nombre del paquete, haga clic en **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
+1. Haga clic en el nombre de la campaña para abrir el [!UICONTROL Packages] vista.
+1. Junto al nombre del paquete, haga clic en  **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
 1. Especifique la nueva configuración del paquete:
    1. Introduzca el nuevo nombre del paquete.
    1. (Opcional) Cambie la configuración predeterminada.
@@ -43,17 +43,18 @@ Todos los ajustes de las ubicaciones originales se duplican, excepto:
 * Configuración del experimento
 * (Si cambia las fechas de vuelo) Programación de anuncios personalizada
 * (Si no adjunta anuncios) Ponderación y programación de anuncios personalizados
-* Ubicaciones predeterminadas para ofertas y ubicaciones garantizadas mediante programación (PG) para ofertas [!UICONTROL Simple Ad Serving]
+* Ubicaciones predeterminadas para ofertas y ubicaciones garantizadas mediante programación para [!UICONTROL Simple Ad Serving] ofertas
 * (Si copia colocaciones en otra campaña):
    * Segmentos geográficos
    * Píxeles de evento
    * Publicidades
-   * Segmentos [!DNL DoubleVerify Authentic Brand Safety] de nivel de ubicación (que anulan los segmentos de nivel de anunciante)
+   * Nivel de ubicación [!DNL DoubleVerify Authentic Brand Safety] segmentos (que anulan los segmentos de nivel de anunciante)
 
 >[!MORELIKETHIS]
 >
 >* [Acerca de la administración de paquetes](package-about.md)
 >* [Creación de un paquete](package-create.md)
 >* [Editar un paquete](package-edit.md)
+>* [Ver el registro de cambios de un paquete](package-change-log.md)
 >* [Configuración de paquetes](package-settings.md)
 

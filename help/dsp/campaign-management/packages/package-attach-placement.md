@@ -3,16 +3,16 @@ title: Adjuntar una colocación a un paquete
 description: Aprenda a adjuntar una colocación a un paquete.
 feature: DSP Packages
 exl-id: 443aa1a3-c8b9-4949-87be-5a37e67f00a8
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
 
 # Adjuntar una colocación a un paquete
 
-## Adjuntar una nueva colocación desde la vista [!UICONTROL Placements]
+## Adjuntar una nueva colocación desde el [!UICONTROL Placements] Ver
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 
@@ -22,15 +22,15 @@ ht-degree: 1%
 
    El paquete seleccionado se selecciona automáticamente en la configuración de colocación.
 
-1. Introduzca el [placement settings](/help/dsp/campaign-management/placements/placement-settings.md) restante y haga clic en **[!UICONTROL Create Placement]**.
+1. Escriba el resto [configuración de ubicación](/help/dsp/campaign-management/placements/placement-settings.md)y, a continuación, haga clic en **[!UICONTROL Create Placement]**.
 
-## Adjuntar una colocación nueva o existente desde la vista [!UICONTROL Packages]
+## Adjuntar una colocación nueva o existente desde el [!UICONTROL Packages] Ver
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 
-1. Haga clic en el nombre de la campaña para abrir la vista [!UICONTROL Packages].
+1. Haga clic en el nombre de la campaña para abrir el [!UICONTROL Packages] vista.
 
-1. Junto al nombre del paquete, haga clic en **[!UICONTROL ...]> [!UICONTROL Attach a Placement].**
+1. Junto al nombre del paquete, haga clic en  **[!UICONTROL ...]> [!UICONTROL Attach a Placement].**
 
 1. Realice una de las siguientes acciones:
 
@@ -38,9 +38,9 @@ ht-degree: 1%
 
       1. Haga clic **[!UICONTROL Create New Placement]**.
 
-      1. Seleccione el tipo de anuncio para la ubicación y haga clic en **[!UICONTROL Build this placement]**.
+      1. Seleccione el tipo de publicidad para la ubicación y haga clic en **[!UICONTROL Build this placement]**.
 
-      1. Introduzca [placement settings](/help/dsp/campaign-management/placements/placement-settings.md) y haga clic en **[!UICONTROL Create Placement]**.
+      1. Introduzca la variable [configuración de ubicación](/help/dsp/campaign-management/placements/placement-settings.md)y, a continuación, haga clic en **[!UICONTROL Create Placement]**.
    * Para adjuntar una ubicación existente en la campaña:
 
       >[!NOTE]
@@ -60,6 +60,7 @@ ht-degree: 1%
 >
 >* [Acerca de la administración de paquetes](package-about.md)
 >* [Creación de un paquete](package-create.md)
+>* [Ver el registro de cambios de un paquete](package-change-log.md)
 >* [Configuración de paquetes](package-settings.md)
 >* [Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md)
 

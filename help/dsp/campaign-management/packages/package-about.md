@@ -3,9 +3,9 @@ title: Acerca de la administración de paquetes en Advertising Cloud DSP
 description: Obtenga información sobre la administración de paquetes.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Utilice paquetes para agrupar ubicaciones para su envío a un presupuesto, un ob
 
 Puede crear paquetes manualmente o duplicando paquetes existentes. También puede editar y adjuntar ubicaciones a cualquier paquete.
 
-## El panel [!UICONTROL Packages]
+## La variable [!UICONTROL Packages] Panel
 
-El tablero [!UICONTROL Packages] centraliza el performance y los informes económicos en todas las estrategias de paquetes, lo que proporciona instantáneas rápidas de cómo se han desempeñado los paquetes durante un intervalo de fechas especificado.
+La variable [!UICONTROL Packages] tablero centraliza el rendimiento y los informes económicos en todas las estrategias de paquetes, lo que proporciona instantáneas rápidas de cómo se han desempeñado los paquetes durante un intervalo de fechas especificado.
 
 ![Panel de paquetes](/help/dsp/assets/package-dashboard.png)
 
@@ -28,7 +28,7 @@ También muestra de forma predeterminada las métricas de ritmo y envío por paq
 
 >[!NOTE]
 >
->Puede personalizar aún más el contenido y el envío de los informes de paquetes mediante [informes personalizados](/help/dsp/reports/report-about.md).
+>Puede personalizar aún más el contenido y la entrega de los informes de paquetes mediante [informes personalizados](/help/dsp/reports/report-about.md).
 
 Para ver todas las ubicaciones dentro de un paquete, haga clic en el nombre del paquete.
 
@@ -37,5 +37,6 @@ Para ver todas las ubicaciones dentro de un paquete, haga clic en el nombre del 
 >* [Creación de un paquete](package-create.md)
 >* [Editar un paquete](package-edit.md)
 >* [Adjuntar una colocación a un paquete](package-attach-placement.md)
+>* [Ver el registro de cambios de un paquete](package-change-log.md)
 >* [Configuración de paquetes](package-settings.md)
 

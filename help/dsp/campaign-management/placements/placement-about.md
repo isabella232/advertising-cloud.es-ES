@@ -3,9 +3,9 @@ title: Acerca de la administración de ubicaciones en Advertising Cloud DSP
 description: Obtenga información sobre la administración de ubicaciones.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,9 @@ Para cada ubicación, puede abrir una vista detallada ([el [!UICONTROL Inspector
 
 >[!MORELIKETHIS]
 >
->* [Crear una colocación](/help/dsp/campaign-management/placements/placement-create.md)
->* [Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Crear una colocación](placement-create.md)
+>* [Ver el registro de cambios de una colocación](placement-change-log.md)
+>* [Configuración de colocación](placement-settings.md)
 
    >*[Resolución de problemas del rendimiento](/help/dsp/optimization/troubleshooting-performance.md)
 

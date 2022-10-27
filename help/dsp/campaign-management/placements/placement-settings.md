@@ -3,9 +3,9 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '3403'
 ht-degree: 0%
 
 ---
@@ -463,6 +463,7 @@ Para especificar el objetivo de temas:
 >* [Acerca de la administración de ubicaciones](placement-about.md)
 >* [Crear una colocación](placement-create.md)
 >* [Editar una colocación](placement-edit.md)
+>* [Ver el registro de cambios de una colocación](placement-change-log.md)
 >* [Métodos abreviados del teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Preguntas frecuentes sobre Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

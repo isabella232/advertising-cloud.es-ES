@@ -3,9 +3,9 @@ title: Crear una colocación
 description: Aprenda a crear una colocación.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: a30f3bffaf63a79bb7aead69e52524419ed54ed0
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 1%
 >* [Editar una colocación](placement-edit.md)
 >* [Editar la programación de publicidad de una colocación](placement-edit-ad-schedule.md)
 >* [Poner en pausa o activar una colocación](placement-pause-activate.md)
+>* [Ver el registro de cambios de una colocación](placement-change-log.md)
 >* [Configuración de colocación](placement-settings.md)
 >* [Métodos abreviados del teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 
