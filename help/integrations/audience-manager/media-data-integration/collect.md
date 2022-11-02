@@ -2,7 +2,8 @@
 title: Recopilación de datos de clics e impresiones de campañas de Advertising Cloud DSP
 description: Aprenda a capturar impresiones basadas en cookies y eventos de clics de anuncios de Advertising Cloud DSP mediante píxeles de Audience Manager
 feature: Integration with Adobe Audience Manager
-source-git-commit: b4dae983d390aaa5476951aa0c4c39648f07975c
+exl-id: eb717148-00ab-428a-97b9-e8396a5c47b0
+source-git-commit: 8de057df8bf2b67f20a915e6e711902f11176747
 workflow-type: tm+mt
 source-wordcount: '1062'
 ht-degree: 0%
@@ -40,11 +41,15 @@ Los píxeles de evento deben incluir los siguientes parámetros.
 
 **Píxeles de seguimiento de impresión:**
 
-`[Audience Manager customer domain].demdex.net/event?d_event=imp&d_src=[source id]&d_campaign=${TM_CAMPAIGN_ID_NUM}` con [parámetros adicionales opcionales](#parameters) con el prefijo `&`
+`[Audience Manager customer domain].demdex.net/event?d_event=imp&d_src=[source id]&d_campaign=${TM_CAMPAIGN_ID_NUM}`
+
+con [parámetros adicionales opcionales](#parameters) con el prefijo `&`
 
 **Píxeles de rastreo de clics:**
 
-`[Audience Manager customer domain].demdex.net/event?d_event=click&d_src=[source id]&d_rd=[redirect URL]&d_campaign=${TM_CAMPAIGN_ID_NUM}` con [parámetros adicionales opcionales](#parameters) con el prefijo `&`
+`[Audience Manager customer domain].demdex.net/event?d_event=click&d_src=[source id]&d_rd=[redirect URL]&d_campaign=${TM_CAMPAIGN_ID_NUM}`
+
+con [parámetros adicionales opcionales](#parameters) con el prefijo `&`
 
 Donde:
 

@@ -1,34 +1,34 @@
 ---
-source-git-commit: d3e36cef27fce533e9435717d428d54b982fd427
+source-git-commit: 0654347afd1caf5e9bd8ccabf41a8a591e604df5
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 # Documentación colaborativa para Advertising Cloud
 
-Este es el repositorio de documentación para Adobe Advertising Cloud, que incluye documentos entre productos, DSP y TV. (Más adelante, incluirá documentos para Creative y Buscar).
+Este es el repositorio de documentación para Adobe Advertising Cloud, incluidos documentos de DSP y entre productos. (Más adelante, incluirá documentos para la búsqueda y, posiblemente, (?) para creativos).
 
 **Nota: Esta página no se publica en la documentación de cara al cliente.**
 
 ## TOC
 
 + `TOC.md` en la raíz de cualquier guía del usuario proporciona a la organización los temas que contiene la guía.
-+ Cada guía del usuario tiene una `TOC.md` única, en la que puede ordenar todas las páginas o temas según sea necesario.
++ Cada guía del usuario tiene un `TOC.md`, en la que puede ordenar todas las páginas o temas según sea necesario.
 
 
 ## Guía del usuario
 
-+ La introducción a la guía del usuario se llama `overview.md`
++ La introducción a la guía del usuario se denomina `overview.md`
 + Cada tema de la guía del usuario tiene su propio directorio.
-   + Si hay un tema en la guía llamado *Implementation*, el directorio correspondiente es `/implementation`
+   + Si hay un tema en la guía llamado *Implementación*, el directorio correspondiente es `/implementation`
 + Todos los recursos de imagen se almacenan en `/assets` en la raíz de la guía del usuario.
-   + Todas las imágenes del directorio `/assets` se localizarán.
-   + Las imágenes del directorio `/no-localize` no se localizarán (hay una sorpresa). Esto se puede usar para garantizar en versiones localizadas que los recursos específicos no se reproducen innecesariamente.
+   + Todas las imágenes del `/assets` se localizará.
+   + Cualquier imagen de `/no-localize` no se localizará (hay una sorpresa). Esto se puede usar para garantizar en versiones localizadas que los recursos específicos no se reproducen innecesariamente.
 
 ## Metadatos de nivel de guía del usuario
 
-+ Los metadatos que describen la guía del usuario se almacenan en `TOC.md`. Esto incluye:
++ Los metadatos que describen la guía del usuario se almacenan en la variable `TOC.md`. Esto incluye:
    + producto: nombre del producto/capacidad.
    + cloud: nube a la que pertenece este producto.
    + audience: audiencia o arquetipo a la que se dirige la guía.
@@ -52,7 +52,7 @@ Este es el repositorio de documentación para Adobe Advertising Cloud, que inclu
 
 Para obtener más instrucciones de publicación, guías de estilo, ejemplos y otros recursos, consulte:
 
-+ [Contribución de directrices de autor  **específicas para Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [Contribución de guías de creación **específicamente para Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
 + [Creación colaborativa para todos los redactores de Adobe](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 Consulte también:

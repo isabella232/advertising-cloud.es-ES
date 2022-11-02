@@ -2,9 +2,10 @@
 title: Uso de Advertising Cloud ID para crear [!DNL Marketing Channels] Reglas
 description: Obtenga información sobre cómo utilizar Advertising Cloud ID para crear reglas de procesamiento para [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
+source-git-commit: d136b1fe6f6fd3861d0850e07efe7c320da4a7cc
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -83,7 +84,7 @@ A veces, las pulsaciones se rastrean a través de la dirección URL (la opción 
 
 #### Mostrar regla de visualización
 
-Para crear un canal de visualización de visualización, cree una regla en la que el ID de EF termine con &quot;:i&quot;. Como el visitante no hizo clic en la publicidad, el seguimiento de visualizaciones no incluye la variable `ef_id` o `s_kwcid` en la dirección URL. Por lo tanto, solo se necesita una condición.
+Para crear un canal de visualización de visualización, cree una regla en la que el ID de EF termine con &quot;:i&quot;. Como el visitante no hizo clic en la publicidad, el seguimiento de visualizaciones no incluye la variable `ef_id` o `s_kwcid` en la dirección URL, por lo que la regla solo requiere una condición.
 
 ![Ejemplo de regla de visualización](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
 
