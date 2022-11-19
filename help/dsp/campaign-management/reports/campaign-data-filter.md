@@ -3,7 +3,7 @@ title: Filtrar datos de campaña
 description: Aprenda a aplicar filtros para reducir los datos de campaña mostrados.
 feature: DSP Campaign Data Views
 exl-id: 784f025c-a96b-45bb-8326-e2e5216197e3
-source-git-commit: 2b151d7eef19a7ee3a1286b06dbee0a0a6e28d04
+source-git-commit: 432804e93ed8433fbfa9981c327a2fee94490938
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ## Filtros disponibles
 
-Los siguientes filtros están disponibles para las vistas [!UICONTROL Campaigns], [!UICONTROL Packages] y [!UICONTROL Placements]:
+Los filtros siguientes están disponibles para su [!UICONTROL Campaigns], [!UICONTROL Packages]y [!UICONTROL Placements] vistas:
 
 * [!UICONTROL Campaigns] filtros de vista:
    * [!UICONTROL Campaign status]
@@ -28,17 +28,19 @@ Los siguientes filtros están disponibles para las vistas [!UICONTROL Campaigns]
    * [!UICONTROL Custom goal] (si procede)
    * [!UICONTROL End end date]
    * [!UICONTROL Optimization goal]
-   * [!UICONTROL Pacing strategy]
+   * [!UICONTROL Flight pacing]
+   * [!UICONTROL Intraday pacing]
    * [!UICONTROL Package status]
    * [!UICONTROL Start date]
 * [!UICONTROL Placements] filtros de vista:
    * [!UICONTROL Custom ad scheduling]
    * [!UICONTROL Custom goal] (si procede)
    * [!UICONTROL End date]
-   * [!UICONTROL Max bid] ([!UICONTROL less than],  [!UICONTROL greater than] o  [!UICONTROL equal to] un valor especificado)
+   * [!UICONTROL Max bid] ([!UICONTROL less than], [!UICONTROL greater than]o [!UICONTROL equal to] un valor especificado)
    * [!UICONTROL Optimization goal]
-   * [!UICONTROL Pacing on] ([!UICONTROL impressions] o  [!UICONTROL spend])
-   * [!UICONTROL Pacing strategy]
+   * [!UICONTROL Pacing on] ([!UICONTROL impressions] o [!UICONTROL spend])
+   * [!UICONTROL Flight pacing]
+   * [!UICONTROL Intraday pacing]
    * [!UICONTROL Package]
    * [!UICONTROL Placement status]
    * [!UICONTROL Placement type]
