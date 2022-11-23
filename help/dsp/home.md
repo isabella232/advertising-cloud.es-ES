@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: b96bb5be747e59beb7bb626152dbab7aa49cb88e
+source-git-commit: f353912c0e5969a119b2b6018a2dfe2d7a0e9510
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '989'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 
 | Fecha | Función | Descripción | Para obtener más información |
 | ---- | ------- | ----------- | -------------------- |
-| 23 de noviembre de 2022 | Ofertas | La vista Inventario > Ofertas ahora incluye una columna &quot;Estado del acuerdo&quot;, que indica el estado de salud de cada acuerdo privado: &quot;Correcto&quot;, &quot;Advertencia&quot;, &quot;Crítico&quot; o &quot;No disponible&quot;. Puede hacer clic en el estado para ver más detalles, incluido por qué una operación no está funcionando o gastando según lo esperado, y los pasos para solucionar posibles problemas. | — |
-| 27 de octubre de 2022 | Campañas | Ahora hay disponible un registro de cambios que muestra los cambios realizados durante el intervalo de fechas seleccionado para cada paquete y colocación. | Consulte &quot;[Ver el registro de cambios de un paquete](/help/dsp/campaign-management/packages/package-change-log.md)&quot; y &quot;[Ver el registro de cambios de una colocación](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
+| 23 de noviembre de 2022 | Ofertas | La variable [!UICONTROL Inventory] > [!UICONTROL Deals] ver ahora incluye un &quot;[!UICONTROL Deal Health]&quot;, que indica el estado de salud de cada acuerdo privado: &quot;[!UICONTROL Success],&quot;[!UICONTROL Warning],&quot;[!UICONTROL Critical],&quot; o &quot;[!UICONTROL Unavailable].&quot; Puede hacer clic en el estado para ver más detalles, incluido por qué una operación no está funcionando o gastando según lo esperado, y los pasos para solucionar posibles problemas. | — |
+| 27 de octubre de 2022 | [!UICONTROL Campaigns] | Ahora hay disponible un registro de cambios que muestra los cambios realizados durante el intervalo de fechas seleccionado para cada paquete y colocación. | Consulte &quot;[Ver el registro de cambios de un paquete](/help/dsp/campaign-management/packages/package-change-log.md)&quot; y &quot;[Ver el registro de cambios de una colocación](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | Ahora puede cambiar la variable [!UICONTROL Intraday Pacing] para varias ubicaciones al mismo tiempo. | Consulte &quot;[Editar una colocación](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; y &quot;[Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 |  |  | Un &quot;[!UICONTROL Intraday Pacing]&quot; está disponible en hojas de cálculo de control de calidad de Excel. | Consulte &quot;[Columnas de hojas de cálculo descargadas o cargadas](/help/dsp/campaign-management/qa/qa-sheet-columns.md).&quot; |
 |  |  | Un &quot;[!UICONTROL Intraday Pacing]&quot; está disponible en las vistas Campañas. | Consulte &quot;[Crear una vista de columna personalizada](/help/dsp/campaign-management/reports/column-view-create.md)&quot; y &quot;[Editar una vista de columna personalizada](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
