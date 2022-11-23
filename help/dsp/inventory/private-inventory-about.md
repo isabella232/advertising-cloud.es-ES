@@ -3,9 +3,9 @@ title: Acerca del inventario privado
 description: Acerca del inventario privado
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 7feb0e398c416805b376062d9f3dfec819fac2ee
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Todas las transacciones privadas con un ID de acuerdo se financian y facturan me
 
 Puede utilizar los ID de acuerdo de cualquiera de estas formas:
 
-* (Función opcional que requiere activación) Desde la [!UICONTROL Deal ID Inbox], puede revisar y aceptar rápidamente sus ofertas de inventario privado acordadas, garantizadas y no garantizadas de editores en las siguientes plataformas del lado de suministro (SSP): [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocido como [!DNL AdX]) y [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) de [!UICONTROL Deal ID inbox].
+* (Función opcional que requiere activación) Desde la [!UICONTROL Deal ID Inbox], puede revisar y aceptar rápidamente sus acuerdos de inventario privado garantizados y no garantizados de editores en las siguientes plataformas del lado de suministro (SSP): [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocido como [!DNL AdX]) y [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) de [!UICONTROL Deal ID inbox].
 
    Para obtener más información, consulte &quot;[Acerca de [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md).&quot;
 
@@ -36,7 +36,9 @@ Puede usar cada oferta privada como destino de colocación para varias campañas
 
 En el [!UICONTROL Inventory] > [!UICONTROL Deals] vista, puede crear la configuración de oferta privada. También puede editar algunos ajustes de la oferta; enumere las ubicaciones y publicidades, y adjunte ubicaciones y publicidades adicionales a una oferta privada; editar los anunciantes y las cuentas que pueden acceder a una oferta privada; ver un informe de rendimiento para una operación; ver perspectivas de subastas para un acuerdo privado, o archivar o desarchivar un acuerdo.<!-- ; or edit the attribute tags for a deal -->
 
-Puede personalizar aún más cómo se presentan los datos de la oferta existente aplicando filtros, personalizando las columnas visibles y, opcionalmente, guardando vistas personalizadas, ordenando las columnas y viendo los datos como gráficos.
+La columna &quot;Deal Health&quot; indica el estado de salud de cada acuerdo privado: &quot;Correcto&quot;, &quot;Advertencia&quot;, &quot;Crítico&quot; o &quot;No disponible&quot;. Puede hacer clic en el estado para ver más detalles, incluido por qué una operación no está funcionando o gastando según lo esperado, y los pasos para solucionar posibles problemas.
+
+Puede personalizar cómo se presentan los datos de oferta existentes aplicando filtros, personalizando las columnas visibles y, opcionalmente, guardando vistas personalizadas, ordenando las columnas y viendo los datos como gráficos.
 
 >[!MORELIKETHIS]
 >
