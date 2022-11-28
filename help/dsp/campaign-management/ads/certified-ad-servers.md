@@ -3,9 +3,9 @@ title: Socios certificados de servicio de publicidad
 description: Ver todos los servidores de publicidad certificados y las unidades de publicidad.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: a8c23e39855c9d736989d7de4f42136530c1e12b
+source-git-commit: d66da8302b08d1f3d9a90c5eaf9caee4c30e05a0
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
-| [!DNL Minute Media] |  | X |  |  |  | Piel de escritorio (configurado como 970x250). |
+| [!DNL Minute Media] |  | X |  |  | Piel de escritorio (970x250). |
 | [!DNL Moat] | X | X |  | X |  |
 | [!DNL PLAYGROUND XYZ] |  |  | X |  |  |
 | [!DNL Pubmatic] |  |  |  | X | Solo VAST |
