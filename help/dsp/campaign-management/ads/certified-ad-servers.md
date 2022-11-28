@@ -3,7 +3,7 @@ title: Socios certificados de servicio de publicidad
 description: Ver todos los servidores de publicidad certificados y las unidades de publicidad.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: d66da8302b08d1f3d9a90c5eaf9caee4c30e05a0
+source-git-commit: ffd88b7f3274740db2d91697b0e208f61b2260d5
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -43,11 +43,11 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL Inskin] |  |  | X |  | Las pieles de alto impacto (incluidos los anuncios conversacionales de Cavai) deben suministrarse con un ID de oferta de visualización de 180 x 150 a través de la red de inventario Inskin. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  | X | Anclaje, BYOC, Pase, Desglose, Desglose y Barra de tareas de 320 x 50; 300x250 Outstream, HighRise; Pantalla de escritorio estándar (no se necesitan los ID de complemento de anuncio específicos); Anclaje de vídeo (solo VAST).</br></br>Póngase en contacto con su [!DNL Adobe] equipo de la cuenta para obtener ayuda sobre la configuración de unidades de publicidad. |
+| [!DNL Kargo] |  | X |  | X | Anclaje, BYOC, Pase, Desglose, Desglose y Barra de tareas de 320 x 50; 300x250 Outstream, HighRise; Pantalla de escritorio estándar (no se necesitan los ID de complemento de anuncio específicos); Anclaje de vídeo (solo VAST)</br></br>Póngase en contacto con su [!DNL Adobe] equipo de la cuenta para obtener ayuda sobre la configuración de unidades de publicidad. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
-| [!DNL Minute Media] |  | X |  |  | Piel de escritorio (970x250). |
+| [!DNL Minute Media] |  | X |  |  | Piel de escritorio (970x250) |
 | [!DNL Moat] | X | X |  | X |  |
 | [!DNL PLAYGROUND XYZ] |  |  | X |  |  |
 | [!DNL Pubmatic] |  |  |  | X | Solo VAST |
