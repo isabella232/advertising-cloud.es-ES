@@ -3,9 +3,9 @@ title: Acerca de la administración de publicidad en Advertising Cloud DSP
 description: Obtenga información sobre la administración de publicidades.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,15 @@ Todos los siguientes tipos de anuncios están disponibles en Advertising Cloud D
 
 * **Mostrar anuncios (solo de terceros)**: Los anuncios en pantalla son imágenes animadas o estáticas que se muestran en navegadores web o en aplicaciones. Al hacer clic en la unidad de publicidad, el usuario se dirige a un sitio o micrositio con marca. La visualización es mejor utilizada para impulsar CPM eficientes, aumentar la asociación de mensajes, añadir puntos de contacto de productos o marcas adicionales y dirigir a los usuarios hacia abajo en el canal de compras. Los indicadores de rendimiento clave para la visualización incluyen [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions]y [!UICONTROL Cost per Conversion]. DSP admite una amplia variedad de tamaños de anuncios de tipo titular.
 
-* **Anuncios móviles (solo de terceros)**: Los anuncios para móviles pueden estar en formato de vídeo pre-roll (VAST, MRAID) o de visualización estándar. El vídeo previo a la emisión móvil puede reproducirse automáticamente o pulsarse para reproducirse y se utiliza mejor para llegar a los visualizadores en todas las pantallas. La visualización estándar de Mobile es una imagen estática que se muestra en navegadores web móviles o en aplicaciones y que se utiliza mejor para complementar las compras de vídeo digital, impulsar la asociación de mensajes y añadir puntos de contacto de productos o marcas adicionales. Los anuncios para móviles también pueden funcionar como tomas de pantalla completa o como intersticiales para móviles, que son anuncios para móviles de pantalla completa y gran impacto que se utilizan mejor para desarrollar la diferenciación de la marca para audiencias móviles y dirigir conversiones.
+* **Anuncios móviles (solo de terceros)**: Los anuncios para móviles pueden estar en formato de vídeo pre-roll (VAST, MRAID) o de visualización estándar. El vídeo previo a la emisión móvil puede reproducirse automáticamente o pulsarse para reproducirse y se utiliza mejor para llegar a los visualizadores en todas las pantallas. La visualización estándar de dispositivos móviles es una imagen estática que se muestra en navegadores web móviles o en aplicaciones y que se utiliza mejor para complementar las compras de vídeo digitales, impulsar la asociación de mensajes y añadir puntos de contacto de productos o marcas adicionales. Los anuncios para móviles también pueden funcionar como tomas de pantalla completa o como intersticiales para móviles, que son anuncios para móviles de pantalla completa y gran impacto que se utilizan mejor para desarrollar la diferenciación de la marca para audiencias móviles y dirigir conversiones.
 
 * **Anuncios en pantalla nativos (solo de origen)**: Los anuncios nativos se admiten en formato de visualización estándar. Las publicidades nativas incluyen un titular o título, descripción, logotipo e imagen. Los elementos publicitarios se combinan y procesan para que coincidan con el estilo de página del editor, de modo que el anuncio se funda con el contenido orgánico del editor y aumente la participación. Los nativos se utilizan mejor para la diferenciación de la marca y para impulsar la visualización de audiencia y las tasas de participación con una publicidad compatible con el visor. Los indicadores clave de rendimiento incluyen [!UICONTROL Clicks], [!UICONTROL Cost Per Click], [!UICONTROL Conversions]y [!UICONTROL Cost Per Conversion].
 
 * **Anuncios previos a la emisión (solo de terceros)**: Los anuncios previos a la emisión (VAST y VPAID) se muestran antes del contenido de vídeo premium y ofrecen una experiencia de visualización inmersiva y atractiva. El vídeo previo a la emisión puede ser interactivo, contener funciones multimedia enriquecidas e incluir superposiciones, rollovers y llamadas a la acción. Los indicadores de rendimiento clave para los anuncios de vídeo pre-roll incluyen [!UICONTROL Video Completion Rate] y [!UICONTROL Viewability Rate].
 
 * **Anuncios de TV conectados (solo de terceros)**: Los anuncios de TV conectados se muestran antes y durante el contenido de vídeo de TV premium. Todo el inventario de TV conectado se ejecuta en dispositivos de TV, lo que significa que el vídeo se reproduce automáticamente en un entorno de pantalla completa y retrospectiva que los espectadores no pueden omitir. La TV conectada es el formato de vídeo digital más cercano a los anuncios de TV. Los indicadores de rendimiento clave para la TV conectada incluyen [!UICONTROL Completion Rate].
+
+* **Anuncios de vídeo universales (solo de terceros)**: Los anuncios de vídeo universal combinan todas las capacidades de los anuncios de TV, anuncio previo a la emisión y anuncios previos a la emisión móvil (VAST y VPAID) conectados en uno y se muestran antes y durante el contenido de vídeo. La publicidad de vídeo universal se puede usar al segmentar el inventario de vídeo de los entornos de escritorio, móviles y TV conectada, y por lo tanto evita la necesidad de crear varios anuncios de vídeo. Los indicadores de rendimiento clave para el vídeo universal incluyen [!UICONTROL Completion Rate] y [!UICONTROL Viewability Rate].
 
 ## Aprobaciones de anuncios de Advertising Cloud DSP
 
