@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: eb33bbadcae751e6bfc492b5ecddcd7569c7a336
+source-git-commit: 678125f88712043fc589aac752e1686be41f2f55
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '1060'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 
 | Fecha | Función | Descripción | Para obtener más información |
 | ---- | ------- | ----------- | -------------------- |
+| 14 de diciembre de 2022 | Ubicaciones, publicidades | Nuevo &quot;[!UICONTROL Universal Video]&quot; las ubicaciones y publicidades permiten dirigirse a varios entornos de dispositivos para los inventarios VPAID y VAST mediante una sola ubicación de vídeo.<br><br>Las ubicaciones de vídeo universales incluyen una configuración &quot;Entorno de dispositivo&quot; ([!UICONTROL Desktop], [!UICONTROL Mobile]y [!UICONTROL Connected TV]). Los anuncios de vídeo universales solo se pueden vincular a las ubicaciones de vídeo universales.<br><br>Los informes personalizados incluyen la nueva dimensión de nivel de ubicación &quot;Entorno del dispositivo&quot;. | Consulte &quot;[Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md)&quot; y &quot;[Columnas de informe disponibles](/help/dsp/reports/report-columns.md).&quot;<br><br>Consulte también &quot;[Configuración de anuncios de vídeo universal](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; y &quot;[Crear una publicidad](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | 23 de noviembre de 2022 | Ofertas | La variable [!UICONTROL Inventory] > [!UICONTROL Deals] ver ahora incluye un &quot;[!UICONTROL Deal Health]&quot;, que indica el estado de salud de cada acuerdo privado: &quot;[!UICONTROL Success],&quot;[!UICONTROL Warning],&quot;[!UICONTROL Critical],&quot; o &quot;[!UICONTROL Unavailable].&quot; Puede hacer clic en el estado para ver más detalles, incluidos los motivos por los que una operación no está funcionando o gastando según lo esperado, y los pasos para solucionar posibles problemas. | — |
 | 27 de octubre de 2022 | [!UICONTROL Campaigns] | Ahora hay disponible un registro de cambios que muestra los cambios realizados durante el intervalo de fechas seleccionado para cada paquete y colocación. | Consulte &quot;[Ver el registro de cambios de un paquete](/help/dsp/campaign-management/packages/package-change-log.md)&quot; y &quot;[Ver el registro de cambios de una colocación](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | Ahora puede cambiar la variable [!UICONTROL Intraday Pacing] para varias ubicaciones al mismo tiempo. | Consulte &quot;[Editar una colocación](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; y &quot;[Configuración de colocación](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |

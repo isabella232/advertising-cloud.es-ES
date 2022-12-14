@@ -3,9 +3,9 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 0a191d8d058fdf04ced0bb4ae3dc793a31af77af
+source-git-commit: 0f5bdf041c0de60730efe5190d438a6d29752034
 workflow-type: tm+mt
-source-wordcount: '3403'
+source-wordcount: '3422'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 1. Haga clic **[!UICONTROL Apply]**.
 
 **[!UICONTROL Ad specs for forecast]:** (Solo formatos de anuncio de vídeo) La duración o las especificaciones de anuncio que se utilizan para calcular la proyección de previsión a la derecha. Los campos varían según el tipo de anuncio.
+
+**[!UICONTROL Environment]:** (Solo formato de anuncio de vídeo universal) Los entornos de dispositivo (escritorio, móvil, TV conectada) que se incluirán como destinos en la ubicación.
 
 **[!UICONTROL Placement tags]:** (Opcional) Palabras clave o apodos para ayudarle a localizar esta ubicación.
 

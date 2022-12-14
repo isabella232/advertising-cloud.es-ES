@@ -8,9 +8,9 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
+source-git-commit: 6996de4d7b3ee06bceb99292c4fe03878e7b61c9
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '954'
 ht-degree: 6%
 
 ---
@@ -97,6 +97,7 @@ ht-degree: 6%
          + [Configuración de publicidad móvil](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Configuración de anuncios en pantalla nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Configuración de anuncio previo a la emisión](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+         + [Configuración de anuncios de vídeo universal](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Especificaciones para los tipos de publicidad admitidos](/help/dsp/campaign-management/ads/ad-specs.md)
    + Informes de campaña {#campaign-reports}
       + [Acerca de los informes en la plataforma](/help/dsp/campaign-management/reports/campaign-reports-about.md)
