@@ -8,7 +8,7 @@ user-guide-title: Guía de Advertising Cloud DSP
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: 6996de4d7b3ee06bceb99292c4fe03878e7b61c9
+source-git-commit: e902deb79c42e8fb13697439198259004a957525
 workflow-type: tm+mt
 source-wordcount: '954'
 ht-degree: 6%
