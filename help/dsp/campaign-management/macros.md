@@ -3,9 +3,9 @@ title: Macros de Advertising Cloud DSP
 description: Haga referencia a las macros disponibles para el seguimiento general y para rastrear los clics en anuncios en pantalla de terceros.
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: fbadd81a34c375f00fa3e420ea3c46fc9143daf8
+source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -102,4 +102,5 @@ Los errores se generan si faltan caracteres desde el principio o el final del no
 >* [Configuración de publicidad móvil](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
 >* [Configuración de anuncios nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)
 >* [Configuración de anuncio previo a la emisión](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Configuración de anuncios de vídeo universal](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
 
