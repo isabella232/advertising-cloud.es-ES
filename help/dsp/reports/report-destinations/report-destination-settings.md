@@ -2,13 +2,13 @@
 title: Configuración del destino del informe
 description: Consulte los detalles necesarios para los destinos de informes, por tipo de destino.
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+exl-id: 584c9c69-7b94-4e5c-bcc1-277ac2689d8e
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Configuración del destino del informe
 
@@ -22,7 +22,7 @@ Los detalles requeridos para los destinos de informes que no son de correo elect
 
 **[!UICONTROL Name]:** Un nombre que le ayudará a identificar el destino.
 
-**[!UICONTROL S3 Bucket URL]:** Ruta de acceso completa a la carpeta en la [!DNL Amazon Simple Storage Service] (S3) para el que se cargará el informe. Ejemplo: `s3://adcloud_account/reports`
+**[!UICONTROL S3 Bucket URL]:** Ruta de acceso completa a la carpeta en la [!DNL Amazon Simple Storage Service] (S3) para el que se cargará el informe. Ejemplo: `s3://dsp_account/reports`
 
 **[!UICONTROL Access Key ID]:** El ID de clave de acceso a ([!DNL Amazon S3]) depósito (proporcionado por [!DNL Amazon]).
 

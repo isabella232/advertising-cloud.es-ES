@@ -8,7 +8,7 @@ user-guide-title: Guía de DSP de publicidad
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 5%
@@ -36,10 +36,10 @@ ht-degree: 5%
    + [Financiación de cuentas](/help/dsp/introduction/billing/account-funding.md)
    + [Monedas admitidas](/help/dsp/currency.md)
    + Compatibilidad con la privacidad del consumidor {#privacy}
-      + [Cumplimiento del Reglamento General de Protección de Datos](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
+      + [Cumplimiento del Reglamento General de Protección de Datos](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
       + Compatibilidad con la CCPA {#ccpa}
-         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Acceso y eliminación de datos del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
-         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Exclusión de la venta del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
+         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Acceso y eliminación de datos del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
+         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Exclusión de la venta del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
    + Políticas y directrices {#policies}
       + [Política de requisitos de anuncios](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Directrices de segmentos de mantenimiento aceptables](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)

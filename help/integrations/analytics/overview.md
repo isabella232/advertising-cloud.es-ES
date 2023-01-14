@@ -3,9 +3,9 @@ title: Información general sobre [!DNL Analytics for Advertising]
 description: Información general sobre [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Para usar [!DNL Analytics] como herramienta de informes multimedia de pago, su o
 
 [ID de publicidad de Adobe dentro de [!DNL Analytics]](ids.md) funciona como otras eVars, con una caducidad personalizada y persistente. De forma predeterminada, la ventana de retrospectiva de atribución se establece en 60 días durante la implementación de Publicidad de Adobe. Para cambiar esta configuración, trabaje con su [!DNL Adobe] equipo de la cuenta.
 
-Las dimensiones de publicidad de Adobe se agregan con el sufijo &quot;(ID de AMO)&quot; (como &quot;Tipo de anuncio (ID de AMO)&quot;). Consulte &quot;[Métricas de publicidad de Adobe en Analysis Workspace](advertising-cloud-metrics-in-analytics.md)&quot; para obtener una lista de las dimensiones disponibles.
+Las dimensiones de publicidad de Adobe se agregan con el sufijo &quot;(ID de AMO)&quot; (como &quot;Tipo de anuncio (ID de AMO)&quot;). Consulte &quot;[Métricas de publicidad de Adobe en Analysis Workspace](advertising-metrics-in-analytics.md)&quot; para obtener una lista de las dimensiones disponibles.
 
 >[!NOTE]
 >
@@ -78,7 +78,7 @@ Puede usar los eventos estándar y los personalizados desde [!DNL Analytics] par
 
 Su equipo de publicidad de Adobe le ayudará a identificar y asignar los eventos que son aplicables al rendimiento de medios de pago en la publicidad de Adobe, donde aparecerán en [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties].
 
-Consulte &quot;[Métricas de Analytics en publicidad de Adobe](analytics-data-in-advertising-cloud.md)&quot; para obtener una lista de las métricas disponibles.
+Consulte &quot;[Métricas de Analytics en publicidad de Adobe](analytics-data-in-advertising.md)&quot; para obtener una lista de las métricas disponibles.
 
 ### Segmentos de Analytics para redireccionamiento de sitios
 
@@ -111,6 +111,6 @@ Para ver cómo se puede crear un informe de entrada al sitio de publicidad de Ad
 >* [ID de publicidad de Adobe utilizados por Analytics](ids.md)
 >* [Código JavaScript para Analytics for Advertising](/help/integrations/analytics/javascript.md)
 >* [Variaciones de datos previstas entre [!DNL Analytics] y publicidad de Adobe](data-variances.md)
->* [Métricas de publicidad de Adobe en Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
->* [[!DNL Analytics] Datos en publicidad de Adobe](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Métricas de publicidad de Adobe en Analysis Workspace](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+>* [[!DNL Analytics] Datos en publicidad de Adobe](/help/integrations/analytics/analytics-data-in-advertising.md)
 

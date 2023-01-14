@@ -2,9 +2,9 @@
 title: Configuración de pruebas A/B para publicidad de Adobe en Adobe Target
 description: Obtenga información sobre cómo configurar una prueba A/B en [!DNL Target] para su DSP y [!DNL Search] anuncios.
 exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '1654'
+source-wordcount: '1647'
 ht-degree: 0%
 
 ---
@@ -220,7 +220,7 @@ En Analysis Workspace, si observa que los datos de actividades y experiencias so
 * [Información general sobre la prueba A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Describe las actividades de prueba A/B, que se pueden usar con anuncios DSP.
 * [Experiencias y ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) - Explica [!DNL Target] herramientas para determinar el contenido en el sitio al que se exponen DSP usuarios de prueba.
 * [Señales, rasgos y segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) : Define algunas de las herramientas de Audience Manager que pueden ayudar con DSP pruebas de visualización.
-* [Descripción general de Analytics for Advertising](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) : presenta Analytics for Advertising, que le permite hacer un seguimiento de las interacciones de clics y visualizaciones del sitio en las instancias de Analytics.
+* [Descripción general de Analytics for Advertising](/help/integrations/analytics/overview.md) : presenta Analytics for Advertising, que le permite hacer un seguimiento de las interacciones de clics y visualizaciones del sitio en las instancias de Analytics.
 
 <!-- 
 >[!MORELIKETHIS]
