@@ -3,9 +3,9 @@ title: Información general sobre la configuración de ofertas PG en [!DNL Freew
 description: Obtenga información sobre los requisitos previos y los pasos adicionales necesarios para ejecutar anuncios para ofertas garantizadas mediante programación con editores en [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Configuración de acuerdos garantizados programáticos con editores en [!DNL Fre
 
 >[!PREREQUISITES]
 >
->Trabaje con su [!DNL Adobe] el equipo de la cuenta para garantizar que su [!DNL DSP] tiene los siguientes permisos.
+>Trabaje con su [!DNL Adobe] el equipo de la cuenta para garantizar que su [!DNL DSP] tiene los siguientes permisos:
 >
->1. Permiso para usar la variable [!DNL FreeWheel] flujo de trabajo garantizado por programación, que es necesario para enviar una publicidad para una oferta garantizada por programación a [!DNL FreeWheel].
+>* Permiso para usar la variable [!DNL FreeWheel] flujo de trabajo garantizado por programación, que es necesario para enviar una publicidad para una oferta garantizada por programación a [!DNL FreeWheel].
 >
->1. (Si trabaja con editores del Reino Unido que requieren un [!DNL Clearcast] número de reloj con cada anuncio) Permiso para incluir números de reloj en sus anuncios.
+>* (Si trabaja con editores del Reino Unido que requieren un [!DNL Clearcast] número de reloj con cada anuncio) Permiso para incluir números de reloj en sus anuncios.
 
 
 ## Flujo de trabajo

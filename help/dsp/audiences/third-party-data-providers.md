@@ -1,20 +1,20 @@
 ---
-title: Proveedores de datos de terceros disponibles en Advertising Cloud DSP
+title: Proveedores de datos de terceros disponibles en DSP publicitarios
 description: Consulte una lista de todos los proveedores de datos de terceros disponibles.
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 <!-- feature: audiences -->
 
-# Proveedores de datos de terceros disponibles en Advertising Cloud DSP
+# Proveedores de datos de terceros disponibles en DSP publicitarios
 
-Las categorías de datos y los segmentos para los siguientes proveedores de datos de terceros están disponibles como objetivos de ubicación en [!DNL DSP]. Estos segmentos están disponibles principalmente para audiencias de EE. UU.
+Las categorías de datos y los segmentos para los siguientes proveedores de datos de terceros están disponibles como destinos de ubicación en DSP. Estos segmentos están disponibles principalmente para audiencias de EE. UU.
 
 La tarifa por usar cada segmento se muestra junto al nombre del segmento en la configuración de ubicación y en la configuración de audiencia guardada.
 

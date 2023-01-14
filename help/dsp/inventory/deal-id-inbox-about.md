@@ -3,20 +3,20 @@ title: Acerca de [!UICONTROL Deal ID Inbox]
 description: Obtenga información sobre [!UICONTROL Deal ID inbox] , que le permite aceptar ofertas privadas que ya ha negociado con editores en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocido como [!DNL AdX]), and [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
 # Acerca de [!UICONTROL Deal ID Inbox]
 
-DSP [!UICONTROL Deal ID inbox] le permite configurar rápidamente ofertas que Advertising Cloud DSP ha importado de editores a través de plataformas de suministro (SSP) para que no tenga que configurar cada oferta manualmente. Puede aceptar los acuerdos de inventario privado garantizados y no garantizados que ya ha negociado con editores en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocido como [!DNL AdX]) y [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) de [!UICONTROL Deal ID inbox].
+La DSP publicitaria [!UICONTROL Deal ID inbox] le permite configurar rápidamente ofertas que DSP ha importado de editores a través de plataformas de suministro (SSP) para que no tenga que configurar cada operación manualmente. Puede aceptar los acuerdos de inventario privado garantizados y no garantizados que ya ha negociado con editores en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocido como [!DNL AdX]) y [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) de [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
->Advertising Cloud DSP es el primer DSP que se integra con la variable [!DNL FreeWheel] API.
+>La DSP publicitaria es la primera DSP que se integra con el [!DNL FreeWheel] API.
 
 En el [!UICONTROL Deal ID inbox], puede ver los detalles de la oferta tal como los ve el editor, acelerar la configuración de la oferta y evitar errores de entrada manuales.
 

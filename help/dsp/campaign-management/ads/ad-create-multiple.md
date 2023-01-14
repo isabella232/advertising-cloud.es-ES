@@ -3,7 +3,7 @@ title: Crear varias publicidades de terceros
 description: Aprenda a crear varias publicidades de terceros a la vez.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -41,9 +41,13 @@ Puede cargar: [!DNL DoubleClick] y [!DNL Flashtalking] etiquetas de o un archivo
 1. Revise los detalles y el estado de cada anuncio:
 
    1. Revise el estado de cada publicidad, que se basa en comprobaciones de validación de la etiqueta cargada.
+
    1. (Opcional) Realice una de las siguientes acciones para cada anuncio:
+
       * Para obtener una vista previa de una publicidad, haga clic en ![play](/help/dsp/assets/play.png) en la fila de publicidad.
+
       * Para editar los detalles de la publicidad, haga clic en ![editar](/help/dsp/assets/edit.png), edite los detalles y, a continuación, haga clic en **Guardar**.
+
       * Para eliminar una publicidad, haga clic en **[!UICONTROL X]** en la fila de publicidad.
 
 1. Haga clic en **[!UICONTROL Create *N *Anuncios]**.
@@ -53,8 +57,11 @@ Puede cargar: [!DNL DoubleClick] y [!DNL Flashtalking] etiquetas de o un archivo
    * Haga clic **[!UICONTROL Done]**.
 
    * (Si se rechaza una publicidad; (opcional) Para editar el registro de publicidad y volver a enviarlo para su revisión:
+
       1. Haga clic en el nombre del anuncio.
+
       1. Edite la configuración de la publicidad.
+
       1. Haga clic **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]

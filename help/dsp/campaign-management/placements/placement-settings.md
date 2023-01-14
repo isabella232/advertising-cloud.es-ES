@@ -3,9 +3,9 @@ title: Configuración de colocación
 description: Consulte las descripciones de la configuración de ubicación disponible.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 0f5bdf041c0de60730efe5190d438a6d29752034
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '3422'
+source-wordcount: '3418'
 ht-degree: 0%
 
 ---
@@ -169,7 +169,7 @@ Incluya un código postal por línea o introduzca varios valores separados por c
 
 **[!UICONTROL Inventory Sources]:** Fuentes de inventario que se incluirán o excluirán como objetivos. Para la mayoría de los tipos de ubicación, todos los tipos de inventario y todas las fuentes para cada tipo están incluidos de forma predeterminada. Para [!DNL Roku] ubicaciones, debe especificar el tipo de inventario y los orígenes. Puede elegir entre los siguientes tipos de inventario:
 
-* [!UICONTROL Public]: (Todos los tipos de ubicación excepto Roku) Todo el inventario de intercambio abierto al que Advertising Cloud tiene acceso. Puede incluir y excluir el inventario público.
+* [!UICONTROL Public]: (Todos los tipos de ubicación excepto Roku) Todo el inventario de intercambio abierto al que DSP tiene acceso. Puede incluir y excluir el inventario público.
 
    Puede ver la lista por fuente o por fuente. Cuando ve la lista por fuente, puede buscar por nombre de fuente, clave de fuente o una etiqueta característica seleccionada.
 
@@ -226,7 +226,7 @@ Los anuncios salientes generalmente aparecen sobre el contenido como una ventana
 >
 >Para las campañas de rendimiento, lo mejor es seleccionar *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site Categories]:** (Opcional; disponible cuando **[!UICONTROL Paste list of targeted sites]** es *[!UICONTROL Off]*) Categorías de sitio dentro de los niveles de sitio seleccionados para incluir o excluir (pero no ambos) como objetivos. Elija entre las listas verticales del sitio que Advertising Cloud ha asignado en función del asunto del sitio:
+**[!UICONTROL Site Categories]:** (Opcional; disponible cuando **[!UICONTROL Paste list of targeted sites]** es *[!UICONTROL Off]*) Categorías de sitio dentro de los niveles de sitio seleccionados para incluir o excluir (pero no ambos) como objetivos. Elija entre las listas verticales del sitio que DSP ha asignado según el asunto del sitio:
 
 1. Haga clic en ![Editar](/help/dsp/assets/edit.png).
 1. Especifique las categorías del sitio que se incluirán o excluirán:
@@ -257,7 +257,7 @@ Los anuncios salientes generalmente aparecen sobre el contenido como una ventana
 
 >[!NOTE]
 >
->* También se aplican las listas de sitios bloqueados a nivel de cuenta y de anunciante, además de Advertising Cloud DSP [lista de sitios bloqueados globalmente](/help/dsp/introduction/features/brand-safety-media-quality.md), que incluye los sitios considerados inseguros para los anuncios.
+>* También se aplican las listas de sitios bloqueados a nivel de cuenta y de anunciante, además del DSP [lista de sitios bloqueados globalmente](/help/dsp/introduction/features/brand-safety-media-quality.md), que incluye los sitios considerados inseguros para los anuncios.
 >* Las listas de sitios bloqueados siempre anulan las listas de sitios segmentados. Si una colocación excluye e incluye el mismo objetivo para una publicidad, se excluye el objetivo.
 
 

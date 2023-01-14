@@ -3,7 +3,7 @@ title: Configuración de audiencia
 description: Consulte las descripciones de la configuración de audiencia disponible.
 feature: DSP Audiences
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: 505944d534e04da8f903c24e7899e7a80cb836e4
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Segmentos de terceros
 
-(Opcional) Cualquier segmento estándar que esté disponible a través de la taxonomía de datos de terceros de Advertising Cloud, para incluirlo en la configuración de audiencia.
+(Opcional) Cualquier segmento estándar que esté disponible a través de la taxonomía de datos de terceros de publicidad de Adobe para incluirlo en la configuración de audiencia.
 
 ## Segmentos de origen
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Segmentos personalizados
 
-(Opcional) Cualquier segmento creado por el usuario, que se captura mediante píxeles de segmento personalizados de Advertising Cloud, para incluir en la configuración de audiencia. Esto puede incluir segmentos personalizados estándar y segmentos de exclusión de la venta de la CCPA.
+(Opcional) Cualquier segmento creado por el usuario, que se captura mediante píxeles de segmento de DSP personalizados, para incluir en la configuración de audiencia. Esto puede incluir segmentos personalizados estándar y segmentos de exclusión de la venta de la CCPA.
 
 ## Audiencias guardadas
 

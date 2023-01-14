@@ -1,11 +1,11 @@
 ---
-title: '"Cree un [!UICONTROL Simple Ad Serving] Acuerdo"'
+title: "Cree un [!UICONTROL Simple Ad Serving] Acuerdo"
 description: '"Aprenda a crear un píxel de seguimiento para un [!UICONTROL Simple Ad Serving] trato".'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
       1. Haga clic **[!UICONTROL Next]**.
    1. En Detalles de fuente, edite los detalles de la fuente y, a continuación, haga clic en **[!UICONTROL Next]**.
 
-      Advertising Cloud DSP genera automáticamente una ubicación denominada &quot;Ubicación SAS - &lt;*nombre de la oferta*>,&quot; para el anuncio. En la ubicación, la oferta se dirige automáticamente a la [!UICONTROL Inventory Targets] para obtener más información. Todas las demás opciones de segmentación no son aplicables.
+      DSP genera automáticamente una ubicación denominada &quot;Ubicación SAS - &lt;*nombre de la oferta*>,&quot; para el anuncio. En la ubicación, la oferta se dirige automáticamente a la [!UICONTROL Inventory Targets] para obtener más información. Todas las demás opciones de segmentación no son aplicables.
 
 
 

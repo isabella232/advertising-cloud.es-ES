@@ -1,22 +1,22 @@
 ---
-title: Recopilación de datos de clics e impresiones de campañas de Advertising Cloud DSP
-description: Aprenda a capturar impresiones basadas en cookies y eventos de clics de anuncios de Advertising Cloud DSP mediante píxeles de Audience Manager
+title: Recopilar datos de clics e impresiones de campañas de publicidad DSP
+description: Aprenda a capturar impresiones basadas en cookies y eventos de clics de anuncios DSP anuncios mediante píxeles de Audience Manager
 feature: Integration with Adobe Audience Manager
 exl-id: eb717148-00ab-428a-97b9-e8396a5c47b0
-source-git-commit: 8de057df8bf2b67f20a915e6e711902f11176747
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1062'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
 
-# Recopilación de datos de exposición de medios de campañas de Advertising Cloud DSP
+# Recopilación de datos de exposición de medios de campañas de DSP publicitarias
 
-*Anunciantes solo con Advertising Cloud DSP*
+*Anunciantes con solo DSP publicitario*
 
-*Anunciantes con solo integración Advertising Cloud-Adobe Audience Manager*
+*Anunciantes con Adobe de solo integración de Advertising-Adobe Audience Manager*
 
-En este documento se explica cómo etiquetar anuncios de Advertising Cloud DSP para capturar eventos de clics e impresiones basados en cookies utilizando píxeles de Audience Manager, así como las tareas adicionales necesarias para utilizar los datos.
+En este documento se explica cómo etiquetar anuncios publicitarios DSP anuncios para capturar impresiones basadas en cookies y eventos de clics mediante píxeles de Audience Manager, así como las tareas adicionales necesarias para utilizar los datos.
 
 Los píxeles de evento no capturan eventos que se producen en entornos sin cookies, como aplicaciones móviles y TV conectada (CTV).
 
@@ -77,7 +77,7 @@ Donde:
 
 Ambos tipos de píxeles pueden contener parámetros adicionales como *pares clave-valor* para recopilar características o proporcionar metadatos de campaña (como un nombre de ubicación o un nombre de campaña) para otros informes. Un par clave-valor consta de dos elementos relacionados: a *key*, que es una constante que define el conjunto de datos y un *value*, que es una variable que pertenece al conjunto.
 
-En el par clave-valor, la variable de valor puede ser un ID codificado o un *macro*, que es una pequeña unidad de código independiente que se sustituye dinámicamente por los valores correspondientes cuando se carga la etiqueta de publicidad para el seguimiento de usuarios y campañas. Para los parámetros relacionados con la campaña, puede utilizar [DSP macros](/help/dsp/campaign-management/macros.md) en lugar de macros de Audience Manager para enviar atributos de campaña junto con los datos de impresión o clic correspondientes al Audience Manager, utilizando un solo píxel en todos los anuncios. Las DSP macros que inserte en los píxeles del evento deben ser valores adecuados para los pares clave-valor que incluya dentro de los píxeles. Por ejemplo, para la variable `d_placement` , utilice la macro DSP `${TM_PLACEMENT_ID_NUM}` como valor para capturar los ID de colocación generados por la macro de Advertising Cloud.
+En el par clave-valor, la variable de valor puede ser un ID codificado o un *macro*, que es una pequeña unidad de código independiente que se sustituye dinámicamente por los valores correspondientes cuando se carga la etiqueta de publicidad para el seguimiento de usuarios y campañas. Para los parámetros relacionados con la campaña, puede utilizar [DSP macros](/help/dsp/campaign-management/macros.md) en lugar de macros de Audience Manager para enviar atributos de campaña junto con los datos de impresión o clic correspondientes al Audience Manager, utilizando un solo píxel en todos los anuncios. Las DSP macros que inserte en los píxeles del evento deben ser valores adecuados para los pares clave-valor que incluya dentro de los píxeles. Por ejemplo, para la variable `d_placement` , utilice la macro DSP `${TM_PLACEMENT_ID_NUM}` como valor para capturar las ID de colocación generadas por la macro Publicidad de Adobe.
 
 Para obtener una lista de macros compatibles con el Audience Manager para los píxeles de eventos de impresión, consulte &quot;[Captura de los datos de impresión de campaña a través de Pixel Calls](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html#supported-key-value-pairs).&quot;
 
@@ -87,7 +87,7 @@ Para obtener una lista de macros compatibles con el Audience Manager para los p�
 >
 >* La práctica recomendada es incluir la campaña, la ubicación, el elemento creativo (publicidad) y los ID de sitio para poder usar los atributos de campaña para crear características de Audience Manager.
 >* Para crear informes de Audience Optimization, se necesitan parámetros adicionales.
->* En los pares clave-valor, reemplace los valores por los correspondientes [DSP macros](/help/dsp/campaign-management/macros.md) de este modo, puede utilizar un solo píxel en todos los anuncios de todas las campañas. Por ejemplo, cambie `d_campaign=[%campaignID%]`a `d_campaign=${TM_CAMPAIGN_ID_NUM}` para capturar los ID de campaña generados por la macro de Advertising Cloud.
+>* En los pares clave-valor, reemplace los valores por los correspondientes [DSP macros](/help/dsp/campaign-management/macros.md) de este modo, puede utilizar un solo píxel en todos los anuncios de todas las campañas. Por ejemplo, cambie `d_campaign=[%campaignID%]`a `d_campaign=${TM_CAMPAIGN_ID_NUM}` para capturar los ID de campaña generados por la macro Publicidad de Adobe .
 >* Si es necesario, puede crear sus propios parámetros con valores codificados. Ejemplo: `d_DSP=AdCloud`
 
 
@@ -132,7 +132,7 @@ Ejemplo de característica que rellena datos de nivel de usuario para usuarios e
 
 >[!MORELIKETHIS]
 >
->* [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 >* [Información general sobre el envío de datos de exposición DSP medios a Adobe Audience Manager](overview.md)
 >* [Casos de uso](use-cases.md)
 

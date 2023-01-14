@@ -1,9 +1,9 @@
 ---
 title: Preguntas frecuentes
 description: xxx
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ## title
 
-https://adobeadcloud.zendesk.com/agent/tickets/14214 De forma predeterminada, Adobe Analytics informa de todos los eventos capturados en cada informe. &quot;[!UICONTROL Unspecified]&quot; representan eventos de finalización de formularios que no estaban conectados a Advertising Cloud. Por ejemplo, en el informe Plataforma de publicidad , las conversiones orgánicas o impulsadas por una campaña de correo electrónico caerían en &quot;sin especificar&quot;.
+https://adobeadcloud.zendesk.com/agent/tickets/14214 De forma predeterminada, Adobe Analytics informa de todos los eventos capturados en cada informe. &quot;[!UICONTROL Unspecified]&quot; representan eventos de finalización de formularios que no estaban conectados a la publicidad de Adobe. Por ejemplo, en el informe Plataforma de publicidad , las conversiones orgánicas o impulsadas por una campaña de correo electrónico caerían en &quot;sin especificar&quot;.
 
 Puede usar el filtro para eliminar eventos no especificados de los informes eliminando la marca de verificación de la opción &quot;Incluir no especificado (ninguno)&quot;. <!-- Not sure if this is in DSP or in Analytics Workspace -->
 

@@ -4,19 +4,19 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Guía de Advertising Cloud DSP
-user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising Cloud DSP.
+user-guide-title: Guía de DSP de publicidad
+user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: e902deb79c42e8fb13697439198259004a957525
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '954'
-ht-degree: 6%
+source-wordcount: '948'
+ht-degree: 5%
 
 ---
 
 
-# Guía de Advertising Cloud DSP {#dsp}
+# Guía de DSP de publicidad {#dsp}
 
 <!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
       + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
@@ -28,7 +28,7 @@ ht-degree: 6%
 
 + [Novedades](/help/dsp/home.md)
 + Introducción {#introduction}
-   + [Introducción a Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
+   + [Introducción a la DSP publicitaria de Adobe](/help/dsp/introduction/dsp-about.md)
    + Características principales {#features}
       + [Optimización](/help/dsp/introduction/features/optimization.md)
       + [Seguridad de la marca y calidad de los medios](/help/dsp/introduction/features/brand-safety-media-quality.md)
@@ -117,7 +117,7 @@ ht-degree: 6%
       + [Descargar la configuración de colocación de una campaña](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [Cargar la configuración de colocación de una campaña](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [Columnas de hojas de cálculo descargadas o cargadas](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
-   + [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+   + [DSP Macros](/help/dsp/campaign-management/macros.md)
    + [Métodos abreviados del teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [Preguntas frecuentes sobre Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimización {#optimization}

@@ -2,21 +2,21 @@
 title: Monedas admitidas
 description: Consulte una lista de las monedas admitidas.
 feature: DSP Custom Reports, DSP Campaign Data Views
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+exl-id: 7cbce17b-12f0-49e5-8acd-adf9b7d01557
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# Monedas admitidas en la publicidad de Adobe
 
-# Monedas admitidas en Adobe Advertising Cloud
-
-Advertising Cloud admite las siguientes monedas.
+Adobe La publicidad admite las siguientes monedas.
 
 >[!NOTE]
 >
->Adobe Analytics admite [un conjunto mayor de monedas](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html).
+>Compatibilidad con Adobe Analytics [un conjunto mayor de monedas](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html).
 
 ## DSP y creativo
 
@@ -46,6 +46,6 @@ Advertising Cloud admite las siguientes monedas.
 >
 > [!DNL DSP] proporciona facturación solo en las siguientes monedas: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD y USD.
 
-## Buscar
+## [!DNL Adobe Advertising Search]
 
-Todas las monedas admitidas por los motores de búsqueda admitidos. Es igual que [los admitidos por [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
+Todas las monedas admitidas por los motores de búsqueda admitidos. Esto es igual que [aquellos admitidos por [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).

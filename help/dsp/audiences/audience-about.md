@@ -1,18 +1,18 @@
 ---
-title: Acerca de la gestión de público en Advertising Cloud DSP
+title: Acerca de la gestión de público en las DSP publicitarias
 description: Obtenga información sobre las funciones de gestión de público.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1036'
 ht-degree: 0%
 
 ---
 
-# Acerca de la gestión de público en Advertising Cloud DSP
+# Acerca de la gestión de público en las DSP publicitarias
 
-En Advertising Cloud DSP, puede crear y administrar segmentos de audiencia y conjuntos de audiencias, que puede usar como destinatarios para sus ubicaciones:
+En DSP, puede crear y administrar segmentos de audiencia y conjuntos de audiencias, que puede usar como destinatarios para sus ubicaciones:
 
 * Puede recopilar sus propios datos de audiencia de origen creando e implementando segmentos. Posteriormente, puede redirigirse a los usuarios del segmento mediante anuncios o evitar que los usuarios del segmento reciban anuncios. Puede crear los siguientes tipos de segmentos:
 
@@ -20,7 +20,7 @@ En Advertising Cloud DSP, puede crear y administrar segmentos de audiencia y con
 
    * [Segmentos de exclusión de CCPA](/help/dsp/audiences/ccpa-opt-out-segment-create.md) para realizar un seguimiento de los ID de usuario procedentes de solicitudes de exclusión de venta de consumidores en su sitio web, según la Ley de privacidad del consumidor de California (CCPA). Puede recuperar informes mensuales de los ID de usuario a partir de solicitudes de exclusión de venta.
 
-      Para obtener más información sobre la compatibilidad de Advertising Cloud con las solicitudes de exclusión de CCPA, consulte [Compatibilidad de Adobe Advertising Cloud con la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      Para obtener más información sobre la compatibilidad de la publicidad de Adobe con las solicitudes de exclusión de CCPA, consulte [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md).
 
 * Puede crear una biblioteca de audiencias de [audiencias reutilizables](/help/dsp/audiences/reusable-audience-create.md). Las audiencias guardadas se componen de cualquiera de los segmentos de audiencia disponibles y de cualquiera de las otras audiencias guardadas. Cualquier cambio que realice en una audiencia guardada se aplicará automáticamente a todas las ubicaciones que segmenten o excluyan la audiencia y a todas las demás audiencias que incluyan la audiencia guardada.
 
@@ -60,7 +60,7 @@ Puede dirigir las ubicaciones a todos los tipos de audiencias siguientes.
 
    Los segmentos de terceros incurren en tarifas adicionales, que se indican junto al nombre de cada segmento.
 
-* (Anunciantes con Adobe Experience Platform y [!DNL Real-Time CDP], Adobe Audience Manager o Adobe Analytics que solo usan etiquetas de conversión de JavaScript de Advertising Cloud) Todos los segmentos de audiencia de origen, segundo o terceros disponibles creados en [!DNL Real-Time CDP], creado en Audience Manager o publicado en Adobe Experience Cloud desde Audience Manager o [!DNL Analytics].
+* (Anunciantes con Adobe Experience Platform y [!DNL Real-Time CDP], Adobe Audience Manager o Adobe Analytics que solo usan etiquetas de conversión de JavaScript de publicidad de Adobe) Todos los segmentos de audiencia de origen, segundo o terceros disponibles creados en [!DNL Real-Time CDP], creado en Audience Manager o publicado en Adobe Experience Cloud desde Audience Manager o [!DNL Analytics].
 
    Los precios para el uso de los segmentos se negocian previamente y no se pueden ver en DSP.
 

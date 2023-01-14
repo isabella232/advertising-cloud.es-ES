@@ -1,18 +1,18 @@
 ---
-title: Macros de Advertising Cloud DSP
+title: Macros de DSP publicitario
 description: Haga referencia a las macros disponibles para el seguimiento general y para rastrear los clics en anuncios en pantalla de terceros.
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
 
-# Macros de Advertising Cloud DSP
+# Macros de DSP publicitario
 
-Una macro es un comando corto o abreviatura para una instrucción y normalmente sigue el formato `${MACRO_NAME}`. Las macros incluidas en el código creativo o en las URL de pulsación se expanden en una cadena de código más larga que el servidor de publicidad pueda comprender. El servidor de publicidad de Advertising Cloud DSP ejecuta macros cuando se publica o se hace clic en el anuncio.
+Una macro es un comando corto o abreviatura para una instrucción y normalmente sigue el formato `${MACRO_NAME}`. Las macros incluidas en el código creativo o en las URL de pulsación se expanden en una cadena de código más larga que el servidor de publicidad pueda comprender. El servidor de publicidad de DSP ejecuta macros cuando se presenta o se hace clic en el anuncio.
 
 Las macros del servidor de publicidad son útiles para pasar información importante a DSP o a servidores de publicidad de terceros. Las macros se utilizan habitualmente durante el tráfico de metadatos o código creativo personalizado o de terceros (como píxeles de terceros).
 
@@ -80,7 +80,7 @@ Para rastrear con precisión los clics de los anuncios que utilizan etiquetas de
 
 DSP inserta automáticamente las macros de clics de visualización en una etiqueta de visualización de terceros al:
 
-* Exportación de etiquetas de publicidad desde un socio de servidor de publicidad de Advertising Cloud <!-- [Needs PM confirmation.] -->
+* Exportar etiquetas de publicidad desde un socio de servidor de publicidad <!-- [Needs PM confirmation.] -->
 * Carga masiva [!DNL Flashtalking] o [!DNL Google DoubleClick for Advertisers] etiquetas de publicidad directamente en DSP
 
 Si falta una macro de clic al crear un anuncio en pantalla, DSP muestra un mensaje de advertencia en el que se le pide que inserte manualmente la macro de clic en pantalla adecuada en el área correcta de la etiqueta.

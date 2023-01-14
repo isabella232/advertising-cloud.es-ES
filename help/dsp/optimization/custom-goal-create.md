@@ -3,24 +3,24 @@ title: Crear un objetivo personalizado
 description: Crear un objetivo personalizado
 feature: DSP Optimization
 exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
-source-git-commit: 8aea9eb1358e23a5b25e0353ced80c1550fa0057
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Crear un objetivo personalizado
 
-Puede crear objetivos personalizados como *objetivos* en Advertising Cloud Search.
+Puede crear objetivos personalizados como *objetivos* en [!DNL Adobe Advertising Search].
 
-Para crear un objetivo personalizado, la cuenta de Advertising Cloud DSP debe estar vinculada a un [!DNL Search] cuenta con el mismo ID de organización de Adobe Experience Cloud, desde el [!DNL Search] configuración del cliente. Si la cuenta de DSP no está vinculada a un [!DNL Search] póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
+Para crear un objetivo personalizado, la cuenta de DSP debe estar vinculada a un [!DNL Search] cuenta con el mismo ID de organización de Adobe Experience Cloud, desde el [!DNL Search] configuración del cliente. Si la cuenta de DSP no está vinculada a un [!DNL Search] póngase en contacto con su [!DNL Adobe] equipo de la cuenta.
 
 >[!TIP]
 >
 >Consulte la [prácticas recomendadas para crear objetivos personalizados](custom-goal-best-practices.md) para obtener sugerencias sobre cómo configurar los objetivos personalizados.
 
-1. Inicie sesión en Advertising Cloud Search en (empresas estadounidenses) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) o (empresas de todos los demás países) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. Iniciar sesión [!DNL Adobe Advertising Search] at (empresas estadounidenses) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) o (empresas de todos los demás países) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Asegúrese de que las métricas que desea incluir en su objetivo se hayan rastreado, estén disponibles en el producto e incluyan un nombre para mostrar:
    1. En el menú principal, haga clic en **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Transaction Properties]**.
    1. Busque la métrica y asegúrese de que **[!UICONTROL Show in UI and Reports]** está habilitado para la métrica.
@@ -31,7 +31,7 @@ Para crear un objetivo personalizado, la cuenta de Advertising Cloud DSP debe es
    1. Introduzca la configuración del objetivo:
       1. En el **[!UICONTROL Change Objective Name]** , introduzca el nombre del objetivo.
 
-         El nombre del objetivo se mostrará en la variable [!UICONTROL Custom Goals] en la configuración del paquete de Advertising Cloud DSP.
+         El nombre del objetivo se mostrará en la variable [!UICONTROL Custom Goals] en la configuración del paquete de DSP.
 
       1. Asociar propiedades con el objetivo:
 
@@ -65,7 +65,7 @@ Para crear un objetivo personalizado, la cuenta de Advertising Cloud DSP debe es
       1. En la parte inferior de la configuración, haga clic en **[!UICONTROL Save]**.
 
 
-Una vez creado un objetivo, puede asignarlo a un paquete de Advertising Cloud DSP como objetivo personalizado cuando el objetivo de optimización sea &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; o &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
+Una vez creado un objetivo, puede asignarlo a un paquete de DSP como objetivo personalizado cuando el objetivo de optimización sea &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; o &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
 
 >[!TIP]
 >

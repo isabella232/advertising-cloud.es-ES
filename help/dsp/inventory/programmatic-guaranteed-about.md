@@ -3,16 +3,16 @@ title: Acerca de los Ofertas Garantizadas mediante Programación
 description: Obtenga información sobre las ofertas garantizadas mediante programación (PG) y qué SP están certificadas para proporcionarlas.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: 96f756b0f5239e2378d0a4da18335d909f96ab94
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # Acerca de los Ofertas Garantizadas mediante Programación
 
-Una operación garantizada mediante programación (PG) es una compra garantizada directamente con un editor a través de un ID de acuerdo (en lugar de hacerlo mediante etiquetas de servidor de publicidad). PG es más flexible para que usted y su editor lo gestionen, y proporciona más transparencia que las compras normales de etiquetas. La facturación y los informes se consolidan mediante Advertising Cloud DSP, lo que le ahorra tiempo.
+Una operación garantizada mediante programación (PG) es una compra garantizada directamente con un editor a través de un ID de acuerdo (en lugar de hacerlo mediante etiquetas de servidor de publicidad). PG es más flexible para que usted y su editor lo gestionen, y proporciona más transparencia que las compras normales de etiquetas. La facturación y los informes se consolidan mediante DSP, lo que le ahorra tiempo.
 
 ## Características de un acuerdo PG
 

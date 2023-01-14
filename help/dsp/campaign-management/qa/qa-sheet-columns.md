@@ -3,9 +3,9 @@ title: Columnas de hojas de cálculo descargadas o cargadas
 description: Haga referencia a las columnas en las hojas de cálculo de control de calidad de Excel descargadas y cargadas.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 12056598ae436123a867e6eaefde47657242dc73
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 | [!UICONTROL Basic] | [!UICONTROL Package Name] | Nombre del paquete principal, cuando corresponda. | — |
 | [!UICONTROL Goals] | [!UICONTROL Start Date] | La fecha de inicio de la colocación. | — |
 | [!UICONTROL Goals] | [!UICONTROL End Date] | La fecha de finalización de la colocación. | — |
-| [!UICONTROL Goals] | [!UICONTROL Day parting] | Si la parrilla de programación es *[!UICONTROL ON]* o *[!UICONTROL OFF]*.<br><b>Nota:</b> Para comprobar la programación real de parrilla de programación, abra la configuración de colocación en [!DNL DSP]. | — |
+| [!UICONTROL Goals] | [!UICONTROL Day parting] | Si la parrilla de programación es *[!UICONTROL ON]* o *[!UICONTROL OFF]*.<br><b>Nota:</b> Para comprobar la programación real de parrilla de programación, abra la configuración de colocación en DSP. | — |
 | [!UICONTROL Goals] | [!UICONTROL Budget] | El presupuesto de colocación, si hay uno. | Sí |
 | [!UICONTROL Goals] | [!UICONTROL Budget Interval] | El intervalo presupuestario: &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]* o *[!UICONTROL All Time]*.[!UICONTROL >Daily] | Sí |
 | [!UICONTROL Goals] | [!UICONTROL Optimization Goal] | El objetivo del paquete. | — |

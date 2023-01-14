@@ -3,16 +3,16 @@ title: Soluciones entre dispositivos
 description: Obtenga más información sobre las funciones entre dispositivos.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
 
 # Soluciones entre dispositivos
 
-La integración de Advertising Cloud DSP con [!DNL LiveRamp] permite ampliar la audiencia a todos los dispositivos conocidos de una persona, no solo a los dispositivos de su marca. La integración también proporciona restricción de frecuencia y medición de atribución en todos los dispositivos.
+La integración de Advertising DSP con [!DNL LiveRamp] permite ampliar la audiencia a todos los dispositivos conocidos de una persona, no solo a los dispositivos de su marca. La integración también proporciona restricción de frecuencia y medición de atribución en todos los dispositivos.
 
 Al utilizar un gráfico de dispositivos basado en personas compatible, puede:
 
@@ -76,9 +76,9 @@ Puede incluir las métricas siguientes en los informes personalizados:
 
 ## Medición de atribución basada en personas
 
-*Anunciantes con solo seguimiento de conversión de Advertising Cloud*
+*Anunciantes con solo seguimiento de conversión de publicidad de Adobe*
 
-Con la atribución basada en personas, puede atribuir conversiones que se produjeron en un dispositivo diferente al dispositivo en el que se produjo la exposición al contenido. La medición de atribución basada en personas está disponible en DSP, Advertising Cloud Search y Advertising Cloud Creative para anunciantes que hayan implementado píxeles de conversión de Advertising Cloud en sus sitios.
+Con la atribución basada en personas, puede atribuir conversiones que se produjeron en un dispositivo diferente al dispositivo en el que se produjo la exposición al contenido. La medición de atribución basada en personas está disponible en DSP, [!DNL Adobe Advertising Creative]y [!DNL Adobe Advertising Search] para anunciantes que hayan implementado píxeles de conversión de publicidad de Adobe en sus sitios.
 
 ### Habilitar la medición de atribución basada en personas
 

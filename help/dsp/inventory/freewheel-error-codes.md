@@ -3,18 +3,18 @@ title: Códigos de error para [!DNL FreeWheel] Envíos de publicidad
 description: Haga referencia a los códigos de error devueltos para los envíos de anuncios a [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 2eb93971-ba82-4de8-96c5-48524d628b70
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '677'
+ht-degree: 2%
 
 ---
 
 # Códigos de error para [!DNL FreeWheel] Envíos de publicidad
 
-Los mensajes de error para los envíos de anuncios fallidos pueden provenir de Advertising Cloud DSP o de [!DNL FreeWheel]. Los mensajes de error se muestran en la sección [!UICONTROL API Response] en la columna [[!UICONTROL Freewheel Status] cuadro de diálogo](freewheel-check-status.md).
+Los mensajes de error para los envíos de anuncios fallidos pueden provenir de la DSP publicitaria o de [!DNL FreeWheel]. Los mensajes de error se muestran en la sección [!UICONTROL API Response] en la columna [[!UICONTROL Freewheel Status] cuadro de diálogo](freewheel-check-status.md).
 
-## Errores internos de Advertising Cloud DSP
+## Errores internos DSP publicidad
 
 | Mensaje de error | Descripción | Pasos siguientes |
 |--- |--- |--- |

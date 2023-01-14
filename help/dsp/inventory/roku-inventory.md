@@ -1,24 +1,24 @@
 ---
 title: Uso [!DNL Roku] Inventario
-description: 'Obtenga información sobre DSP asociación con [!DNL Roku], incluidas las opciones de inventario, los proveedores de seguimiento de terceros aprobados y las prácticas recomendadas para [!DNL Roku]ubicaciones específicas de . '
+description: Obtenga información sobre DSP asociación con [!DNL Roku], incluidas las opciones de inventario, los proveedores de seguimiento de terceros aprobados y las prácticas recomendadas para [!DNL Roku]ubicaciones específicas de .
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
 
 # Uso [!DNL Roku] Inventario
 
-Advertising Cloud DSP proporciona funciones únicas para la publicidad en [!DNL Roku].
+Los DSP publicitarios proporcionan características únicas para la publicidad en [!DNL Roku].
 
-## Advertising Cloud DSP y [!DNL Roku] Asociación
+## El DSP y [!DNL Roku] Asociación
 
-Roku y Advertising Cloud DSP tienen una asociación única que coincide con su [!DNL DSP] audiencias a [!DNL Roku] ID para segmentación de audiencia determinista 1:1 en [!DNL Roku] inventario.
+Roku y DSP tienen una asociación única que coincide con su [!DNL DSP] audiencias a [!DNL Roku] ID para segmentación de audiencia determinista 1:1 en [!DNL Roku] inventario.
 
-Fuera del propio DSP de Roku (OneView), Advertising Cloud DSP solo tiene acceso a estas capacidades de segmentación. Advertising Cloud DSP también es el único DSP con permiso para medir [!DNL Roku] al lado de todos los demás inventarios de TV conectada (CTV). Porque [!DNL Roku] no comparte todas las señales estándar de píxeles de impresión y RTB, ningún otro DSP puede dirigirse o medir en el suministro de CTV vendido por Roku.
+Fuera de la propia DSP de Roku (OneView), la DSP de publicidad tiene acceso exclusivo a estas capacidades de segmentación. La DSP publicitaria también es la única DSP con permiso para medir [!DNL Roku] al lado de todos los demás inventarios de TV conectada (CTV). Porque [!DNL Roku] no comparte todas las señales estándar de píxeles de impresión y RTB, ningún otro DSP puede dirigirse o medir en el suministro de CTV vendido por Roku.
 
 ## [!DNL Roku] Opciones de inventario
 

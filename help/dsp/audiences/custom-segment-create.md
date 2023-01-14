@@ -3,16 +3,16 @@ title: Crear e implementar un segmento personalizado
 description: Aprenda a crear e implementar un segmento personalizado para rastrear a los usuarios expuestos a publicidades o usuarios que visitan sus páginas web.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
 # Crear e implementar un segmento personalizado
 
-Puede recopilar sus propios datos de audiencia de origen creando e implementando un segmento de Advertising Cloud personalizado. Puede utilizar el segmento para realizar el seguimiento de a) usuarios expuestos a anuncios de dispositivos de escritorio, móviles y CTV y b) usuarios que visitan páginas web específicas. Posteriormente, puede redirigirse a los usuarios del segmento con anuncios adicionales o evitar que los usuarios del segmento reciban anuncios adicionales.
+Puede recopilar sus propios datos de audiencia de origen creando e implementando un segmento de DSP personalizado. Puede utilizar el segmento para realizar el seguimiento de a) usuarios expuestos a anuncios de dispositivos de escritorio, móviles y CTV y b) usuarios que visitan páginas web específicas. Posteriormente, puede redirigirse a los usuarios del segmento con anuncios adicionales o evitar que los usuarios del segmento reciban anuncios adicionales.
 
 >[!NOTE]
 >

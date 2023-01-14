@@ -1,11 +1,11 @@
 ---
-source-git-commit: ee08ad4b0061d0a6e7459e92dc32f4f10d081451
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
 
 ---
-# Documentación diversa para Advertising Cloud
+# Documentación diversa para la publicidad de Adobe
 
 Esta carpeta es para archivos de imagen y otros archivos de recursos solo para archivos de la carpeta /privacy/ .
 

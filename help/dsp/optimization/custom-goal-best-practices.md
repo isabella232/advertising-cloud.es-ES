@@ -3,9 +3,9 @@ title: Prácticas recomendadas para crear un objetivo personalizado
 description: Conozca las prácticas recomendadas para crear objetivos personalizados con el fin de definir los eventos de éxito.
 feature: DSP Optimization, DSP Best Practices
 exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Si el objetivo de la campaña son los ingresos ([!UICONTROL Highest ROAS - Custo
 >
 > A [!UICONTROL Property Weight] de uno equivale a un valor de uno por cada $1 de ingresos de los que se realiza un seguimiento.
 >
-> Por ejemplo, una conversión de 250 dólares con una ponderación de uno se registra como 250 dólares. Si a la métrica de conversión se le asigna una ponderación de 0,5, entonces la conversión de 250 $ aparece como 125 $ en Advertising Cloud ( Conversión de 250 $ * 0,5 [!UICONTROL Property Weight] = $125).
+> Por ejemplo, una conversión de 250 dólares con una ponderación de uno se registra como 250 dólares. Si a la métrica de conversión se le asigna una ponderación de 0,5, entonces la conversión de 250 $ aparece como 125 $ en Publicidad de Adobe (Conversión de 250 $ * 0,5 [!UICONTROL Property Weight] = $125).
 
 ### Ejemplo de campaña con el[!UICONTROL Lowest CPA - Custom Goal]&quot; Objetivo de optimización
 
@@ -38,7 +38,7 @@ Si el objetivo de la campaña es el costo más bajo por adquisición (CPA) y sol
 >
 > A [!UICONTROL Property Weight] de uno equivale a un valor de uno para cada conversión de la que se realiza un seguimiento.
 >
-> Por ejemplo, si se realiza el seguimiento de 10 conversiones de envío de aplicación, se notifican 10 conversiones de envío de aplicación.  Si a la métrica de conversión se le asigna una ponderación de 0,5, entonces las 10 conversiones se informan como cinco (5) en Advertising Cloud (10 conversiones * 0.5 [!UICONTROL Property Weight] = 5).
+> Por ejemplo, si se realiza el seguimiento de 10 conversiones de envío de aplicación, se notifican 10 conversiones de envío de aplicación.  Si a la métrica de conversión se le asigna una ponderación de 0,5, entonces las 10 conversiones se informan como cinco (5) en Publicidad de Adobe (10 Conversiones * 0,5 [!UICONTROL Property Weight] = 5).
 
 ## Objetivos personalizados con varias propiedades
 

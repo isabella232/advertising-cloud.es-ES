@@ -2,9 +2,10 @@
 title: Configuración de anuncios de vídeo universal
 description: Consulte las descripciones de la configuración de publicidad disponible para los anuncios de vídeo universales.
 feature: DSP Ads
-source-git-commit: 2d344d2ae0438433eb679a5f31f471c2eac4fe26
+exl-id: 0be86b84-78f9-4429-a8b7-8195891875ca
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -43,7 +44,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (Los anuncios que solo utilizan etiquetas VAST; solo lectura) La etiqueta VAST de terceros que introdujo como fuente de publicidad.
 
-**[!UICONTROL Final VAST Tag]:** (Los anuncios que solo utilizan etiquetas VAST; solo lectura) La etiqueta VAST de terceros que ha introducido como fuente de publicidad con los [Macros de seguimiento de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) insertado, si procede.
+**[!UICONTROL Final VAST Tag]:** (Los anuncios que solo utilizan etiquetas VAST; solo lectura) La etiqueta VAST de terceros que ha introducido como fuente de publicidad con los [Advertising DSP tracking macros](/help/dsp/campaign-management/macros.md) insertado, si procede.
 
 **[!UICONTROL Wmode]:** El modo de ventana: *[!UICONTROL window]*, *[!UICONTROL transparent]* o *[!UICONTROL opaque]*. Si esta configuración no es aplicable, déjela en blanco.
 
@@ -75,5 +76,5 @@ Las siguientes opciones se aplican a cada píxel que cree o edite.
 >* [Crear una sola publicidad](ad-create.md)
 >* [Enumerar las ubicaciones asociadas a una publicidad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Especificaciones de la publicidad](ad-specs.md)
->* [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 

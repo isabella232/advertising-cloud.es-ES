@@ -1,10 +1,11 @@
 ---
-title: 'Activar segmentos autenticados de socios de ID duraderos '
+title: Activar segmentos autenticados de socios de ID duraderos
 description: Obtenga información sobre la activación de audiencias autenticadas mediante una solución de ID duradera.
 feature: DSP Audiences
-source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
+exl-id: 44635b74-1874-4781-bd1a-a4dadae049e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *Función beta*
 
-Para activar audiencias autenticadas mediante una solución de ID duradera en Advertising Cloud DSP, los segmentos deben traducirse a [!DNL RampIDs], que son reconocibles en un entorno bisible. Esto se puede lograr mediante:
+Para activar audiencias autenticadas a través de una solución de ID duradera dentro de Advertising DSP, los segmentos deben traducirse a [!DNL RampIDs], que son reconocibles en un entorno bisible. Esto se puede lograr mediante:
 
 * Aprovechamiento de la integración DSP con [!DNL Adobe Real-Time Customer Data Profile (CDP)] y [!DNL Adobe-LiveRamp Retrieval API].
 
@@ -49,7 +50,7 @@ Para activar audiencias autenticadas mediante una solución de ID duradera en Ad
 
    * Segmente los segmentos compartidos desde [!DNL LiveRamp] mediante el proceso de activación de segmentos estándar.
 
-   * Trabaje con su equipo de asistencia de Advertising Cloud para validar la distribución de datos correcta.
+   * Póngase en contacto con el equipo de soporte técnico de Advertising de Adobe para validar la distribución de datos adecuada.
 
 Para obtener más información sobre la integración de DSP con [!DNL LiveRamp], póngase en contacto con `adcloud-support@adobe.com`.
 
@@ -58,6 +59,6 @@ Para obtener más información sobre la integración de DSP con [!DNL LiveRamp],
 >* [Acerca de la activación de segmentos autenticados desde fuentes de audiencia](source-about.md)
 >* [Crear una fuente de audiencias para activar las audiencias de origen](source-create.md)
 >* [Configuración de fuente de audiencia](source-settings.md)
->* [Conexión de Adobe Advertising Cloud DSP](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Adobe Publicidad DSP conexión](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [Acerca de la gestión de público](/help/dsp/audiences/audience-about.md)
 

@@ -3,7 +3,7 @@ title: Duplicar ubicaciones
 description: Obtenga información sobre cómo duplicar una o más ubicaciones.
 feature: DSP Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -24,16 +24,27 @@ Duplique una o más ubicaciones para crear ubicaciones con configuraciones simil
 Consulte &quot;[Novedades no duplicadas](#placement-not-duplicated)&quot; para obtener una lista de los ajustes de ubicación que no están duplicados.
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
+
 1. Haga clic en el nombre de la campaña.
+
 1. En el submenú, haga clic en **[!UICONTROL Placements]**.
+
 1. Realice una de las siguientes acciones:
+
    * Para duplicar una ubicación, haga clic en  **[!UICONTROL ...]>[!UICONTROL Duplicate]** junto al nombre del paquete.
+
    * Para duplicar varias ubicaciones:
+
       1. Seleccione la casilla de verificación situada junto a cada ubicación que desee duplicar.
+
       1. En la barra de herramientas de acciones masivas, haga clic en **[!UICONTROL Duplicate]**.
+
 1. Especifique la nueva configuración de ubicación:
+
    1. (Colocaciones únicas) Introduzca el nuevo nombre de la colocación.
+
    1. En el **[!UICONTROL Choose Package (Required)]** , seleccione el paquete principal o **[!UICONTROL No package]*.
+
    1. (Opcional) Cambie la configuración predeterminada.
 
    La configuración se aplica a todas las ubicaciones seleccionadas.

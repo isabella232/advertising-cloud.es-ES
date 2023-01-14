@@ -2,16 +2,16 @@
 title: Especificaciones de anuncios específicos del editor
 description: Haga referencia a las especificaciones de publicidad para editores compatibles.
 feature: DSP Ads
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # Especificaciones de anuncios específicos del editor
 
-Algunos editores tienen especificaciones publicitarias más estrictas que las de Advertising Cloud [especificaciones generales de publicidad](/help/dsp/campaign-management/ads/ad-specs.md).  Cuando las especificaciones del editor sean más estrictas que las de Advertising Cloud, asegúrese de seguir las especificaciones del editor.
+Algunos editores tienen especificaciones publicitarias más estrictas que el Adobe Publicidad [especificaciones generales de publicidad](/help/dsp/campaign-management/ads/ad-specs.md). Cuando las especificaciones del editor sean más estrictas que las especificaciones de publicidad de Adobe, asegúrese de seguir las especificaciones del editor.
 
 Los siguientes vínculos le conducen a las especificaciones publicitarias de algunos de los editores con requisitos más estrictos.
 

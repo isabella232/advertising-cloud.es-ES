@@ -1,16 +1,16 @@
 ---
-title: Acerca de la administración de ubicaciones en Advertising Cloud DSP
+title: Acerca de la administración de la ubicación en los DSP publicitarios
 description: Obtenga información sobre la administración de ubicaciones.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: c6a3d9703d06a44e38aae3bc6ec3f5f77e93082d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
-# Acerca de la administración de ubicaciones en Advertising Cloud DSP
+# Acerca de la administración de la ubicación en los DSP publicitarios
 
 Una ubicación incluye parámetros de objetivo para una o más publicidades del mismo tipo de publicidad. Puede crear una colocación para una sola campaña o paquete y luego asignarle publicidades. Cada campaña o colocación puede incluir varias ubicaciones, con una rotación de anuncios especificada. De forma predeterminada, las publicidades giran de manera uniforme.
 

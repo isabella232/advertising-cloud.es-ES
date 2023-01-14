@@ -1,29 +1,30 @@
 ---
-title: Segmentos de estado aceptables para Adobe Advertising Cloud
+title: Adobe Publicidad Segmentos de Salud Aceptables
 description: Consulte las directrices para segmentos de audiencia relacionados con el estado aceptables y las tácticas para utilizarlos como alternativas para segmentar segmentos de audiencia relacionados con el estado.
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: fd4fdf5e-9159-4a89-8447-12051deae61b
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
-# Directrices de segmentos de mantenimiento aceptables para Adobe Advertising Cloud
+# Directrices de segmentos de mantenimiento aceptables para publicidad de Adobe
 
-*Para Adobe Advertising Cloud DSP y Adobe Advertising Cloud Search*
+*Para DSP publicitarias de Adobe y[!DNL Adobe Advertising Search]*
 
 Las siguientes directrices describen segmentos de audiencia inaceptables y aceptables relacionados con el estado de salud. También recomiendan tácticas para usar como alternativas a la segmentación de segmentos de audiencia relacionados con el estado.
 
 Estas directrices se resumen a partir de la [!DNL Network Advertising Alliance (NAI)].
 
-Consulte también [Política de requisitos de Advertising Cloud Ads](/help/policies/ad-requirements-policy.md) para determinar si un segmento de audiencia relacionado con el estado se puede utilizar según la política de segmentación de Adobe Advertising Cloud.
+Consulte también [Política de requisitos de anuncios de Adobe](/help/policies/ad-requirements-policy.md) para determinar si un segmento de audiencia relacionado con el estado se puede utilizar según la política de segmentación de anuncios de Adobe.
 
 ## Segmentos de mantenimiento que no deben usarse
 
 * Segmentos que se basan en información de salud protegida (PHI)\*, registros médicos a nivel de usuario, recetas farmacéuticas o fuentes médicas o de salud similares que proporcionan conocimientos reales sobre el estado o tratamiento de ese usuario.
 
-   \* Adobe Advertising Cloud no es un [!DNL HIPAA]solución lista para usar.
+   \* La publicidad de Adobe no es [!DNL HIPAA]solución lista para usar.
 
 * Segmentos dirigidos a enfermedades (o tratamientos relacionados), como cualquier forma de cáncer, salud mental, adicción a las drogas, enfermedades de transmisión sexual, enfermedades que afectan predominantemente a los niños u otras enfermedades sensibles que no se pueden tratar con medicamentos de venta libre (por ejemplo, diabetes, psoriasis, artritis reumatoide o fibromialgia de enfermedades).
 

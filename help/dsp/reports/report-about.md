@@ -3,7 +3,7 @@ title: Acerca de los informes personalizados
 description: Obtenga información sobre las opciones para crear informes personalizados manualmente o mediante plantillas de informe preconfiguradas.
 feature: DSP Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Puede generar informes una vez o programarlos para que se generen diariamente, s
       >
       >Este informe incluye datos sobre el segmento de facturación. Si a un usuario o dispositivo se le presenta una impresión que pertenece a varios segmentos, solo se le atribuye la impresión a un segmento facturable.
 
-   * **[!UICONTROL Conversion]:** Utilice este informe para comprender el rendimiento de sus campañas en función de las métricas de conversión capturadas mediante el seguimiento de conversión de Advertising Cloud. Este informe incluye atribución multitáctil.
+   * **[!UICONTROL Conversion]:** Utilice este informe para comprender el rendimiento de sus campañas en función de las métricas de conversión capturadas mediante el seguimiento de conversión de anuncios de Adobe. Este informe incluye atribución multitáctil.
 
    * **[!UICONTROL Device]:** Utilice esta plantilla rellenada previamente para ver las métricas clave por dimensiones relacionadas con el dispositivo.
 

@@ -1,20 +1,20 @@
 ---
-title: Acerca de la administración de publicidad en Advertising Cloud DSP
+title: Acerca de la administración de publicidad en los DSP publicitarios
 description: Obtenga información sobre la administración de publicidades.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
 
-# Acerca de la administración de publicidad en Advertising Cloud DSP
+# Acerca de la administración de publicidad en los DSP publicitarios
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-Advertising Cloud DSP admite la entrega de anuncios a través de etiquetas de servicios de publicidad de terceros (como Google, Flashtalk o Sizmek) para varios tipos de anuncios y la carga directa de recursos para anuncios en pantalla nativos. Puede cargar etiquetas de terceros de forma individual o masiva. Las cargas masivas utilizan hojas de etiquetas de socios o una plantilla de etiquetas masiva.
+DSP admite la entrega de anuncios a través de etiquetas de servicios de publicidad de terceros (como Google, Flashtalk o Sizmek) para varios tipos de anuncios y la carga directa de recursos para anuncios en pantalla nativos. Puede cargar etiquetas de terceros de forma individual o masiva. Las cargas masivas utilizan hojas de etiquetas de socios o una plantilla de etiquetas masiva.
 
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
@@ -23,7 +23,7 @@ Una vez configuradas las publicidades, deberá adjuntarlas a una ubicación, que
 
 ## Tipos de anuncios disponibles {#ad-types}
 
-Todos los siguientes tipos de anuncios están disponibles en Advertising Cloud DSP. Para obtener especificaciones completas para cada tipo de anuncio, consulte la [Especificaciones de la publicidad](ad-specs.md).
+Todos los siguientes tipos de anuncios están disponibles en DSP. Para obtener especificaciones completas para cada tipo de anuncio, consulte la [Especificaciones de la publicidad](ad-specs.md).
 
 * **Anuncios de audio (solo de terceros)**: Los anuncios de audio se reproducen entre el contenido en sitios de editores digitales y se pueden ejecutar de forma independiente como archivos de audio o junto con banners complementarios. El audio se utiliza mejor para aumentar la conciencia de la marca y captar la atención de las audiencias en uso. Los indicadores de rendimiento clave para el audio incluyen [!UICONTROL Completion Rate] y [!UICONTROL Cost per Completion].
 
@@ -39,9 +39,9 @@ Todos los siguientes tipos de anuncios están disponibles en Advertising Cloud D
 
 * **Anuncios de vídeo universales (solo de terceros)**: Los anuncios de vídeo universal combinan todas las capacidades de los anuncios de TV, anuncio previo a la emisión y anuncios previos a la emisión móvil (VAST y VPAID) conectados en uno y se muestran antes y durante el contenido de vídeo. La publicidad de vídeo universal se puede usar al segmentar el inventario de vídeo de los entornos de escritorio, móviles y TV conectada, y por lo tanto evita la necesidad de crear varios anuncios de vídeo. Los indicadores de rendimiento clave para el vídeo universal incluyen [!UICONTROL Completion Rate] y [!UICONTROL Viewability Rate].
 
-## Aprobaciones de anuncios de Advertising Cloud DSP
+## Aprobaciones de anuncios de DSP
 
-Cuando cree una publicidad, Advertising Cloud DSP la revisa para categorías delicadas, hace clic en la funcionalidad URL y obtiene una vista previa de la renderización.
+Cuando cree una publicidad, DSP la revisa para categorías delicadas, haga clic en la funcionalidad URL y previsualice la renderización.
 
 Inicialmente, verá un punto rojo en la [!UICONTROL Status] para abrir el Navegador. El proceso de revisión suele tardar entre 24 y 48 horas. Sin embargo, un anuncio roto puede tener un estado pendiente durante más de 48 horas, por lo que tiene tiempo para corregir errores antes de que se rechace el anuncio. Los anuncios rechazados incluyen un motivo del rechazo.
 

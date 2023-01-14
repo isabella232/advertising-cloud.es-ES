@@ -1,18 +1,18 @@
 ---
-title: Información general sobre Campaign Management en Advertising Cloud DSP
+title: Descripción general de Campaign Management en Advertising DSP
 description: Obtenga información sobre la jerarquía y los componentes de administración de campañas.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-# Información general sobre Campaign Management en Advertising Cloud DSP
+# Descripción general de Campaign Management en Advertising DSP
 
-Las campañas de Advertising Cloud DSP tienen la siguiente jerarquía:
+DSP campañas tienen la siguiente jerarquía:
 
 * Campaign
    * Paquete(s)
@@ -20,7 +20,7 @@ Las campañas de Advertising Cloud DSP tienen la siguiente jerarquía:
          * Anuncios
 
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
-In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
+In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
 
 ## [!UICONTROL Campaigns]
@@ -49,7 +49,7 @@ Todos los anuncios activos y aprobados de una colocación activa en una campaña
 
 >[!MORELIKETHIS]
 >
->* [Acerca de la administración de campañas](/help/dsp/campaign-management/campaigns/campaign-about.md)
+>* [Acerca de Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
 >* [Acerca de la administración de paquetes](/help/dsp/campaign-management/packages/package-about.md)
 >* [Acerca de la administración de ubicaciones](/help/dsp/campaign-management/placements/placement-about.md)
 >* [Acerca de la administración de publicidad](/help/dsp/campaign-management/ads/ad-about.md)

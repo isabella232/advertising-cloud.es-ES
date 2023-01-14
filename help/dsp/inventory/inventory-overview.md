@@ -1,18 +1,18 @@
 ---
-title: Descripción general de las funciones de inventario en Advertising Cloud DSP
+title: Descripción general de las funciones de inventario de las DSP publicitarias
 description: Obtenga más información sobre las funciones de inventario disponibles.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Descripción general de las funciones de inventario en Advertising Cloud DSP
+# Descripción general de las funciones de inventario de las DSP publicitarias
 
-Advertising Cloud DSP puede satisfacer sus necesidades de inventario, tanto si desea buscar escala con el inventario público como si desea buscar escala entre los editores premium con [!DNL On Demand], o configurar una relación de mercado privado (PMP) 1:1 con un editor para activarla con audiencias o sitios específicos. Los objetivos de su campaña le ayudan a dictar qué tipo de inventario se adapta mejor a las necesidades de rendimiento de su campaña. Las integraciones con las principales plataformas de suministro (SSP) permiten una configuración y activación sin problemas de sus PMP.
+DSP puede satisfacer sus necesidades de inventario, tanto si desea buscar escalas con el inventario público, encontrar escalas entre los editores premium con [!DNL On Demand], o configurar una relación de mercado privado (PMP) 1:1 con un editor para activarla con audiencias o sitios específicos. Los objetivos de su campaña le ayudan a dictar qué tipo de inventario se adapta mejor a las necesidades de rendimiento de su campaña. Las integraciones con las principales plataformas de suministro (SSP) permiten una configuración y activación sin problemas de sus PMP.
 
 Una vez que acceda a sus ofertas de inventario o las identifique en DSP, puede utilizarlas como objetivos de ubicación para sus campañas.
 

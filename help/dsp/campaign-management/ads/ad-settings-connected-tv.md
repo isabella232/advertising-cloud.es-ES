@@ -3,9 +3,9 @@ title: Configuración de anuncios de TV conectados
 description: Consulte las descripciones de la configuración de publicidad disponible para los anuncios de TV conectados.
 feature: DSP Ads
 exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Es igual que la variable **[!UICONTROL Height]** campo .
 
 **[!UICONTROL VAST Tag]:** (Los anuncios que solo utilizan etiquetas VAST; solo lectura) La etiqueta VAST de terceros que introdujo como fuente de publicidad.
 
-**[!UICONTROL Final VAST Tag]:** (Los anuncios que solo utilizan etiquetas VAST; solo lectura) La etiqueta VAST de terceros que ha introducido como fuente de publicidad con los [Macros de seguimiento de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) insertado, si procede.
+**[!UICONTROL Final VAST Tag]:** (Los anuncios que solo utilizan etiquetas VAST; solo lectura) La etiqueta VAST de terceros que ha introducido como fuente de publicidad con los [Advertising DSP tracking macros](/help/dsp/campaign-management/macros.md) insertado, si procede.
 
 **[!UICONTROL Clock Number]**: (Utilizado únicamente en el Reino Unido; disponible solo para usuarios con permiso) Identificador único utilizado para garantizar que se emite el anuncio correcto. Si esta configuración no es aplicable, déjela en blanco.
 
@@ -84,5 +84,5 @@ Las siguientes opciones se aplican a cada píxel que cree o edite.
 >* [Crear una sola publicidad](ad-create.md)
 >* [Enumerar las ubicaciones asociadas a una publicidad](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Especificaciones de la publicidad](ad-specs.md)
->* [Macros de Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 

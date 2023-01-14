@@ -1,24 +1,24 @@
 ---
-title: '"[!DNL Analytics] Datos en Advertising Cloud"'
-description: '"[!DNL Analytics] Datos en Advertising Cloud"'
+title: "[!DNL Analytics] Datos en publicidad de Adobe"
+description: "[!DNL Analytics] Datos en publicidad de Adobe"
 feature: Integration with Adobe Analytics
 exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
-source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# [!DNL Analytics] Datos en Advertising Cloud
+# [!DNL Analytics] Datos en publicidad de Adobe
 
-*Anunciantes con solo integración Advertising Cloud-Adobe Analytics*
+*Anunciantes con Adobe de solo integración de Advertising-Adobe Analytics*
 
 ## Segmentos de Analytics
 
 Todos los segmentos creados en [!DNL Analytics] y publicado para el Experience Cloud.
 
-Los nuevos segmentos tardan entre 24 y 48 horas en aparecer en Advertising Cloud. Las actualizaciones de los segmentos existentes se sincronizan en un plazo aproximado de ocho horas.
+Los nuevos segmentos tardan entre 24 y 48 horas en aparecer en la publicidad de Adobe. Las actualizaciones de los segmentos existentes se sincronizan en un plazo aproximado de ocho horas.
 
 <!-- I added "metric" to some of the links below, even though it looks redundant, because of syntax limitations: If you use [!DNL] or [!UICONTROL] as the sole text of a link (such as [[!UICONTROL Revenue]], the tag is included in the link text (such as "[!UICONTROL Revenue]") when it's published. -->
 
@@ -26,8 +26,8 @@ Los nuevos segmentos tardan entre 24 y 48 horas en aparecer en Advertising Cloud
 
 >[!NOTE]
 >
->* [!DNL Analytics] pasa eventos para el eVar de EF ID a Advertising Cloud.  La integración predeterminada no admite el envío de métricas calculadas u otras dimensiones (eVars) a Advertising Cloud. Sin embargo, si la métrica calculada se puede capturar por completo en un evento personalizado, Advertising Cloud puede introducir el evento personalizado.
->* [!DNL Analytics] pasa datos a Advertising Cloud por hora.
+>* [!DNL Analytics] pasa eventos para el eVar de EF ID a la publicidad de Adobe.  La integración predeterminada no admite el envío de métricas calculadas u otras dimensiones (eVars) a Publicidad de Adobe. Sin embargo, si la métrica calculada se puede capturar por completo en un evento personalizado, la publicidad de Adobe puede ingerir el evento personalizado.
+>* [!DNL Analytics] pasa datos a Adobe Advertising por hora.
 
 
 * [!UICONTROL Timespent_secs_1stvisit]: El número de segundos empleados en el sitio durante la primera visita del visitante.
@@ -40,7 +40,7 @@ Los nuevos segmentos tardan entre 24 y 48 horas en aparecer en Advertising Cloud
 
 ## Métricas de conversión
 
-[!DNL Analytics] pasa métricas de conversión a Advertising Cloud diariamente.
+[!DNL Analytics] pasa métricas de conversión a Adobe Advertising diariamente.
 
 ### Métricas de conversión estándar
 
@@ -63,6 +63,6 @@ Estas métricas son específicas del grupo de informes, por lo que las métricas
 
 >[!MORELIKETHIS]
 >
->* [Información general sobre [!DNL Analytics for Advertising Cloud]](overview.md)
->* [Métricas de Advertising Cloud en Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
+>* [Información general sobre [!DNL Analytics for Advertising]](overview.md)
+>* [Métricas de publicidad de Adobe en Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
 

@@ -3,9 +3,9 @@ title: Acerca de [!DNL On Demand] Inventario Premium
 description: Obtenga información sobre las ofertas que DSP ha negociado previamente con socios de editor premium.
 feature: DSP On Demand Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,24 @@ ht-degree: 0%
 
 *No disponible para los usuarios con tipos de cuenta [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension]y [!UICONTROL Other]; anunciantes con la categoría [!UICONTROL Other]; y distribuidores*
 
-La variable [!DNL On Demand] Gallery es una herramienta de detección de inventario de primera calidad para explorar acuerdos previamente negociados que Advertising Cloud DSP ha seleccionado con socios de editor premium. Le permite acceder al inventario no garantizado de los editores de nivel superior de la región sin necesidad de negociaciones o contratos 1:1. Puede solicitar ofertas individuales y puede suscribirse a un editor para solicitar todas las ofertas del editor a la vez.
+La variable [!DNL On Demand] Gallery es una herramienta de descubrimiento de inventario premium para explorar acuerdos previamente negociados que DSP ha seleccionado con socios de editores premium. Le permite acceder al inventario no garantizado de los editores de nivel superior de la región sin necesidad de negociaciones o contratos 1:1. Puede solicitar ofertas individuales y puede suscribirse a un editor para solicitar todas las ofertas del editor a la vez.
 
-El mercado de Advertising Cloud DSP Premium le permite:
+El mercado DSP premium le permite:
 
 * Active rápida y fácilmente el nuevo inventario para mejorar la escala y la eficiencia
 
    Los estudios han demostrado que activar las ofertas de mercado privadas dentro de [!DNL DSP] las plataformas ahorran tiempo y son más eficientes.
 
 * Explorar nuevos editores y formatos
+
 * Descubra nuevas audiencias y estrategias
+
 * Ampliar alcance único
+
 * Acceder automáticamente a los editores que no están disponibles en el mercado abierto
+
 * Acceder automáticamente a eventos en directo (como eventos NBA, NFL y NHL)
+
 * Seguimiento del rendimiento con informes consolidados
 
 Una vez aprobada una oferta, está disponible como destino para ubicaciones existentes y se incluye automáticamente como destino para nuevas ubicaciones que se dirigen a todas [!DNL On Demand] inventario. Si se deniega una solicitud de acuerdo, puede trabajar con su [!DNL Adobe] equipo de la cuenta para resolver el problema y volver a solicitar el acuerdo.

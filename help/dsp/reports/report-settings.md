@@ -3,9 +3,9 @@ title: Configuración de informes personalizados
 description: Consulte las descripciones de la configuración de informes personalizada.
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ Para aplicar uno o más filtros, haga lo siguiente:
 
 **[!UICONTROL Report Headers]:** Si lo hace *[!UICONTROL Include]* o *[!UICONTROL Do Not Include]* encabezados de columna.
 
-**[!UICONTROL Attribution Rule Settings]:** (Todos [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]y [!UICONTROL Site] informes con [!UICONTROL Conversion Metrics] o [!UICONTROL Custom Goals] columnas; anunciantes con solo seguimiento de conversión de Advertising Cloud) Dentro del informe, cómo atribuir datos de conversión en una serie de eventos que conducen a una conversión. Puede elegir más de una regla si desea comparar las diferencias entre las reglas.
+**[!UICONTROL Attribution Rule Settings]:** (Todos [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]y [!UICONTROL Site] informes con [!UICONTROL Conversion Metrics] o [!UICONTROL Custom Goals] columnas; anunciantes con Adobe (solo seguimiento de conversión de publicidad) Dentro del informe, cómo atribuir datos de conversión en una serie de eventos que conducen a una conversión. Puede elegir más de una regla si desea comparar las diferencias entre las reglas.
 
 >[!NOTE]
 >
->Las rutas de conversión incluyen todas las impresiones y clics dentro de las ventanas de retrospectiva de clics o impresiones del anunciante, que están configuradas en Advertising Cloud Search. Los clics tienen preferencia sobre las impresiones durante la atribución de conversión. Cualquier clic en una ruta de conversión recibe crédito completo en función de la regla de atribución. Las impresiones reciben crédito solo cuando no se realiza un seguimiento de ningún clic en la ruta de conversión.
+>Las rutas de conversión incluyen todas las impresiones y clics dentro de las ventanas de retrospectiva de clics o impresiones del anunciante, que están configuradas en [!DNL Adobe Advertising Search]. Los clics tienen preferencia sobre las impresiones durante la atribución de conversión. Cualquier clic en una ruta de conversión recibe crédito completo en función de la regla de atribución. Las impresiones reciben crédito solo cuando no se realiza un seguimiento de ningún clic en la ruta de conversión.
 
 * *[!UICONTROL Last Event]:* Atributos conversiones al último clic o impresión en la ruta de conversión.
 
@@ -75,11 +75,11 @@ Para aplicar uno o más filtros, haga lo siguiente:
 
 * *[!UICONTROL U-shaped]:* Atribuye la conversión a todos los eventos de la ruta de conversión, pero da mayor peso a los eventos primero y último, con una importancia sucesiva menor a los eventos de la mitad de la ruta de conversión.
 
-* *[!UICONTROL Display Only]:*  Atributos conversiones al último clic o impresión DSP en la ruta de conversión. Esto incluye vídeo y anuncios de TV conectados, y excluye los clics en anuncios de Advertising Cloud Search.
+* *[!UICONTROL Display Only]:*  Atributos conversiones al último clic o impresión DSP en la ruta de conversión. Esto incluye vídeo y anuncios de TV conectados, y excluye los clics en [!DNL Adobe Advertising Search] anuncios.
 
 * *[!UICONTROL Social Only]:* Obsoleto
 
-<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising Cloud](). -->
+<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
 
 **[!UICONTROL Paths as Columns]:**  (Todos [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]y [!UICONTROL Site] informes con [!UICONTROL Conversion Metrics] o [!UICONTROL Custom Goals] (columnas) Qué tipos de conversiones informar cuando se produjeron eventos anteriores en el mismo dispositivo. Se pueden incluir hasta tres tipos. Para cada tipo seleccionado, se incluye una columna separada para cada métrica de conversión y se anexa el sufijo especificado ([!UICONTROL (tl)], [!UICONTROL (ct)]o [!UICONTROL (vt)]):
 

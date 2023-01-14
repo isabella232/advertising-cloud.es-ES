@@ -3,16 +3,16 @@ title: Prácticas recomendadas para configurar campañas de rendimiento
 description: Conozca las prácticas recomendadas para configurar sus campañas centradas en el rendimiento, que incluyen ubicaciones optimizadas para la CPA más baja o el ROAS más alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1249'
+source-wordcount: '1247'
 ht-degree: 0%
 
 ---
 
 # Prácticas recomendadas para configurar campañas de rendimiento
 
-Advertising Cloud puede optimizar sus campañas centradas en el rendimiento para ubicaciones con el menor coste por adquisición (CPA) o el mayor retorno en gasto publicitario (ROAS).
+DSP optimizar sus campañas centradas en el rendimiento para ubicaciones con el menor coste por adquisición (CPA) o el mayor retorno en gasto publicitario (ROAS).
 
 Consulte las siguientes prácticas recomendadas para campañas de rendimiento:
 
@@ -55,7 +55,7 @@ Los paquetes de canal más bajos incluyen ubicaciones dirigidas a usuarios que y
 
 #### Estrategias de colocación recomendadas para redireccionamiento
 
-* Si el anunciante es un cliente de Adobe Analytics o Adobe Audience Manager, puede generar segmentos de origen (como visitantes de página de inicio, páginas de producto o usuarios que abandonan el carro de compras) y usarlos como destinos de ubicación en Advertising Cloud.
+* Si el anunciante es un cliente de Adobe Analytics o Adobe Audience Manager, puede generar segmentos de origen (como visitantes de página de inicio, páginas de producto o usuarios que abandonan el carro de compras) y usarlos como destinos de ubicación en DSP.
 
 * Evite asignar demasiado presupuesto a una ubicación dirigida a audiencia. Como regla general, prevea $30 por 1.000 usuarios al mes.
 

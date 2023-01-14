@@ -1,16 +1,16 @@
 ---
-title: Acerca de la administración de paquetes en Advertising Cloud DSP
+title: Acerca de la administración de paquetes en las DSP publicitarias
 description: Obtenga información sobre la administración de paquetes.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Acerca de la administración de paquetes en Advertising Cloud DSP
+# Acerca de la administración de paquetes en las DSP publicitarias
 
 Utilice paquetes para agrupar ubicaciones para su envío a un presupuesto, un objetivo de rendimiento y una estrategia de ritmo personalizada. DSP optimiza los paquetes cambiando los presupuestos a las ubicaciones con mejor rendimiento del paquete. Puede organizar los paquetes por formato de ubicación, tipo de inventario, proveedor de datos, persona u otras características distinguibles. Los paquetes son opcionales.
 

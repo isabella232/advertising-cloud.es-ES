@@ -3,9 +3,9 @@ title: Seguridad de la marca y calidad de los medios
 description: Obtenga más información sobre la seguridad de la marca y las funciones de calidad de los medios.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: b436936e3a0edcb78497fadb6f3c4086412baaa5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1350'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <!-- Check on logo sizes in staging environment -- I made them all 100 pixels high except for DoubleVerify, which is 150 (harder to see at 100), but some instances look larger in VS Code. -->
 
-Advertising Cloud DSP proporciona un conjunto de funciones de protección de marca para garantizar que cada una de las campañas llegue a usuarios reales en un entorno seguro para la marca.
+La DSP publicitaria proporciona un conjunto de funciones de protección de marca para garantizar que cada una de las campañas llegue a usuarios reales en un entorno seguro para la marca.
 
 Nuestro equipo de vigilancia del fraude trabaja en estrecha colaboración con socios líderes de la industria, como el [!DNL Interactive Advertising Bureau], [!DNL Trust and Accountability Group] [!DNL (TAG)]y [!DNL WhiteOps], para depurar cuidadosamente el inventario en nuestra plataforma. Mediante la administración proactiva de nuestro suministro, DSP garantiza que todos los anunciantes de la plataforma estén protegidos contra el tráfico no humano (bots, rastreadores, tráfico del centro de datos y fraude) y que se entreguen únicamente en contextos seguros para la marca.
 
-Además de proporcionar una gestión de calidad central, creemos en que los anunciantes puedan diseñar los controles que se ajusten a su marca. Adobe Advertising Cloud ofrece integraciones con [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud]y [!DNL Peer39], lo que garantiza que cada anunciante pueda elegir el nivel deseado de protección contra el fraude, filtrado contextual y segmentación por palabras clave.
+Además de proporcionar una gestión de calidad central, creemos en que los anunciantes puedan diseñar los controles que se ajusten a su marca. DSP ofrece integraciones con [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud]y [!DNL Peer39], lo que garantiza que cada anunciante pueda elegir el nivel deseado de protección contra el fraude, filtrado contextual y segmentación por palabras clave.
 
-## Iniciativas de calidad de Advertising Cloud DSP
+## Iniciativas de calidad
 
 ### Verificación de inventario con [!DNL Ads.txt] Asistencia
 
@@ -66,17 +66,17 @@ La asignación de inventario es el proceso detallado de revisión e incorporaci�
 
    * **[!UICONTROL T3]** - Contenido generado por el usuario y contenido de nicho
 
-* **Clasificación del sitio:** Para garantizar un objetivo y bloqueo de contenido sencillo, etiquetamos cada propiedad con una categoría de sitio definida por Advertising Cloud basada en el contenido de la propiedad. Puede [dirigir o excluir estas categorías de sitio para cada ubicación](/help/dsp/campaign-management/placements/placement-settings.md) en función de los objetivos de colocación.
+* **Clasificación del sitio:** Para garantizar un objetivo y bloqueo de contenido sencillo, etiquetamos cada propiedad con una categoría de sitio definida DSP en función del contenido de la propiedad. Puede [dirigir o excluir estas categorías de sitio para cada ubicación](/help/dsp/campaign-management/placements/placement-settings.md) en función de los objetivos de colocación.
 
 ### Compatibilidad completa con el bloqueo de sitios
 
-Advertising Cloud DSP proporciona una lista de sitios bloqueados globalmente y la opción de crear listas de sitios bloqueados personalizadas para anunciantes y cuentas.
+DSP proporciona una lista de sitios bloqueados globalmente y la opción de crear listas de sitios bloqueados personalizadas para anunciantes y cuentas.
 
-#### Lista de sitios bloqueados globalmente de Advertising Cloud DSP {#global-blocked-sites}
+#### DSP lista de sitios bloqueados globalmente {#global-blocked-sites}
 
-Advertising Cloud DSP mantiene una lista de sitios bloqueados globalmente de los sitios considerados inseguros para ejecutar anuncios. Esta lista contiene sitios con contenido objetable (como odio o terror) y sitios infectados por bots, falsos dominios pre-roll, dominios no coincidentes y otra actividad fraudulenta.
+DSP mantiene una lista de sitios bloqueados globalmente de sitios considerados inseguros para ejecutar anuncios. Esta lista contiene sitios con contenido objetable (como odio o terror) y sitios infectados por bots, falsos dominios pre-roll, dominios no coincidentes y otra actividad fraudulenta.
 
-Como parte de nuestra iniciativa de seguridad de marca para erradicar las actividades que defraudan a los anunciantes, todos los sitios se analizan usando las medidas de la lista de sitios bloqueados del gráfico. Todos los sitios que no pasan las comprobaciones de seguridad de marca se agregan a la lista de sitios bloqueados globalmente. Dado que Advertising Cloud DSP administra esta lista de forma dinámica, los sitios pueden entrar o salir de la lista en cualquier momento, según el último análisis de seguridad de marca.
+Como parte de nuestra iniciativa de seguridad de marca para erradicar las actividades que defraudan a los anunciantes, todos los sitios se analizan usando las medidas de la lista de sitios bloqueados del gráfico. Todos los sitios que no pasan las comprobaciones de seguridad de marca se agregan a la lista de sitios bloqueados globalmente. Dado que DSP administra esta lista de forma dinámica, los sitios pueden entrar o salir de la lista en cualquier momento, según el último análisis de seguridad de la marca.
 
 Cuando se incluye un sitio en la lista de sitios bloqueados globalmente como destino de ubicación, el sitio se marca con un signo de exclamación rojo (!). Esto indica que las publicidades no se ejecutarán en el sitio marcado.
 

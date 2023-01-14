@@ -1,19 +1,20 @@
 ---
 title: Aspectos básicos de [!DNL Marketing Channels]
-description: Información clave sobre [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising Cloud] Los usuarios deben comprender.
+description: Información clave sobre [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising] Los usuarios deben comprender.
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 27b6fb07-0b63-4ff1-a316-20b9a2b60fe9
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 # Aspectos básicos de [!DNL Analytics Marketing Channels]
 
-*Anunciantes con solo integración Advertising Cloud-Adobe Analytics*
+*Anunciantes con Adobe de solo integración de Advertising-Adobe Analytics*
 
-Esta página explica información clave sobre [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising Cloud] Los usuarios deben comprender.
+Esta página explica información clave sobre [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising] Los usuarios deben comprender.
 
 Para obtener documentación completa, consulte [!DNL Marketing Channels], consulte &quot;[Introducción con [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html).&quot;
 
@@ -37,13 +38,13 @@ Otros canales no tienen rutas URL rastreables y necesitan lógica adicional para
 
 Adobe recomienda trabajar con su equipo de análisis para crear un conjunto completo de [!DNL Marketing Channels] reglas de procesamiento para rastrear todos los canales relevantes para su negocio. Al hacerlo, puede crear potentes informes de atribución.
 
-Para comprender cómo Advertising Cloud puede contribuir a las señales necesarias para crear canales de marketing personalizados, consulte &quot;[Uso de los ID de publicidad para crear [!DNL Marketing Channels] Reglas](mc-ids.md).&quot;
+Para comprender cómo la publicidad de Adobe puede contribuir a las señales necesarias para crear canales de marketing personalizados, consulte &quot;[Uso de los ID de publicidad para crear [!DNL Marketing Channels] Reglas](mc-ids.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [Uso de Advertising Cloud ID para crear [!DNL Marketing Channels] Reglas de procesamiento](mc-ids.md)
->* [Por qué los datos de canal pueden variar entre Advertising Cloud y [!DNL Marketing Channels]](mc-data-variances.md)
->* [Uso [!DNL Analytics Marketing Channels] con datos de Advertising Cloud](mc-ac-data.md)
->* [Vídeo: Creación de informes con Advertising Cloud [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
->* [Información general sobre [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md)
+>* [Uso de ID de publicidad de Adobe para crear [!DNL Marketing Channels] Reglas de procesamiento](mc-ids.md)
+>* [Por qué los datos de canal pueden variar entre la publicidad de Adobe y [!DNL Marketing Channels]](mc-data-variances.md)
+>* [Uso [!DNL Analytics Marketing Channels] con datos publicitarios de Adobe](mc-ac-data.md)
+>* [Vídeo: Uso [!DNL Marketing Channels] para informes publicitarios de Adobe](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Información general sobre [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
 

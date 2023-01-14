@@ -1,13 +1,13 @@
 ---
 title: Novedades
-description: Obtenga información sobre las actualizaciones de las integraciones entre Advertising Cloud y otros productos y servicios en Adobe Experience Cloud.
+description: Obtenga información sobre las actualizaciones de las integraciones entre Adobe Advertising y otros productos y servicios en Adobe Experience Cloud.
 cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: 136933f5304edd8f16b8dcb649860f0fb07cf3fb
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -18,24 +18,24 @@ Las siguientes funciones son nuevas o se han cambiado recientemente.
 
 | Fecha | Función | Descripción | Para obtener más información |
 | ---- | ------- | ----------- | -------------------- |
-| 1 de noviembre de 2022 | Ayuda | Un nuevo documento explica cómo implementar el uso compartido de señales de pulsaciones y visualizaciones entre Advertising Cloud DSP y Adobe Target, configurar una actividad de prueba A/B en [!DNL Target] para sus anuncios DSP y cómo configurar Adobe Analytics Analysis Workspace para que vea los datos de prueba. | Consulte &quot;[Configuración de pruebas A/B en Adobe Target para Advertising Cloud DSP Ads](/help/integrations/target/overview-ab-tests.md).&quot; |
-| 17 de agosto de 2022 | Ayuda | En un nuevo capítulo se explican todas las formas en que Advertising Cloud está integrado con Adobe Audience Manager. | Consulte el capítulo &quot;Integración con Adobe Audience Manager&quot;, que incluye información general sobre &quot;[Integraciones de Advertising Cloud con Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
-| 27 de abril de 2021 | [!DNL Analytics for Advertising Cloud] | Descubra por qué y cómo añadir [!DNL Analytics for Advertising Cloud] macros a su [!DNL Google Campaign Manager 360] etiquetas de publicidad para enviar datos de clics a Adobe Analytics. | Consulte &quot;[Anexar [!DNL Analytics for Advertising Cloud] Macros a [!DNL Google Campaign Manager 360] Etiquetas de publicidad](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
-| 19 de abril de 2021 | [!DNL Analytics for Advertising Cloud] | Descubra por qué y cómo anexar macros a su [!DNL Flashtalking] etiquetas de publicidad para enviar datos de clics a Adobe Analytics. | Consulte &quot;[Anexar [!DNL Analytics for Advertising Cloud] Macros a [!DNL Flashtalking] Etiquetas de publicidad](/help/integrations/analytics/macros-flashtalking.md).&quot; |
-| 27 de octubre de 2021 | [!DNL Analytics for Advertising Cloud] | Si su organización desea dejar de utilizar el Adobe Analytics heredado `visitorAPI.js` a la biblioteca [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) biblioteca (`alloy.js`) para la recopilación de datos, deberá realizar algunos cambios para habilitar la vinculación de ID. | Consulte &quot;[Al usar la variable [!DNL Last Event Service] Biblioteca JavaScript con Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md).&quot; |
-| 26 de mayo de 2021 | Ayuda | El capítulo &quot;[!DNL Analytics for Advertising Cloud]&quot; ahora incluye un subcapítulo sobre &quot;Trabajar en [!DNL Analytics Marketing Channels].&quot; | Consulte: &quot;[Aspectos básicos de los canales de marketing](/help/integrations/analytics/marketing-channels/mc-overview.md),&quot;[Uso de Advertising Cloud ID para crear [!DNL Analytics Marketing Channels] Reglas de procesamiento](/help/integrations/analytics/marketing-channels/mc-ids.md),&quot;[Uso [!DNL Analytics Marketing Channels] con datos de Advertising Cloud](/help/integrations/analytics/marketing-channels/mc-ac-data.md),&quot; y &quot;[Por qué los datos de canal pueden variar entre Advertising Cloud y [!DNL Analytics Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md).&quot; |
-| 26 de mayo de 2021 | Ayuda | Un vínculo a todos los tutoriales en vídeo sobre [!DNL Analytics for Advertising Cloud] se ha añadido. | [Tutoriales en vídeo sobre las integraciones de Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html) |
+| 1 de noviembre de 2022 | Ayuda | Un nuevo documento explica cómo implementar el uso compartido de señales de pulsaciones y visualizaciones entre Advertising DSP y Adobe Target, configurar una actividad de prueba A/B en [!DNL Target] para sus anuncios DSP y cómo configurar Adobe Analytics Analysis Workspace para que vea los datos de prueba. | Consulte &quot;[Configuración de pruebas A/B en Adobe Target para anuncios DSP](/help/integrations/target/overview-ab-tests.md).&quot; |
+| 17 de agosto de 2022 | Ayuda | Un nuevo capítulo explica todas las formas en que la publicidad de Adobe está integrada con Adobe Audience Manager. | Consulte el capítulo &quot;Integración con Adobe Audience Manager&quot;, que incluye información general sobre &quot;[Integraciones de publicidad de Adobe con Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
+| 27 de abril de 2021 | [!DNL Analytics for Advertising] | Descubra por qué y cómo añadir [!DNL Analytics for Advertising] macros a su [!DNL Google Campaign Manager 360] etiquetas de publicidad para enviar datos de clics a Adobe Analytics. | Consulte &quot;[Anexar [!DNL Analytics for Advertising] Macros a [!DNL Google Campaign Manager 360] Etiquetas de publicidad](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
+| 19 de abril de 2021 | [!DNL Analytics for Advertising] | Descubra por qué y cómo anexar macros a su [!DNL Flashtalking] etiquetas de publicidad para enviar datos de clics a Adobe Analytics. | Consulte &quot;[Anexar [!DNL Analytics for Advertising] Macros a [!DNL Flashtalking] Etiquetas de publicidad](/help/integrations/analytics/macros-flashtalking.md).&quot; |
+| 27 de octubre de 2021 | [!DNL Analytics for Advertising] | Si su organización desea dejar de utilizar el Adobe Analytics heredado `visitorAPI.js` a la biblioteca [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) biblioteca (`alloy.js`) para la recopilación de datos, deberá realizar algunos cambios para habilitar la vinculación de ID. | Consulte &quot;[Al usar la variable [!DNL Last Event Service] Biblioteca JavaScript con Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md).&quot; |
+| 26 de mayo de 2021 | Ayuda | El capítulo &quot;[!DNL Analytics for Advertising]&quot; ahora incluye un subcapítulo sobre &quot;Trabajar en [!DNL Analytics Marketing Channels].&quot; | Consulte: &quot;[Aspectos básicos de los canales de marketing](/help/integrations/analytics/marketing-channels/mc-overview.md),&quot;[Uso de ID de publicidad de Adobe para crear [!DNL Analytics Marketing Channels] Reglas de procesamiento](/help/integrations/analytics/marketing-channels/mc-ids.md),&quot;[Uso [!DNL Analytics Marketing Channels] con datos publicitarios de Adobe](/help/integrations/analytics/marketing-channels/mc-ac-data.md),&quot; y &quot;[Por qué los datos de canal pueden variar entre la publicidad de Adobe y [!DNL Analytics Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md).&quot; |
+| 26 de mayo de 2021 | Ayuda | Un vínculo a todos los tutoriales en vídeo sobre [!DNL Analytics for Advertising] se ha añadido. | [Tutoriales en vídeo sobre las integraciones de publicidad de Adobe](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html) |
 
 {style=&quot;table-layout:auto&quot;}
 
 <!-- At some point, just make this an overview page instead?
 
-Adobe Advertising Cloud is integrated with the following Adobe Experience Cloud products:
+Adobe Advertising is integrated with the following Adobe Experience Cloud products:
 
 * [Adobe Analytics](/help/integrations/analytics/overview.md)
 
 * Adobe Audience Manager
 
-* Adobe Campaign (Advertising Cloud Search only)
+* Adobe Campaign (Adobe Advertising Search only)
 
  -->

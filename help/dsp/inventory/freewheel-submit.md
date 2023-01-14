@@ -2,7 +2,8 @@
 title: Enviar una publicidad para un acuerdo de PG a [!DNL FreeWheel]
 description: Obtenga información sobre cómo solicitar la aprobación de una publicidad para una oferta garantizada mediante programación con un editor en [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 6cb41f3b-29e4-4feb-9c31-578ab40bd4f7
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -22,8 +23,11 @@ Una vez que [aceptar un acuerdo garantizado programático con un editor en FreeW
 1. Copie la clave de publicidad de la publicidad utilizada con la [!DNL Freewheel] oferta:
 
    1. Haga clic en el nombre de la campaña.
+
    1. En el submenú, haga clic en **[!UICONTROL Ads]**.
+
    1. Haga clic en  **[!UICONTROL ...]>[!UICONTROL Edit]** junto al nombre del anuncio.
+
    1. Una vez que se abra la configuración de la publicidad, copie la clave de publicidad alfanumérica en la dirección URL que se muestra en la barra de direcciones del explorador.
 
       Por ejemplo, en la siguiente dirección URL, la clave de publicidad es `3NtNC5ZbaGZtqbei8jD3`
@@ -35,6 +39,7 @@ Una vez que [aceptar un acuerdo garantizado programático con un editor en FreeW
    1. Realice una de las siguientes acciones:
 
       * Junto al nombre del anuncio, haga clic en  **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]**.
+
       * En el menú principal, haga clic en **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**. En la fila de acuerdo, haga clic en ![Menú Opciones](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
    1. Compruebe el ID de la oferta, introduzca la variable **[!UICONTROL Ad Key]** ha copiado en el paso 1 y, a continuación, haga clic en **[!UICONTROL Submit]**.
 

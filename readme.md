@@ -1,13 +1,13 @@
 ---
-source-git-commit: 0654347afd1caf5e9bd8ccabf41a8a591e604df5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-# Documentación colaborativa para Advertising Cloud
+# Documentación colaborativa para la publicidad de Adobe
 
-Este es el repositorio de documentación para Adobe Advertising Cloud, incluidos documentos de DSP y entre productos. (Más adelante, incluirá documentos para la búsqueda y, posiblemente, (?) para creativos).
+Este es el repositorio de documentación para Publicidad de Adobe, que incluye documentos entre productos y DSP. (Más adelante, incluirá documentos para la búsqueda y, posiblemente, (?) para creativos).
 
 **Nota: Esta página no se publica en la documentación de cara al cliente.**
 
@@ -52,7 +52,7 @@ Este es el repositorio de documentación para Adobe Advertising Cloud, incluidos
 
 Para obtener más instrucciones de publicación, guías de estilo, ejemplos y otros recursos, consulte:
 
-+ [Contribución de guías de creación **específicamente para Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [Contribución de guías de creación **específicamente para la publicidad de Adobe**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
 + [Creación colaborativa para todos los redactores de Adobe](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 Consulte también:
