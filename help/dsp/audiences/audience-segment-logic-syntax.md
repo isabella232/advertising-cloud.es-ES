@@ -2,8 +2,7 @@
 title: Sintaxis para la lógica del segmento de audiencia
 description: Haga referencia a la sintaxis que puede utilizar para definir la lógica de los segmentos de audiencia.
 feature: DSP Audiences
-exl-id: 3a51b1b5-1eef-453b-9be5-0694e27491a8
-source-git-commit: efd04189de975f8f075dec7851a3a06d2d647ded
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

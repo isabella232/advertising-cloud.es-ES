@@ -2,10 +2,9 @@
 title: Ver píxeles de un evento para un [!UICONTROL Simple Ad Serving] Acuerdo
 description: Obtenga información sobre cómo obtener una copia de píxeles de seguimiento de eventos para un [!UICONTROL Simple Ad Serving] trato.
 feature: DSP Simple Ad Serving
-exl-id: 88d18ddd-98ba-4e36-890c-d6ddfb7d59e5
-source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---

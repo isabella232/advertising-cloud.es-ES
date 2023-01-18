@@ -2,10 +2,9 @@
 title: Ver el estado de su [!DNL On Demand] Solicitudes de ofertas y suscripciones
 description: Obtenga información sobre cómo ver el estado de su [!DNL On Demand] gestionar solicitudes y suscripciones.
 feature: DSP On Demand Inventory
-exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---

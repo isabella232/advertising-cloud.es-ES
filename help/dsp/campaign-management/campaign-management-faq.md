@@ -1,22 +1,21 @@
 ---
-title: Preguntas frecuentes sobre la administración de campañas
+title: Preguntas frecuentes sobre Campaign Management
 description: Obtenga más información sobre la administración de campañas, incluido el periodo de latencia para los cambios y lo que sucede cuando realiza cambios en el presupuesto durante un vuelo.
 feature: DSP Packages, DSP Placements
-exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-# Preguntas frecuentes sobre la administración de campañas
+# Preguntas frecuentes sobre Campaign Management
 
 <!-- Most of this information should be moved into the relevant topics (especially editing topics). -->
 
 ## Latencia de configuración de cambios
 
-* Al cambiar una ubicación o configuración de paquete, ¿cuándo tendrá efecto el cambio?
+* Cuando cambia una ubicación o configuración de paquete, ¿cuándo tendrá efecto el cambio?
 
    Los cambios de configuración suelen tener efecto inmediatamente, pero pueden tardar hasta 12 horas.
 
@@ -40,7 +39,7 @@ ht-degree: 0%
 
 * ¿Cómo cambia el ritmo del paquete en el último día de un vuelo?
 
-   En el último día de un vuelo, el día se acorta de 24 horas a 23 horas para que no se supere el presupuesto del paquete. Además, la estrategia de relleno de ritmo del paquete cambia automáticamente a &quot;[!UICONTROL Frontload]&quot;, aunque esté configurada como &quot;[!UICONTROL even]&quot;. Esto significa que el 65% del presupuesto diario debe entregarse antes de las 11:30 EST.
+   En el último día de un vuelo, el día se acorta de 24 horas a 23 horas para que no se supere el presupuesto del paquete. Además, la estrategia de relleno de ritmo del paquete cambia automáticamente a[!UICONTROL Frontload],&quot; incluso si está configurado como &quot;[!UICONTROL even].&quot; Esto significa que el 65% del presupuesto diario debe entregarse antes de las 11:30 EST.
 
 >[!MORELIKETHIS]
 >

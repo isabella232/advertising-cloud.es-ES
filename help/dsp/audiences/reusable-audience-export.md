@@ -2,7 +2,7 @@
 title: Exportar detalles sobre una audiencia reutilizable
 description: Obtenga información sobre cómo ver la configuración, el tamaño de la audiencia y las ubicaciones de destino para una audiencia reutilizable.
 feature: DSP Audiences
-source-git-commit: 0a437213957f914643b4eff63aba65cf582824c6
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

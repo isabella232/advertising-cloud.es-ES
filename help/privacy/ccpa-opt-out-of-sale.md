@@ -2,8 +2,7 @@
 title: 'Compatibilidad de Adobe Advertising con la Ley de Privacidad del Consumidor de California : Compatibilidad con la exclusión de ventas del consumidor'
 description: Obtenga información sobre la compatibilidad para capturar solicitudes de exclusión de venta de clientes.
 feature: CCPA
-exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '1003'
 ht-degree: 0%

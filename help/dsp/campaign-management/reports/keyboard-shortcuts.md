@@ -2,8 +2,7 @@
 title: Métodos abreviados del teclado
 description: Haga referencia a los métodos abreviados del teclado disponibles en la configuración de ubicación.
 feature: DSP Placements
-exl-id: bef0406c-9c10-48ec-b069-b887ef8f66ae
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -12,18 +11,18 @@ ht-degree: 0%
 
 # Métodos abreviados del teclado
 
-Dentro de la configuración de ubicación, utilice los métodos abreviados del teclado para navegar rápidamente<!-- and to create ads and placements -->.
+En la configuración de ubicación, utilice los métodos abreviados del teclado para navegar rápidamente<!-- and to create ads and placements -->.
 
 | Páginas aplicables | Acceso directo | Descripción |
 | ---------------| ----------- | ---------------------- |
-| Configuración de colocación | o | Lo mueve a la configuración [!UICONTROL Goals] |
-| Configuración de colocación | g | Lo mueve a la configuración [!UICONTROL Geos] |
-| Configuración de colocación | i | Lo mueve a la configuración [!UICONTROL Inventory] |
-| Configuración de colocación | s | Lo mueve a la configuración [!UICONTROL Sites] |
-| Configuración de colocación | a | Lo mueve a la configuración [!UICONTROL Audience] |
-| Configuración de colocación | b | Lo mueve a la configuración [!UICONTROL Brand Safety] |
-| Configuración de colocación | t | Lo mueve a la configuración [!UICONTROL Tracking] |
-| Configuración de colocación | l | Lo mueve a la configuración [!UICONTROL Adobe Labs] |
+| Configuración de colocación | o | Le lleva al [!UICONTROL Goals] configuración |
+| Configuración de colocación | g | Le lleva al [!UICONTROL Geos] configuración |
+| Configuración de colocación | i | Le lleva al [!UICONTROL Inventory] configuración |
+| Configuración de colocación | s | Le lleva al [!UICONTROL Sites] configuración |
+| Configuración de colocación | a | Le lleva al [!UICONTROL Audience] configuración |
+| Configuración de colocación | b | Le lleva al [!UICONTROL Brand Safety] configuración |
+| Configuración de colocación | t | Le lleva al [!UICONTROL Tracking] configuración |
+| Configuración de colocación | l | Le lleva al [!UICONTROL Adobe Labs] configuración |
 
 {style=&quot;table-layout:auto&quot;}
 

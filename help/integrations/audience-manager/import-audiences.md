@@ -2,8 +2,7 @@
 title: Importación de segmentos de Adobe Audience Manager para la segmentación de anuncios
 description: Obtenga información sobre cómo importar su [!DNL Adobe] audiencias en Advertising DSP y Buscar con Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
-exl-id: 08a40148-b7d2-442b-81e8-f3aec4fca7df
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '764'
 ht-degree: 0%

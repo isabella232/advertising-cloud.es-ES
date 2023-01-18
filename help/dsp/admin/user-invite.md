@@ -1,9 +1,9 @@
 ---
 title: Invitar a un nuevo usuario a su cuenta de organización
 description: Obtenga información sobre cómo invitar a un nuevo usuario a unirse a la cuenta.
-source-git-commit: 65d5b9275b24d66972f464a07d6e1a751721ada2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Si es necesario, puede desinvitar a un usuario con una invitación pendiente.
 
 >[!MORELIKETHIS]
 >
->* [Reenviar una invitación de usuario pendiente para su cuenta de organización](user-resend-invite.md)
+>* [Reenviar una invitación de usuario pendiente](user-resend-invite.md)
 >* [Desinvitar a un usuario pendiente](user-uninvite.md)
 
 

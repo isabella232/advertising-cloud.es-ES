@@ -2,8 +2,7 @@
 title: Configuración de paquetes
 description: Consulte las descripciones de la configuración de paquetes disponible.
 feature: DSP Packages
-exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '797'
 ht-degree: 0%
@@ -98,7 +97,7 @@ Para los paquetes con delimitación personalizada, el intervalo presupuestario s
 
 * *[!UICONTROL Aggressive Frontload]:* Acelera el envío para que esté entre un 75 y un 85% a mitad del vuelo.
 
-**[!UICONTROL Intraday pacing]:** (Paquetes solo con ritmo de nivel de paquete) Cómo rastrear el envío de anuncios a lo largo de cada día dentro del vuelo:
+**[!UICONTROL Intraday pacing]:** (Paquetes solo con ritmo de nivel de paquete) Cómo rastrear la entrega de anuncios a lo largo de cada día dentro del vuelo:
 
 * *[!UICONTROL Even]:* (El valor predeterminado) Escala la entrega según la disponibilidad del inventario. Por lo general, se entregan más anuncios por hora durante el día, cuando el volumen de la subasta es mayor, y se entregan menos anuncios por la mañana y por la noche.
 

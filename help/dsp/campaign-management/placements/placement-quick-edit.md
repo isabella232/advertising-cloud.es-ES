@@ -2,8 +2,7 @@
 title: Editar rápidamente la configuración de colocación de claves
 description: Aprenda a cambiar rápidamente la configuración de colocación de claves.
 feature: DSP Placements
-exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

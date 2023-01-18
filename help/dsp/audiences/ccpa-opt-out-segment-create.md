@@ -2,8 +2,7 @@
 title: Creación e implementación de un segmento de exclusión de venta de CCPA
 description: Obtenga información sobre cómo crear e implementar un segmento para rastrear los ID de usuario de solicitudes de exclusión de venta de clientes.
 feature: CCPA, DSP Segments
-exl-id: aebe0c5b-382f-4e4a-b145-c32f32d216ca
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%

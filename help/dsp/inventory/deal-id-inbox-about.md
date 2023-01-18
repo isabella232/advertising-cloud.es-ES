@@ -2,8 +2,7 @@
 title: Acerca de [!UICONTROL Deal ID Inbox]
 description: Obtenga información sobre [!UICONTROL Deal ID inbox] , que le permite aceptar ofertas privadas que ya ha negociado con editores en [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conocido como [!DNL AdX]), and [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%

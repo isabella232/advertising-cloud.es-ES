@@ -2,8 +2,7 @@
 title: Descargar la configuración de colocación de una campaña
 description: Obtenga información sobre cómo descargar la configuración de colocación de una campaña mediante hojas de cálculo de control de calidad de Excel.
 feature: DSP Placements
-exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +13,7 @@ ht-degree: 0%
 
 Puede descargar la configuración de colocación de una campaña en formato XLSX (hoja de cálculo de Excel).
 
-Si es necesario, posteriormente puede editar [seleccionar campos](qa-sheet-columns.md) en el archivo descargado y [cargar los cambios](qa-sheet-upload.md) en DSP.
+Si es necesario, puede editar posteriormente [seleccionar campos](qa-sheet-columns.md) en el archivo descargado y [cargar los cambios](qa-sheet-upload.md) a DSP.
 
 1. En el menú principal, haga clic en **[!UICONTROL Campaigns]**.
 
@@ -31,7 +30,7 @@ Si es necesario, posteriormente puede editar [seleccionar campos](qa-sheet-colum
    * En el mensaje de notificación, haga clic en **[!UICONTROL Download].**
 
    * En la parte derecha de la barra de menús superior, haga clic en ![Trabajos](/help/dsp/assets/downloads.png). Haga clic en **[!UICONTROL Download]** junto al trabajo.
-   El archivo se guarda en la carpeta Descargar del explorador. Consulte &quot;[Columnas en hojas de cálculo descargadas/cargadas](qa-sheet-columns.md)&quot; para obtener una lista de las columnas incluidas.
+   El archivo se guarda en la carpeta Descargar del explorador. Consulte &quot;[Columnas de hojas de cálculo descargadas o cargadas](qa-sheet-columns.md)&quot; para obtener una lista de las columnas incluidas.
 
 >[!MORELIKETHIS]
 >

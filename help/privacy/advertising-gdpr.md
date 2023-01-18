@@ -2,8 +2,7 @@
 title: Compatibilidad publicitaria del Adobe con el Reglamento General de Protección de Datos
 description: Obtenga información sobre los tipos de solicitudes de datos compatibles, los valores de campo y configuración necesarios, y ejemplos de solicitudes de acceso a API que utilizan ID de productos heredados y campos de datos devueltos
 feature: GDPR
-exl-id: 304d88d0-d63d-4b32-8d4d-c61ba2409adc
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '1034'
 ht-degree: 0%

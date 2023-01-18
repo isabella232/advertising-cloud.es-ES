@@ -2,8 +2,7 @@
 title: Recuperar informes de exclusión de ventas de consumidores
 description: Obtenga información sobre cómo recuperar informes de ID enviados para solicitudes de exclusión de venta.
 feature: CCPA, DSP Segments
-exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%

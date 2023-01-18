@@ -2,10 +2,9 @@
 title: Ver un informe detallado de una campaña
 description: Obtenga información sobre cómo abrir un informe de nivel de campaña con secciones sobre datos de Geografía, Dispositivo, Visibilidad y Rendimiento de audiencia.
 feature: DSP Campaigns, DSP Campaign Data Views
-exl-id: 88fd3cdc-18af-4d3c-a93e-88058d56aabc
-source-git-commit: b96f5673079b5f8f4bb5ceebd1935d3f82844eb7
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

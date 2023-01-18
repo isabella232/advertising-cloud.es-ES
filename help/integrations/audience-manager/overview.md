@@ -2,8 +2,7 @@
 title: Integraciones de publicidad de Adobe con Adobe Audience Manager
 description: Obtenga información sobre las distintas formas en que la publicidad de Adobe puede intercambiar datos con Adobe Audience Manager.
 feature: Integration with Adobe Audience Manager
-exl-id: 0f88235b-6f9c-4b97-9517-22e8c47e1846
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%

@@ -1,9 +1,9 @@
 ---
 title: Desinvitar a un usuario pendiente
 description: Obtenga información sobre cómo rescindir una invitación de usuario pendiente.
-source-git-commit: baa351de79532352f28d2dc5691c2e425a8e3207
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Puede desinvitar a un usuario con una invitación pendiente. Al no invitar a un 
 >[!MORELIKETHIS]
 >
 >* [Invitar a un nuevo usuario a su cuenta de organización](user-invite.md)
->* [Reenviar una invitación de usuario pendiente para su cuenta de organización](user-resend-invite.md)
+>* [Reenviar una invitación de usuario pendiente](user-resend-invite.md)
 
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

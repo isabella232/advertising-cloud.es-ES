@@ -2,10 +2,9 @@
 title: Editar los anunciantes con acceso a un acuerdo privado
 description: Aprenda a especificar qué anunciantes pueden acceder a una oferta privada.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
-source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
