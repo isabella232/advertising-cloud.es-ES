@@ -3,9 +3,9 @@ title: Crear manualmente detalles de ID de acuerdo
 description: Obtenga información sobre cómo introducir manualmente los detalles de un ID de acuerdo.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
-source-git-commit: 3f80cdd81b1ba28519d3075922f57a1155e55dbd
+source-git-commit: bc5f05faf96d455bd8954e7f7f44cc9fe849e562
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,9 @@ ht-degree: 0%
 
 1. Introduzca la variable [configuración de acuerdo](deal-id-settings.md):
 
-   1. En el [!UICONTROL Deal ID basics] , especifique los detalles de la oferta y los anunciantes que pueden acceder a la oferta. Para ofertas garantizadas, también debe especificar las fechas de vuelo previstas y el número estimado de impresiones, solo con fines de seguimiento. Rastree el ritmo de acuerdo garantizado con la métrica de ritmo de impresión PG en la página Ofertas .
+   1. En el [!UICONTROL Deal ID basics] , especifique los detalles de la oferta y los anunciantes que pueden acceder a la oferta. Para ofertas garantizadas, también debe especificar las fechas de vuelo previstas y el número estimado de impresiones, solo con fines de seguimiento.
+
+      Puede rastrear el ritmo de oferta garantizado incluyendo la columna de gasto &quot;PG Impression Pacing&quot; en la vista Inventario > Ofertas.
 
    1. (Solo usuarios administradores; (opcional) En la [!UICONTROL Technical] , edite la configuración predeterminada según sea necesario.
 
