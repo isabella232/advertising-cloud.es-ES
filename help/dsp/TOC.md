@@ -8,10 +8,10 @@ user-guide-title: Guía de DSP de publicidad
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
+source-git-commit: d928b19b868ffc87d5962391f06d765f9da7c13a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '930'
+ht-degree: 5%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 0%
    + [Financiación de cuentas](/help/dsp/introduction/billing/account-funding.md)
    + [Monedas admitidas](/help/dsp/currency.md)
    + Compatibilidad con la privacidad del consumidor {#privacy}
-      + [Cumplimiento del Reglamento General de Protección de Datos](/help/privacy/gdpr.md)
+      + [Cumplimiento del Reglamento General de Protección de Datos](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
       + Compatibilidad con la CCPA {#ccpa}
-         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Acceso y eliminación de datos del consumidor](/help/privacy/ccpa/ccpa-access-delete.md)
-         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Exclusión de la venta del consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Acceso y eliminación de datos del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
+         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Exclusión de la venta del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
    + Políticas y directrices {#policies}
       + [Política de requisitos de anuncios](/help/policies/ad-requirements-policy.md)
       + [Directrices de segmentos de mantenimiento aceptables](/help/policies/health-segment-guidelines.md)
