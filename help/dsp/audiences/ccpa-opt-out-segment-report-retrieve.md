@@ -2,9 +2,10 @@
 title: Recuperar informes de exclusión de ventas de consumidores
 description: Obtenga información sobre cómo recuperar informes de ID enviados para solicitudes de exclusión de venta.
 feature: CCPA, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 94133ce3-4e2c-4a24-90c9-61bf10731668
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Puede recuperar informes mensuales de los ID que los clientes han enviado para s
 
 >[!MORELIKETHIS]
 >
->* [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Acerca de [!UICONTROL CCPA Opt-out-of-Sale] Segmentos e informes](ccpa-opt-out-about.md)
 >* [Cree e implemente un [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Acerca de la gestión de público](audience-about.md)

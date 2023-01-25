@@ -2,9 +2,10 @@
 title: Creación e implementación de un segmento de exclusión de venta de CCPA
 description: Obtenga información sobre cómo crear e implementar un segmento para rastrear los ID de usuario de solicitudes de exclusión de venta de clientes.
 feature: CCPA, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ Una vez implementada la etiqueta de píxeles del segmento, la publicidad de Adob
 
 >[!NOTE]
 >
->* Para obtener información sobre cómo comunicar las solicitudes de exclusión de CCPA a Adobe de publicidad mediante la API de Adobe Experience Platform Privacy Service, consulte [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html).
+>* Para obtener información sobre cómo comunicar las solicitudes de exclusión de CCPA a Adobe de publicidad mediante la API de Adobe Experience Platform Privacy Service, consulte [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 >* Para rastrear a los usuarios que visitan páginas web con fines no relacionados con el seguimiento de eventos de exclusión de CCPA, así como a los usuarios expuestos a anuncios de dispositivos de escritorio, móviles y CTV, cree un [segmento personalizado](/help/dsp/audiences/custom-segment-create.md).
 
 
@@ -60,7 +61,7 @@ Una vez implementada la etiqueta de píxeles del segmento, la publicidad de Adob
 
 >[!MORELIKETHIS]
 >
->* [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Acerca de [!UICONTROL CCPA Opt-out-of-Sale] Segmentos e informes](ccpa-opt-out-about.md)
 >* [Recuperar informes de exclusión de ventas de consumidores](ccpa-opt-out-segment-report-retrieve.md)
 >* [Crear e implementar un segmento personalizado](custom-segment-create.md)

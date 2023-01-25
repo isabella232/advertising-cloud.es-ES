@@ -2,7 +2,8 @@
 title: Acerca de [!UICONTROL CCPA Opt-out-of-Sale] Segmentos e informes
 description: Obtenga información sobre la creación de segmentos para rastrear los ID de solicitudes de exclusión de venta de CCPA y cómo recuperar informes de los ID.
 feature: CCPA, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 28b5e00b-a695-46f1-abbf-7bbd78f05411
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -25,7 +26,7 @@ Puede [recuperar vínculos a los informes mensuales](ccpa-opt-out-segment-report
 
 >[!MORELIKETHIS]
 >
->* [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Cree e implemente un [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Recuperar informes de exclusión de ventas de consumidores](ccpa-opt-out-segment-report-retrieve.md)
 >* [Acerca de la gestión de público](audience-about.md)

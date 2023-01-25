@@ -2,7 +2,8 @@
 title: Acerca de la gestión de público en las DSP publicitarias
 description: Obtenga información sobre las funciones de gestión de público.
 feature: DSP Audiences, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 0%
@@ -19,7 +20,7 @@ En DSP, puede crear y administrar segmentos de audiencia y conjuntos de audienci
 
    * [Segmentos de exclusión de CCPA](/help/dsp/audiences/ccpa-opt-out-segment-create.md) para realizar un seguimiento de los ID de usuario procedentes de solicitudes de exclusión de venta de consumidores en su sitio web, según la Ley de privacidad del consumidor de California (CCPA). Puede recuperar informes mensuales de los ID de usuario a partir de solicitudes de exclusión de venta.
 
-      Para obtener más información sobre la compatibilidad de la publicidad de Adobe con las solicitudes de exclusión de CCPA, consulte [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ccpa-opt-out-of-sale.md).
+      Para obtener más información sobre la compatibilidad de la publicidad de Adobe con las solicitudes de exclusión de CCPA, consulte [Soporte publicitario de Adobe para la Ley de Privacidad del Consumidor de California: Compatibilidad con la exclusión del consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
 * Puede crear una biblioteca de audiencias de [audiencias reutilizables](/help/dsp/audiences/reusable-audience-create.md). Las audiencias guardadas se componen de cualquiera de los segmentos de audiencia disponibles y de cualquiera de las otras audiencias guardadas. Cualquier cambio que realice en una audiencia guardada se aplicará automáticamente a todas las ubicaciones que segmenten o excluyan la audiencia y a todas las demás audiencias que incluyan la audiencia guardada.
 

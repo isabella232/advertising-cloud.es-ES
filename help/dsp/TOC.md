@@ -8,10 +8,10 @@ user-guide-title: Guía de DSP de publicidad
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: f04fdb7f4f9787804e526b49da2aad0f4e15679a
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 5%
    + [Financiación de cuentas](/help/dsp/introduction/billing/account-funding.md)
    + [Monedas admitidas](/help/dsp/currency.md)
    + Compatibilidad con la privacidad del consumidor {#privacy}
-      + [Cumplimiento del Reglamento General de Protección de Datos](/help/privacy/advertising-gdpr.md)
+      + [Cumplimiento del Reglamento General de Protección de Datos](/help/privacy/gdpr.md)
       + Compatibilidad con la CCPA {#ccpa}
-         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Acceso y eliminación de datos del consumidor](/help/privacy/ccpa-access-delete.md)
-         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Exclusión de la venta del consumidor](/help/privacy/ccpa-opt-out-of-sale.md)
+         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Acceso y eliminación de datos del consumidor](/help/privacy/ccpa/ccpa-access-delete.md)
+         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Exclusión de la venta del consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
    + Políticas y directrices {#policies}
       + [Política de requisitos de anuncios](/help/policies/ad-requirements-policy.md)
       + [Directrices de segmentos de mantenimiento aceptables](/help/policies/health-segment-guidelines.md)
