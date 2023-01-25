@@ -8,9 +8,9 @@ user-guide-title: Guía de DSP de publicidad
 user-guide-description: Obtenga información acerca las principales funciones, tareas, configuraciones y otros recursos necesarios para administrar, optimizar e informar las estrategias de anuncio en pantalla con Advertising DSP.
 breadcrumb-title: Guía de DSP
 index: true
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: f04fdb7f4f9787804e526b49da2aad0f4e15679a
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '910'
 ht-degree: 5%
 
 ---
@@ -36,14 +36,14 @@ ht-degree: 5%
    + [Financiación de cuentas](/help/dsp/introduction/billing/account-funding.md)
    + [Monedas admitidas](/help/dsp/currency.md)
    + Compatibilidad con la privacidad del consumidor {#privacy}
-      + [Cumplimiento del Reglamento General de Protección de Datos](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
+      + [Cumplimiento del Reglamento General de Protección de Datos](/help/privacy/advertising-gdpr.md)
       + Compatibilidad con la CCPA {#ccpa}
-         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Acceso y eliminación de datos del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Exclusión de la venta del consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
+         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Acceso y eliminación de datos del consumidor](/help/privacy/ccpa-access-delete.md)
+         + [Cumplimiento de la Ley de Privacidad del Consumidor de California: Exclusión de la venta del consumidor](/help/privacy/ccpa-opt-out-of-sale.md)
    + Políticas y directrices {#policies}
-      + [Política de requisitos de anuncios](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
-      + [Directrices de segmentos de mantenimiento aceptables](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
-      + [[!DNL DSP] Directrices de uso de datos](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
+      + [Política de requisitos de anuncios](/help/policies/ad-requirements-policy.md)
+      + [Directrices de segmentos de mantenimiento aceptables](/help/policies/health-segment-guidelines.md)
+      + [[!DNL DSP] Directrices de uso de datos](/help/policies/data-usage-guidelines.md)
    + [Soluciones de medición avanzadas](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Descripción general de la estructura de Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
